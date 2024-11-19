@@ -48,35 +48,42 @@ const chalk = require('chalk');
 
 require('./webscrap/ktc');
 
-// Run matchup scraping 1 min hour after ktc
+
+// Run matchup scraping 1 min after ktc
 setTimeout(() => {
     require('./webscrap/start&sit');
 }, 60000);  // Delay of 1 minute
 
-// Run projectionPpr scraping 2 min after ktc
+// Run projectionPpr scraping after 2 min
 setTimeout(() => {
     require('./webscrap/projectionPpr');
 }, 120000);  // Delay of 2 minutes
 
-// Run projectionStd scraping 3 min after ktc
+// Run projectionStd scraping after 3 min
 setTimeout(() => {
     require('./webscrap/projectionStd');
 }, 180000);  // Delay of 3 minutes
 
-// Run projectionHalf scraping 4 min after ktc
+// Run projectionHalf scraping after 4 min
 setTimeout(() => {
     require('./webscrap/projectionHalf');
 }, 240000);  // Delay of 4 minutes
 
-// Run pastProduction scraping 5 min after ktc
+// Run pastProduction scraping after 5 min
 setTimeout(() => {
     require('./webscrap/pastProduction');
 }, 300000);  // Delay of 5 minutes
 
-// Run bettingData scraping 5 min after ktc
+// Run bettingData scraping after 6 min
 setTimeout(() => {
     require('./webscrap/bettingData');
 }, 360000);  // Delay of 6 minutes
+
+// Run dynastyProcess scraping after 7 min
+setTimeout(() => {
+    require('./webscrap/dynastyProcess');    
+}, 420000); // Delay of 7 minutes
+
 
 
 connectDB.then(() => {

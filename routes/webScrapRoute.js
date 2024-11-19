@@ -104,4 +104,20 @@ router.get('/betting', async (req, res) => {
 
 
 
+router.get('/dynastyprocess', async (req, res) => {
+    const filePath = path.join(__dirname, '../webscrap/dynastyProcessJSON.json'); // Path to your JSON file
+
+    // Read the file asynchronously
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            // If there's an error reading the file, send a 500 response with the error
+            return res.status(500).json({ error: 'Unable to read data from file', details: err });
+        }
+
+        // Send the JSON data as the response
+        res.json(JSON.parse(data));
+    });
+})
+
+
 module.exports = router

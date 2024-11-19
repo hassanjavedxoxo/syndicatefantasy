@@ -9,7 +9,7 @@
     },
     "matchup2": {
       "value": 1.15,
-      "color": "rgb(198, 232, 216)"
+      "color": "rgb(202, 234, 218)"
     },
     "opp_team": "DEN",
     "opp_position": "RCB",
@@ -26,7 +26,7 @@
     },
     "matchup2": {
       "value": 1.19,
-      "color": "rgb(178, 224, 202)"
+      "color": "rgb(182, 226, 205)"
     },
     "opp_team": "DEN",
     "opp_position": "LCB",
@@ -60,7 +60,7 @@
     },
     "matchup2": {
       "value": 1,
-      "color": "rgb(251, 232, 231)"
+      "color": "rgb(250, 229, 227)"
     },
     "opp_team": "PIT",
     "opp_position": "RCB",
@@ -77,7 +77,7 @@
     },
     "matchup2": {
       "value": 1.21,
-      "color": "rgb(155, 215, 185)"
+      "color": "rgb(167, 219, 194)"
     },
     "opp_team": "PIT",
     "opp_position": "LCB",
@@ -94,7 +94,7 @@
     },
     "matchup2": {
       "value": 0.95,
-      "color": "rgb(249, 220, 218)"
+      "color": "rgb(248, 217, 214)"
     },
     "opp_team": "PIT",
     "opp_position": "SCB",
@@ -145,7 +145,7 @@
     },
     "matchup2": {
       "value": 1.29,
-      "color": "rgb(131, 205, 169)"
+      "color": "rgb(143, 210, 177)"
     },
     "opp_team": "KC",
     "opp_position": "SCB",
@@ -162,7 +162,7 @@
     },
     "matchup2": {
       "value": 1.02,
-      "color": "rgb(252, 239, 237)"
+      "color": "rgb(252, 235, 234)"
     },
     "opp_team": "GB",
     "opp_position": "RCB",
@@ -179,7 +179,7 @@
     },
     "matchup2": {
       "value": 0.99,
-      "color": "rgb(250, 226, 224)"
+      "color": "rgb(249, 223, 221)"
     },
     "opp_team": "GB",
     "opp_position": "LCB",
@@ -196,7 +196,7 @@
     },
     "matchup2": {
       "value": 1.02,
-      "color": "rgb(253, 242, 241)"
+      "color": "rgb(252, 239, 237)"
     },
     "opp_team": "GB",
     "opp_position": "SCB",
@@ -212,8 +212,8 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.21,
-      "color": "rgb(159, 216, 188)"
+      "value": 1.19,
+      "color": "rgb(186, 227, 207)"
     },
     "opp_team": "LAC",
     "opp_position": "RCB",
@@ -229,12 +229,12 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.27,
-      "color": "rgb(135, 207, 172)"
+      "value": 1.25,
+      "color": "rgb(147, 211, 180)"
     },
     "opp_team": "LAC",
     "opp_position": "LCB",
-    "opponent": "Tarheeb Still",
+    "opponent": "Kristian Fulton",
     "recommendation": "Neutral"
   },
   {
@@ -246,12 +246,12 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.79,
+      "value": 0.78,
       "color": "rgb(237, 158, 152)"
     },
     "opp_team": "LAC",
     "opp_position": "SCB",
-    "opponent": "Ja'Sir Taylor",
+    "opponent": "Tarheeb Still",
     "recommendation": "Sit"
   },
   {
@@ -281,7 +281,7 @@
     },
     "matchup2": {
       "value": 1.06,
-      "color": "rgb(242, 250, 246)"
+      "color": "rgb(246, 251, 249)"
     },
     "opp_team": "NO",
     "opp_position": "LCB",
@@ -298,7 +298,7 @@
     },
     "matchup2": {
       "value": 1.15,
-      "color": "rgb(194, 231, 213)"
+      "color": "rgb(198, 232, 216)"
     },
     "opp_team": "NO",
     "opp_position": "SCB",
@@ -315,7 +315,7 @@
     },
     "matchup2": {
       "value": 0.65,
-      "color": "rgb(232, 134, 125)"
+      "color": "rgb(233, 137, 129)"
     },
     "opp_team": "HST",
     "opp_position": "RCB",
@@ -332,7 +332,7 @@
     },
     "matchup2": {
       "value": 0.94,
-      "color": "rgb(246, 208, 204)"
+      "color": "rgb(247, 211, 208)"
     },
     "opp_team": "HST",
     "opp_position": "LCB",
@@ -349,7 +349,7 @@
     },
     "matchup2": {
       "value": 1.38,
-      "color": "rgb(111, 197, 155)"
+      "color": "rgb(115, 199, 158)"
     },
     "opp_team": "HST",
     "opp_position": "SCB",
@@ -365,13 +365,13 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.15,
-      "color": "rgb(190, 229, 210)"
+      "value": 1.3,
+      "color": "rgb(139, 208, 174)"
     },
     "opp_team": "ATL",
     "opp_position": "RCB",
     "opponent": "A.J. Terrell",
-    "recommendation": "Neutral"
+    "recommendation": "Start"
   },
   {
     "team": "DEN",
@@ -382,13 +382,13 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.95,
-      "color": "rgb(248, 214, 211)"
+      "value": 1.31,
+      "color": "rgb(131, 205, 169)"
     },
     "opp_team": "ATL",
     "opp_position": "LCB",
-    "opponent": "Mike Hughes",
-    "recommendation": "Neutral"
+    "opponent": "Clark Phillips",
+    "recommendation": "Start"
   },
   {
     "team": "DEN",
@@ -399,13 +399,13 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.21,
-      "color": "rgb(167, 219, 194)"
+      "value": 1.42,
+      "color": "rgb(107, 195, 152)"
     },
     "opp_team": "ATL",
     "opp_position": "SCB",
-    "opponent": "Dee Alford",
-    "recommendation": "Neutral"
+    "opponent": "Kevin King",
+    "recommendation": "Start"
   },
   {
     "team": "DET",
@@ -417,7 +417,7 @@
     },
     "matchup2": {
       "value": 1.19,
-      "color": "rgb(174, 223, 199)"
+      "color": "rgb(178, 224, 202)"
     },
     "opp_team": "JAX",
     "opp_position": "RCB",
@@ -434,7 +434,7 @@
     },
     "matchup2": {
       "value": 0.92,
-      "color": "rgb(244, 195, 191)"
+      "color": "rgb(245, 198, 195)"
     },
     "opp_team": "JAX",
     "opp_position": "LCB",
@@ -468,7 +468,7 @@
     },
     "matchup2": {
       "value": 1.04,
-      "color": "rgb(255, 251, 251)"
+      "color": "rgb(254, 248, 247)"
     },
     "opp_team": "CHI",
     "opp_position": "RCB",
@@ -485,7 +485,7 @@
     },
     "matchup2": {
       "value": 1.25,
-      "color": "rgb(139, 208, 174)"
+      "color": "rgb(151, 213, 183)"
     },
     "opp_team": "CHI",
     "opp_position": "LCB",
@@ -502,7 +502,7 @@
     },
     "matchup2": {
       "value": 1.24,
-      "color": "rgb(143, 210, 177)"
+      "color": "rgb(155, 215, 185)"
     },
     "opp_team": "CHI",
     "opp_position": "SCB",
@@ -536,7 +536,7 @@
     },
     "matchup2": {
       "value": 1.05,
-      "color": "rgb(255, 254, 254)"
+      "color": "rgb(255, 251, 251)"
     },
     "opp_team": "DAL",
     "opp_position": "LCB",
@@ -580,14 +580,14 @@
   {
     "team": "IND",
     "position": "RWR",
-    "player": "Adonai Mitchell",
+    "player": "Michael Pittman",
     "metric1": {
-      "value": "36.5%",
+      "value": "82.4%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.84,
-      "color": "rgb(239, 171, 165)"
+      "value": 0.86,
+      "color": "rgb(240, 177, 171)"
     },
     "opp_team": "NYJ",
     "opp_position": "LCB",
@@ -604,7 +604,7 @@
     },
     "matchup2": {
       "value": 1.1,
-      "color": "rgb(222, 242, 232)"
+      "color": "rgb(226, 243, 235)"
     },
     "opp_team": "NYJ",
     "opp_position": "SCB",
@@ -621,7 +621,7 @@
     },
     "matchup2": {
       "value": 1.3,
-      "color": "rgb(127, 203, 166)"
+      "color": "rgb(135, 207, 172)"
     },
     "opp_team": "DET",
     "opp_position": "RCB",
@@ -638,7 +638,7 @@
     },
     "matchup2": {
       "value": 0.93,
-      "color": "rgb(245, 202, 198)"
+      "color": "rgb(246, 205, 201)"
     },
     "opp_team": "DET",
     "opp_position": "LCB",
@@ -740,7 +740,7 @@
     },
     "matchup2": {
       "value": 1.4,
-      "color": "rgb(107, 195, 152)"
+      "color": "rgb(111, 197, 155)"
     },
     "opp_team": "NE",
     "opp_position": "LCB",
@@ -757,7 +757,7 @@
     },
     "matchup2": {
       "value": 1.35,
-      "color": "rgb(115, 199, 158)"
+      "color": "rgb(119, 200, 161)"
     },
     "opp_team": "NE",
     "opp_position": "SCB",
@@ -774,7 +774,7 @@
     },
     "matchup2": {
       "value": 1.18,
-      "color": "rgb(182, 226, 205)"
+      "color": "rgb(190, 229, 210)"
     },
     "opp_team": "CIN",
     "opp_position": "RCB",
@@ -791,7 +791,7 @@
     },
     "matchup2": {
       "value": 1.04,
-      "color": "rgb(254, 248, 247)"
+      "color": "rgb(253, 245, 244)"
     },
     "opp_team": "CIN",
     "opp_position": "LCB",
@@ -825,7 +825,7 @@
     },
     "matchup2": {
       "value": 1.09,
-      "color": "rgb(230, 245, 238)"
+      "color": "rgb(234, 247, 240)"
     },
     "opp_team": "MIA",
     "opp_position": "RCB",
@@ -875,8 +875,8 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.95,
-      "color": "rgb(247, 211, 208)"
+      "value": 0.92,
+      "color": "rgb(244, 195, 191)"
     },
     "opp_team": "LV",
     "opp_position": "RCB",
@@ -892,8 +892,8 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.14,
-      "color": "rgb(202, 234, 218)"
+      "value": 1.1,
+      "color": "rgb(222, 242, 232)"
     },
     "opp_team": "LV",
     "opp_position": "LCB",
@@ -909,12 +909,12 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.7,
-      "color": "rgb(233, 137, 129)"
+      "value": 0.65,
+      "color": "rgb(232, 134, 125)"
     },
     "opp_team": "LV",
     "opp_position": "SCB",
-    "opponent": "Nate Hobbs",
+    "opponent": "Darnay Holmes",
     "recommendation": "Sit"
   },
   {
@@ -944,7 +944,7 @@
     },
     "matchup2": {
       "value": 1,
-      "color": "rgb(250, 229, 227)"
+      "color": "rgb(250, 226, 224)"
     },
     "opp_team": "TEN",
     "opp_position": "LCB",
@@ -1012,7 +1012,7 @@
     },
     "matchup2": {
       "value": 1.19,
-      "color": "rgb(171, 221, 196)"
+      "color": "rgb(174, 223, 199)"
     },
     "opp_team": "LA",
     "opp_position": "SCB",
@@ -1029,7 +1029,7 @@
     },
     "matchup2": {
       "value": 1.22,
-      "color": "rgb(151, 213, 183)"
+      "color": "rgb(163, 218, 191)"
     },
     "opp_team": "CLV",
     "opp_position": "RCB",
@@ -1046,7 +1046,7 @@
     },
     "matchup2": {
       "value": 0.85,
-      "color": "rgb(240, 177, 171)"
+      "color": "rgb(240, 174, 168)"
     },
     "opp_team": "CLV",
     "opp_position": "LCB",
@@ -1063,7 +1063,7 @@
     },
     "matchup2": {
       "value": 1.08,
-      "color": "rgb(238, 248, 243)"
+      "color": "rgb(242, 250, 246)"
     },
     "opp_team": "CLV",
     "opp_position": "SCB",
@@ -1080,7 +1080,7 @@
     },
     "matchup2": {
       "value": 1.21,
-      "color": "rgb(163, 218, 191)"
+      "color": "rgb(171, 221, 196)"
     },
     "opp_team": "IND",
     "opp_position": "RCB",
@@ -1097,7 +1097,7 @@
     },
     "matchup2": {
       "value": 1.09,
-      "color": "rgb(226, 243, 235)"
+      "color": "rgb(230, 245, 238)"
     },
     "opp_team": "IND",
     "opp_position": "LCB",
@@ -1165,7 +1165,7 @@
     },
     "matchup2": {
       "value": 1.31,
-      "color": "rgb(123, 202, 163)"
+      "color": "rgb(127, 203, 166)"
     },
     "opp_team": "WAS",
     "opp_position": "SCB",
@@ -1182,7 +1182,7 @@
     },
     "matchup2": {
       "value": 1.17,
-      "color": "rgb(186, 227, 207)"
+      "color": "rgb(194, 231, 213)"
     },
     "opp_team": "BLT",
     "opp_position": "RCB",
@@ -1216,7 +1216,7 @@
     },
     "matchup2": {
       "value": 0.98,
-      "color": "rgb(249, 223, 221)"
+      "color": "rgb(249, 220, 218)"
     },
     "opp_team": "BLT",
     "opp_position": "SCB",
@@ -1233,7 +1233,7 @@
     },
     "matchup2": {
       "value": 1.03,
-      "color": "rgb(253, 245, 244)"
+      "color": "rgb(253, 242, 241)"
     },
     "opp_team": "SF",
     "opp_position": "RCB",
@@ -1250,7 +1250,7 @@
     },
     "matchup2": {
       "value": 0.94,
-      "color": "rgb(246, 205, 201)"
+      "color": "rgb(246, 208, 204)"
     },
     "opp_team": "SF",
     "opp_position": "LCB",
@@ -1267,7 +1267,7 @@
     },
     "matchup2": {
       "value": 0.92,
-      "color": "rgb(245, 198, 195)"
+      "color": "rgb(245, 202, 198)"
     },
     "opp_team": "SF",
     "opp_position": "SCB",
@@ -1284,7 +1284,7 @@
     },
     "matchup2": {
       "value": 1.32,
-      "color": "rgb(119, 200, 161)"
+      "color": "rgb(123, 202, 163)"
     },
     "opp_team": "SEA",
     "opp_position": "RCB",
@@ -1301,7 +1301,7 @@
     },
     "matchup2": {
       "value": 1,
-      "color": "rgb(252, 235, 234)"
+      "color": "rgb(251, 232, 231)"
     },
     "opp_team": "SEA",
     "opp_position": "LCB",
@@ -1318,7 +1318,7 @@
     },
     "matchup2": {
       "value": 1.06,
-      "color": "rgb(246, 251, 249)"
+      "color": "rgb(254, 255, 254)"
     },
     "opp_team": "SEA",
     "opp_position": "SCB",
@@ -1335,7 +1335,7 @@
     },
     "matchup2": {
       "value": 0.95,
-      "color": "rgb(248, 217, 214)"
+      "color": "rgb(248, 214, 211)"
     },
     "opp_team": "MIN",
     "opp_position": "RCB",
@@ -1352,7 +1352,7 @@
     },
     "matchup2": {
       "value": 1.08,
-      "color": "rgb(234, 247, 240)"
+      "color": "rgb(238, 248, 243)"
     },
     "opp_team": "MIN",
     "opp_position": "LCB",
@@ -1369,7 +1369,7 @@
     },
     "matchup2": {
       "value": 0.85,
-      "color": "rgb(240, 174, 168)"
+      "color": "rgb(239, 171, 165)"
     },
     "opp_team": "MIN",
     "opp_position": "SCB",
@@ -1386,7 +1386,7 @@
     },
     "matchup2": {
       "value": 1.22,
-      "color": "rgb(147, 211, 180)"
+      "color": "rgb(159, 216, 188)"
     },
     "opp_team": "PHI",
     "opp_position": "RCB",
@@ -1403,7 +1403,7 @@
     },
     "matchup2": {
       "value": 1.05,
-      "color": "rgb(254, 255, 254)"
+      "color": "rgb(255, 254, 254)"
     },
     "opp_team": "PHI",
     "opp_position": "LCB",

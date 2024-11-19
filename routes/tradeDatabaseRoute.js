@@ -39,11 +39,10 @@ router.post('/get', async (req, res) => {
                     side2: item.side2,
                     qb: item.numQbs,
                     ppr: item.ppr,
-                    tm: response.data.numTeams,
+                    tm: item.numTeams,
                     tep: item.tePremium,
                     start: item.numStarters
                 }))
-                
                 res.status(200).json(trades);
             })
             .catch((err) => {

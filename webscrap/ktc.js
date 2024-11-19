@@ -91,7 +91,7 @@ async function main() {
       if (err) {
         console.error('Error writing to file', err);
       } else {
-        console.log('Data successfully written to ktcJSON.json');
+        console.log('Data saved to ktcJSON.json');
       }
     });
   } catch (error) {
