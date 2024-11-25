@@ -6,7 +6,7 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 const cors = require('cors');
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 
 // Importing routes
@@ -41,13 +41,11 @@ app.use('/api', postRoute);
 app.use('/api/webscrap', webScrapRoute);
 app.use('/api/database', tradeDatabaseRoute);
 
-
 const connectDB = require('./config');
 const chalk = require('chalk');
 
 
 require('./webscrap/ktc');
-
 
 // Run matchup scraping 1 min after ktc
 setTimeout(() => {
@@ -83,6 +81,36 @@ setTimeout(() => {
 setTimeout(() => {
     require('./webscrap/dynastyProcess');    
 }, 420000); // Delay of 7 minutes
+
+// Run SleeperPlayer API after 8 min
+setTimeout(() => {
+    require('./sleeperPlayers/getPlayers');  
+}, 480000); // Delay of 8 minutes
+
+// Run fantasyPros API after 9 min
+setTimeout(() => {
+    require('./webscrap/fantasyPros');
+}, 540000); // Delay of 9 minutes
+
+// Run OpponentRushingYard scrap after 10 min
+setTimeout(() => {
+    require('./webscrap/opponentRushigYard');
+}, 600000); // Delay of 10 minutes
+
+
+// Run OpponentPassingYard scrap after 10 min
+setTimeout(() => {
+    require('./webscrap/opponentPassingYard');
+}, 660000); // Delay of 11 minutes
+
+
+// Run OpponentPointsPerGame scrap after 10 min
+setTimeout(() => {
+    require('./webscrap/opponentPointsPerGame');
+}, 720000); // Delay of 12 minutes
+
+
+
 
 
 

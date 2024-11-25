@@ -20,20 +20,45 @@ router.get('/ktc', async (req, res) => {
 
 
 
+
 router.get('/start&sit', async (req, res) => {
-    const filePath = path.join(__dirname, '../webscrap/start&sitJSON.json'); // Path to your JSON file
+    const playersFilePath = path.join(__dirname, '../sleeperPlayers/playersInfoJSON.json'); // Path to your JSON file
+    const fantasyProsPath = path.join(__dirname, '../webscrap/fantasyProsJSON.json'); // Path to your JSON file
+    const opponentRushingYardFilePath = path.join(__dirname, '../webscrap/opponentRushingYardJSON.json'); // Path to your JSON file
+    const opponentPassingYardFilePath = path.join(__dirname, '../webscrap/opponentPassingYardJSON.json'); // Path to your JSON file
+    const opponentPointsPerGameFilePath = path.join(__dirname, '../webscrap/opponentPointsPerGameJSON.json'); // Path to your JSON file
 
-    // Read the file asynchronously
-    fs.readFile(filePath, 'utf8', (err, data) => {
-        if (err) {
-            // If there's an error reading the file, send a 500 response with the error
-            return res.status(500).json({ error: 'Unable to read data from file', details: err });
-        }
+    try {
+        // Read all files concurrently using Promises
+        const [playersData, fantasyProsData,  rushingYardData, passingYardData, pointsPerGameData] = await Promise.all([
+            fs.promises.readFile(playersFilePath, 'utf8'),
+            fs.promises.readFile(fantasyProsPath, 'utf8'),
+            fs.promises.readFile(opponentRushingYardFilePath, 'utf8'),
+            fs.promises.readFile(opponentPassingYardFilePath, 'utf8'),
+            fs.promises.readFile(opponentPointsPerGameFilePath, 'utf8')
+        ]);
 
-        // Send the JSON data as the response
-        res.json(JSON.parse(data));
-    });
-})
+        // Parse the JSON data
+        const players = JSON.parse(playersData);
+        const fantasyPros = JSON.parse(fantasyProsData);
+        const rushingYards = JSON.parse(rushingYardData);
+        const passingYards = JSON.parse(passingYardData);
+        const pointsPerGame = JSON.parse(pointsPerGameData);
+
+        // Return all data in a single response
+        res.json({
+            players,
+            fantasyPros,
+            rushingYards,
+            passingYards,
+            pointsPerGame
+        });
+
+    } catch (err) {
+        // If there's an error reading the file, send a 500 response with the error
+        return res.status(500).json({ error: 'Unable to read data from files', details: err });
+    }
+});
 
 router.get('/projection/:category', async (req, res) => {
     const { category } = req.params;
