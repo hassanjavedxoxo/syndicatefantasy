@@ -5,7 +5,8 @@ const path = require('path');
 async function scrapeTable(url) {
     const browser = await puppeteer.launch({
         executablePath: '/usr/bin/chromium-browser',
-    });;
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
     const page = await browser.newPage();
 
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 120000 });
