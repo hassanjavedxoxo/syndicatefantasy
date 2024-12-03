@@ -7,6 +7,7 @@ const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 const chalk = require('chalk');
+const path = require('path');
 
 // Importing routes
 const redraftRankingRoute = require('./routes/redraftRankingRoute');
@@ -19,7 +20,7 @@ const sleeperPlayersRoute = require('./routes/sleeperPlayerRoute');
 
 // Serve images statically
 app.use('/uploads', express.static('uploads'));
-app.use('/', express.static('build'));
+app.use('/', express.static(path.join(__dirname, 'build')));
 
 // Middleware to parse JSON bodies
 app.use(express.json());
