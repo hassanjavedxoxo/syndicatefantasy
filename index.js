@@ -20,7 +20,7 @@ const sleeperPlayersRoute = require('./routes/sleeperPlayerRoute');
 
 // Serve images statically
 app.use('/uploads', express.static('uploads'));
-app.use('/', express.static(path.join(__dirname, 'client')));
+app.use('/', express.static(path.join(__dirname, 'build')));
 
 // Middleware to parse JSON bodies
 app.use(express.json());
