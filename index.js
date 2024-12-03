@@ -43,67 +43,73 @@ app.get('*', (req, res) => {
     res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
 });
 
-
 // Config File
 const connectDB = require('./config');
 
 require('./webscrap/ktc');
 
-// Run projectionPpr scraping after 6 min
-setTimeout(() => {
-    require('./webscrap/projectionPpr');
-}, 360000);  // Delay of 6 minutes
+// Define a function to run the scraping tasks in sequence with a delay of 2 minutes between each
+function runScrapingTasks() {
+    // Task 1: Run projectionPpr scraping
+    setTimeout(() => {
+        require('./webscrap/projectionPpr');
+    }, 0);  // No delay for the first task
 
-// Run projectionStd scraping after 9 min
-setTimeout(() => {
-    require('./webscrap/projectionStd');
-}, 540000);  // Delay of 9 minutes
+    // Task 2: Run projectionStd scraping after 2 minutes (2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/projectionStd');
+    }, 2 * 60 * 1000);  // 2 minutes delay
 
-// Run projectionHalf scraping after 12 min
-setTimeout(() => {
-    require('./webscrap/projectionHalf');
-}, 720000);  // Delay of 12 minutes
+    // Task 3: Run projectionHalf scraping after 4 minutes (2 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/projectionHalf');
+    }, 4 * 60 * 1000);  // 4 minutes delay
 
-// Run pastProduction scraping after 15 min
-setTimeout(() => {
-    require('./webscrap/pastProduction');
-}, 900000);  // Delay of 15 minutes
+    // Task 4: Run pastProduction scraping after 6 minutes (3 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/pastProduction');
+    }, 6 * 60 * 1000);  // 6 minutes delay
 
-// Run bettingData scraping after 18 min
-setTimeout(() => {
-    require('./webscrap/bettingData');
-}, 1080000);  // Delay of 18 minutes
+    // Task 5: Run bettingData scraping after 8 minutes (4 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/bettingData');
+    }, 8 * 60 * 1000);  // 8 minutes delay
 
-// Run dynastyProcess scraping after 21 min
-setTimeout(() => {
-    require('./webscrap/dynastyProcess');    
-}, 1260000); // Delay of 21 minutes
+    // Task 6: Run dynastyProcess scraping after 10 minutes (5 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/dynastyProcess');
+    }, 10 * 60 * 1000);  // 10 minutes delay
 
-// Run SleeperPlayer API after 24 min
-setTimeout(() => {
-    require('./sleeperPlayers/getPlayers');  
-}, 1440000); // Delay of 24 minutes
+    // Task 7: Run SleeperPlayer API after 12 minutes (6 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./sleeperPlayers/getPlayers');
+    }, 12 * 60 * 1000);  // 12 minutes delay
 
-// Run fantasyPros API after 27 min
-setTimeout(() => {
-    require('./webscrap/fantasyPros');
-}, 1620000); // Delay of 27 minutes
+    // Task 8: Run fantasyPros API after 14 minutes (7 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/fantasyPros');
+    }, 14 * 60 * 1000);  // 14 minutes delay
 
-// Run OpponentRushingYard scrap after 30 min
-setTimeout(() => {
-    require('./webscrap/opponentRushigYard');
-}, 1800000); // Delay of 30 minutes
+    // Task 9: Run OpponentRushingYard scraping after 16 minutes (8 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/opponentRushigYard');
+    }, 16 * 60 * 1000);  // 16 minutes delay
 
-// Run OpponentPassingYard scrap after 33 min
-setTimeout(() => {
-    require('./webscrap/opponentPassingYard');
-}, 1980000); // Delay of 33 minutes
+    // Task 10: Run OpponentPassingYard scraping after 18 minutes (9 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/opponentPassingYard');
+    }, 18 * 60 * 1000);  // 18 minutes delay
 
-// Run OpponentPointsPerGame scrap after 36 min
-setTimeout(() => {
-    require('./webscrap/opponentPointsPerGame');
-}, 2160000); // Delay of 36 minutes
+    // Task 11: Run OpponentPointsPerGame scraping after 20 minutes (10 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/opponentPointsPerGame');
+    }, 20 * 60 * 1000);  // 20 minutes delay
+}
 
+// Run the scraping tasks when the server starts
+runScrapingTasks();
+
+// Connect to DB and start server
 connectDB.then(() => {
     console.log(chalk.green.inverse('CONNECTED TO MONGODB'));
     app.listen(port, () => {
@@ -111,4 +117,4 @@ connectDB.then(() => {
     })
 }).catch((err) => {
     console.log(chalk.red.inverse(`ERROR:- ${err}`));
-})
+});
