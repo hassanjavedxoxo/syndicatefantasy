@@ -6,10 +6,10 @@ async function scrapeProjections(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 120000 });
 
     // Adjust selector to wait for the table rows with player data
-    await page.waitForSelector('tr.mpb-player-16393', { timeout: 60000 });
+    await page.waitForSelector('tr.mpb-player-16393', { timeout: 120000 });
 
     const projections = await page.evaluate(() => {
         // Select all relevant <tr> elements with player data

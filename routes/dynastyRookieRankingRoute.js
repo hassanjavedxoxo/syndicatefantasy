@@ -45,7 +45,7 @@ router.get('/superflex', async (req, res) => {
                 name: item.player.name,
                 position: item.player.position,
                 maybeAge: item.player.maybeAge,
-                value: item.value,
+                superflexValue: item.value,
                 maybeYoe: item.player.maybeYoe,
                 team: item.player.maybeTeam
             }));

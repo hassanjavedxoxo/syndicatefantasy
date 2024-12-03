@@ -7,6 +7,7 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
+const chalk = require('chalk');
 
 
 // Importing routes
@@ -16,6 +17,7 @@ const dynastyRankingRoute = require('./routes/dynastyRankingRoute');
 const postRoute = require('./routes/postRoute');
 const webScrapRoute = require('./routes/webScrapRoute');
 const tradeDatabaseRoute = require('./routes/tradeDatabaseRoute');
+const sleeperPlayersRoute = require('./routes/sleeperPlayerRoute');
 
 
 // Serve images statically
@@ -40,9 +42,14 @@ app.use('/api/dynasty-ranking', dynastyRankingRoute);
 app.use('/api', postRoute);
 app.use('/api/webscrap', webScrapRoute);
 app.use('/api/database', tradeDatabaseRoute);
+app.use('/api/sleeperPlayers', sleeperPlayersRoute);
+
+
+
+// Config File
 
 const connectDB = require('./config');
-const chalk = require('chalk');
+
 
 
 require('./webscrap/ktc');

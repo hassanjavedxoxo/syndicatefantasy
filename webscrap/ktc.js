@@ -31,6 +31,7 @@ async function scrapeKTC() {
         const playerAgeText = $(playerElement).find('.position.hidden-xs').text().trim();
         const playerAge = playerAgeText ? parseFloat(playerAgeText.slice(0, 4)) : 0;
         const playerPosition = playerPositionRank.slice(0, 2);  // Extract the position
+        const trend = $(playerElement).find('.trend-up').text().trim() || +$(playerElement).find('.trend-down').text().trim()
 
         const playerData = {
           'name': playerName,
@@ -39,6 +40,7 @@ async function scrapeKTC() {
           'position': playerPosition,
           'value': parseInt(playerValue),
           'age': playerAge,
+          'trend': $(playerElement).find('.trend-up').text().trim() ? `green:${$(playerElement).find('.trend-up').text().trim()}` : `red:${$(playerElement).find('.trend-down').text().trim()}`,
           'superflexValue': 0, // Default value, will be updated below
         };
 

@@ -4,16 +4,16 @@
     "position": "LWR",
     "player": "Marvin Harrison",
     "metric1": {
-      "value": "79.7%",
+      "value": "80.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.17,
-      "color": "rgb(185, 227, 207)"
+      "value": 1.21,
+      "color": "rgb(174, 223, 199)"
     },
-    "opp_team": "SEA",
+    "opp_team": "MIN",
     "opp_position": "RCB",
-    "opponent": "Riq Woolen",
+    "opponent": "Byron Murphy",
     "recommendation": "Neutral"
   },
   {
@@ -25,12 +25,12 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.95,
-      "color": "rgb(250, 227, 225)"
+      "value": 1.02,
+      "color": "rgb(255, 251, 251)"
     },
-    "opp_team": "SEA",
+    "opp_team": "MIN",
     "opp_position": "LCB",
-    "opponent": "Josh Jobe",
+    "opponent": "Shaquill Griffin",
     "recommendation": "Neutral"
   },
   {
@@ -38,29 +38,29 @@
     "position": "SWR",
     "player": "Greg Dortch",
     "metric1": {
-      "value": "57.4%",
+      "value": "53.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.78,
-      "color": "rgb(236, 154, 147)"
+      "value": 0.98,
+      "color": "rgb(251, 230, 228)"
     },
-    "opp_team": "SEA",
+    "opp_team": "MIN",
     "opp_position": "SCB",
-    "opponent": "Devon Witherspoon",
-    "recommendation": "Sit"
+    "opponent": "Josh Metellus",
+    "recommendation": "Neutral"
   },
   {
-    "team": "BLT",
+    "team": "ATL",
     "position": "LWR",
-    "player": "Rashod Bateman",
+    "player": "Darnell Mooney",
     "metric1": {
-      "value": "76.1%",
+      "value": "86.7%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1,
-      "color": "rgb(254, 247, 247)"
+      "value": 1.15,
+      "color": "rgb(188, 228, 208)"
     },
     "opp_team": "LAC",
     "opp_position": "RCB",
@@ -68,16 +68,16 @@
     "recommendation": "Neutral"
   },
   {
-    "team": "BLT",
+    "team": "ATL",
     "position": "RWR",
-    "player": "Zay Flowers",
+    "player": "Drake London",
     "metric1": {
-      "value": "86.1%",
+      "value": "81.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.2,
-      "color": "rgb(181, 225, 204)"
+      "value": 1.25,
+      "color": "rgb(157, 216, 187)"
     },
     "opp_team": "LAC",
     "opp_position": "LCB",
@@ -85,16 +85,16 @@
     "recommendation": "Neutral"
   },
   {
-    "team": "BLT",
+    "team": "ATL",
     "position": "SWR",
-    "player": "Nelson Agholor",
+    "player": "Ray-Ray McCloud",
     "metric1": {
-      "value": "45.6%",
+      "value": "84.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.94,
-      "color": "rgb(249, 221, 218)"
+      "value": 0.87,
+      "color": "rgb(241, 181, 176)"
     },
     "opp_team": "LAC",
     "opp_position": "SCB",
@@ -102,37 +102,139 @@
     "recommendation": "Neutral"
   },
   {
+    "team": "BLT",
+    "position": "LWR",
+    "player": "Rashod Bateman",
+    "metric1": {
+      "value": "76.5%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.99,
+      "color": "rgb(252, 235, 234)"
+    },
+    "opp_team": "PHI",
+    "opp_position": "RCB",
+    "opponent": "Quinyon Mitchell",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "BLT",
+    "position": "RWR",
+    "player": "Zay Flowers",
+    "metric1": {
+      "value": "86.2%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.13,
+      "color": "rgb(209, 237, 223)"
+    },
+    "opp_team": "PHI",
+    "opp_position": "LCB",
+    "opponent": "Darius Slay",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "BLT",
+    "position": "SWR",
+    "player": "Nelson Agholor",
+    "metric1": {
+      "value": "45.5%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.81,
+      "color": "rgb(238, 165, 159)"
+    },
+    "opp_team": "PHI",
+    "opp_position": "SCB",
+    "opponent": "Cooper DeJean",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "BUF",
+    "position": "LWR",
+    "player": "Amari Cooper",
+    "metric1": {
+      "value": "74.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.97,
+      "color": "rgb(249, 219, 217)"
+    },
+    "opp_team": "SF",
+    "opp_position": "RCB",
+    "opponent": "Isaac Yiadom",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "BUF",
+    "position": "RWR",
+    "player": "Keon Coleman",
+    "metric1": {
+      "value": "68.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.13,
+      "color": "rgb(216, 239, 228)"
+    },
+    "opp_team": "SF",
+    "opp_position": "LCB",
+    "opponent": "Renardo Green",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "BUF",
+    "position": "SWR",
+    "player": "Khalil Shakir",
+    "metric1": {
+      "value": "69.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.15,
+      "color": "rgb(191, 230, 211)"
+    },
+    "opp_team": "SF",
+    "opp_position": "SCB",
+    "opponent": "Deommodore Lenoir",
+    "recommendation": "Neutral"
+  },
+  {
     "team": "CAR",
     "position": "LWR",
     "player": "David Moore",
     "metric1": {
-      "value": "33.8%",
+      "value": "38.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.8,
-      "color": "rgb(237, 158, 151)"
+      "value": 0.91,
+      "color": "rgb(244, 197, 193)"
     },
-    "opp_team": "KC",
+    "opp_team": "TB",
     "opp_position": "RCB",
-    "opponent": "Nazeeh Johnson",
-    "recommendation": "Sit"
+    "opponent": "Jamel Dean",
+    "recommendation": "Neutral"
   },
   {
     "team": "CAR",
     "position": "RWR",
     "player": "Xavier Legette",
     "metric1": {
-      "value": "63.2%",
+      "value": "66.0%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.05,
-      "color": "rgb(232, 246, 239)"
+      "value": 1.03,
+      "color": "rgb(243, 251, 247)"
     },
-    "opp_team": "KC",
+    "opp_team": "TB",
     "opp_position": "LCB",
-    "opponent": "Trent McDuffie",
+    "opponent": "Zyon McCollum",
     "recommendation": "Neutral"
   },
   {
@@ -140,16 +242,16 @@
     "position": "SWR",
     "player": "Adam Thielen",
     "metric1": {
-      "value": "79.3%",
+      "value": "78.0%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.06,
-      "color": "rgb(224, 243, 233)"
+      "value": 1.03,
+      "color": "rgb(247, 252, 249)"
     },
-    "opp_team": "KC",
+    "opp_team": "TB",
     "opp_position": "SCB",
-    "opponent": "Chamarri Conner",
+    "opponent": "Christian Izien",
     "recommendation": "Neutral"
   },
   {
@@ -157,16 +259,16 @@
     "position": "LWR",
     "player": "DJ Moore",
     "metric1": {
-      "value": "92.8%",
+      "value": "92.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.95,
-      "color": "rgb(249, 224, 222)"
+      "value": 1.01,
+      "color": "rgb(254, 246, 245)"
     },
-    "opp_team": "MIN",
+    "opp_team": "DET",
     "opp_position": "RCB",
-    "opponent": "Shaquill Griffin",
+    "opponent": "Terrion Arnold",
     "recommendation": "Neutral"
   },
   {
@@ -174,16 +276,16 @@
     "position": "RWR",
     "player": "Rome Odunze",
     "metric1": {
-      "value": "79.2%",
+      "value": "79.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.93,
-      "color": "rgb(248, 217, 215)"
+      "value": 0.91,
+      "color": "rgb(245, 203, 199)"
     },
-    "opp_team": "MIN",
+    "opp_team": "DET",
     "opp_position": "LCB",
-    "opponent": "Stephon Gilmore",
+    "opponent": "Kindle Vildor",
     "recommendation": "Neutral"
   },
   {
@@ -191,51 +293,102 @@
     "position": "SWR",
     "player": "Keenan Allen",
     "metric1": {
-      "value": "86.7%",
+      "value": "86.5%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
       "value": 1.01,
-      "color": "rgb(255, 254, 254)"
+      "color": "rgb(254, 249, 248)"
     },
-    "opp_team": "MIN",
+    "opp_team": "DET",
     "opp_position": "SCB",
-    "opponent": "Byron Murphy",
+    "opponent": "Amik Robertson",
     "recommendation": "Neutral"
+  },
+  {
+    "team": "CIN",
+    "position": "LWR",
+    "player": "Tee Higgins",
+    "metric1": {
+      "value": "89.3%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.24,
+      "color": "rgb(160, 217, 189)"
+    },
+    "opp_team": "PIT",
+    "opp_position": "RCB",
+    "opponent": "Joey Porter",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "CIN",
+    "position": "RWR",
+    "player": "Ja'Marr Chase",
+    "metric1": {
+      "value": "92.6%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.31,
+      "color": "rgb(136, 207, 172)"
+    },
+    "opp_team": "PIT",
+    "opp_position": "LCB",
+    "opponent": "Donte Jackson",
+    "recommendation": "Start"
+  },
+  {
+    "team": "CIN",
+    "position": "SWR",
+    "player": "Andrei Iosivas",
+    "metric1": {
+      "value": "60.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.82,
+      "color": "rgb(239, 168, 162)"
+    },
+    "opp_team": "PIT",
+    "opp_position": "SCB",
+    "opponent": "Beanie Bishop",
+    "recommendation": "Sit"
   },
   {
     "team": "CLV",
     "position": "LWR",
     "player": "Cedric Tillman",
     "metric1": {
-      "value": "56.6%",
+      "value": "56.2%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.9,
-      "color": "rgb(245, 201, 197)"
+      "value": 0.75,
+      "color": "rgb(235, 146, 139)"
     },
-    "opp_team": "PIT",
+    "opp_team": "DEN",
     "opp_position": "RCB",
-    "opponent": "Donte Jackson",
-    "recommendation": "Neutral"
+    "opponent": "Levi Wallace",
+    "recommendation": "Sit"
   },
   {
     "team": "CLV",
     "position": "RWR",
     "player": "Jerry Jeudy",
     "metric1": {
-      "value": "85.3%",
+      "value": "85.4%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.87,
-      "color": "rgb(242, 184, 179)"
+      "value": 0.81,
+      "color": "rgb(238, 162, 156)"
     },
-    "opp_team": "PIT",
+    "opp_team": "DEN",
     "opp_position": "LCB",
-    "opponent": "Joey Porter",
-    "recommendation": "Neutral"
+    "opponent": "Pat Surtain",
+    "recommendation": "Sit"
   },
   {
     "team": "CLV",
@@ -246,12 +399,12 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.8,
-      "color": "rgb(237, 161, 154)"
+      "value": 0.75,
+      "color": "rgb(234, 143, 136)"
     },
-    "opp_team": "PIT",
+    "opp_team": "DEN",
     "opp_position": "SCB",
-    "opponent": "Beanie Bishop",
+    "opponent": "Ja'Quan McMillian",
     "recommendation": "Sit"
   },
   {
@@ -259,16 +412,16 @@
     "position": "LWR",
     "player": "Ryan Flournoy",
     "metric1": {
-      "value": "20.5%",
+      "value": "18.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.84,
-      "color": "rgb(240, 174, 169)"
+      "value": 0.85,
+      "color": "rgb(240, 176, 170)"
     },
-    "opp_team": "WAS",
+    "opp_team": "NYG",
     "opp_position": "RCB",
-    "opponent": "Benjamin St-Juste",
+    "opponent": "Deonte Banks",
     "recommendation": "Neutral"
   },
   {
@@ -276,16 +429,16 @@
     "position": "RWR",
     "player": "Jalen Tolbert",
     "metric1": {
-      "value": "78.9%",
+      "value": "79.1%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.98,
-      "color": "rgb(253, 241, 240)"
+      "value": 0.99,
+      "color": "rgb(251, 233, 231)"
     },
-    "opp_team": "WAS",
+    "opp_team": "NYG",
     "opp_position": "LCB",
-    "opponent": "Mike Sainristil",
+    "opponent": "Cordale Flott",
     "recommendation": "Neutral"
   },
   {
@@ -293,16 +446,16 @@
     "position": "SWR",
     "player": "CeeDee Lamb",
     "metric1": {
-      "value": "81.5%",
+      "value": "82.3%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.33,
-      "color": "rgb(126, 203, 165)"
+      "value": 1.35,
+      "color": "rgb(119, 200, 160)"
     },
-    "opp_team": "WAS",
+    "opp_team": "NYG",
     "opp_position": "SCB",
-    "opponent": "Noah Igbinoghene",
+    "opponent": "Andru Phillips",
     "recommendation": "Start"
   },
   {
@@ -310,17 +463,17 @@
     "position": "LWR",
     "player": "Courtland Sutton",
     "metric1": {
-      "value": "76.1%",
+      "value": "75.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.2,
-      "color": "rgb(173, 222, 198)"
+      "value": 1.33,
+      "color": "rgb(133, 206, 170)"
     },
-    "opp_team": "LV",
+    "opp_team": "CLV",
     "opp_position": "RCB",
-    "opponent": "Decamerion Richardson",
-    "recommendation": "Neutral"
+    "opponent": "Martin Emerson",
+    "recommendation": "Start"
   },
   {
     "team": "DEN",
@@ -331,722 +484,8 @@
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.99,
-      "color": "rgb(253, 244, 243)"
-    },
-    "opp_team": "LV",
-    "opp_position": "LCB",
-    "opponent": "Jack Jones",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "DEN",
-    "position": "SWR",
-    "player": "Devaughn Vele",
-    "metric1": {
-      "value": "53.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.14,
-      "color": "rgb(194, 231, 213)"
-    },
-    "opp_team": "LV",
-    "opp_position": "SCB",
-    "opponent": "Darnay Holmes",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "DET",
-    "position": "LWR",
-    "player": "Jameson Williams",
-    "metric1": {
-      "value": "72.9%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.22,
-      "color": "rgb(164, 218, 192)"
-    },
-    "opp_team": "IND",
-    "opp_position": "RCB",
-    "opponent": "Jaylon Jones",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "DET",
-    "position": "RWR",
-    "player": "Tim Patrick",
-    "metric1": {
-      "value": "49.1%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.86,
-      "color": "rgb(241, 181, 176)"
-    },
-    "opp_team": "IND",
-    "opp_position": "LCB",
-    "opponent": "Samuel Womack",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "DET",
-    "position": "SWR",
-    "player": "Amon-Ra St. Brown",
-    "metric1": {
-      "value": "82.6%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.66,
-      "color": "rgb(92, 189, 141)"
-    },
-    "opp_team": "IND",
-    "opp_position": "SCB",
-    "opponent": "Kenny Moore",
-    "recommendation": "Start"
-  },
-  {
-    "team": "GB",
-    "position": "LWR",
-    "player": "Romeo Doubs",
-    "metric1": {
-      "value": "73.6%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.03,
-      "color": "rgb(253, 255, 254)"
-    },
-    "opp_team": "SF",
-    "opp_position": "RCB",
-    "opponent": "Isaac Yiadom",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "GB",
-    "position": "RWR",
-    "player": "Christian Watson",
-    "metric1": {
-      "value": "56.0%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.32,
-      "color": "rgb(130, 205, 168)"
-    },
-    "opp_team": "SF",
-    "opp_position": "LCB",
-    "opponent": "Renardo Green",
-    "recommendation": "Start"
-  },
-  {
-    "team": "GB",
-    "position": "SWR",
-    "player": "Jayden Reed",
-    "metric1": {
-      "value": "71.2%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.27,
-      "color": "rgb(143, 210, 177)"
-    },
-    "opp_team": "SF",
-    "opp_position": "SCB",
-    "opponent": "Deommodore Lenoir",
-    "recommendation": "Start"
-  },
-  {
-    "team": "HST",
-    "position": "LWR",
-    "player": "Nico Collins",
-    "metric1": {
-      "value": "63.0%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.61,
-      "color": "rgb(96, 191, 144)"
-    },
-    "opp_team": "TEN",
-    "opp_position": "RCB",
-    "opponent": "Jarvis Brownlee",
-    "recommendation": "Start"
-  },
-  {
-    "team": "HST",
-    "position": "RWR",
-    "player": "Tank Dell",
-    "metric1": {
-      "value": "77.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.9,
-      "color": "rgb(244, 197, 193)"
-    },
-    "opp_team": "TEN",
-    "opp_position": "LCB",
-    "opponent": "Darrell Baker",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "HST",
-    "position": "SWR",
-    "player": "John Metchie",
-    "metric1": {
-      "value": "37.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.83,
-      "color": "rgb(239, 168, 162)"
-    },
-    "opp_team": "TEN",
-    "opp_position": "SCB",
-    "opponent": "Roger McCreary",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "IND",
-    "position": "LWR",
-    "player": "Alec Pierce",
-    "metric1": {
-      "value": "77.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.06,
-      "color": "rgb(219, 241, 230)"
-    },
-    "opp_team": "DET",
-    "opp_position": "RCB",
-    "opponent": "Kindle Vildor",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "IND",
-    "position": "RWR",
-    "player": "Michael Pittman",
-    "metric1": {
-      "value": "82.0%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.03,
-      "color": "rgb(249, 253, 251)"
-    },
-    "opp_team": "DET",
-    "opp_position": "LCB",
-    "opponent": "Carlton Davis",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "IND",
-    "position": "SWR",
-    "player": "Josh Downs",
-    "metric1": {
-      "value": "70.7%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.36,
-      "color": "rgb(113, 198, 156)"
-    },
-    "opp_team": "DET",
-    "opp_position": "SCB",
-    "opponent": "Amik Robertson",
-    "recommendation": "Start"
-  },
-  {
-    "team": "KC",
-    "position": "LWR",
-    "player": "DeAndre Hopkins",
-    "metric1": {
-      "value": "56.0%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.29,
-      "color": "rgb(134, 206, 171)"
-    },
-    "opp_team": "CAR",
-    "opp_position": "RCB",
-    "opponent": "Jaycee Horn",
-    "recommendation": "Start"
-  },
-  {
-    "team": "KC",
-    "position": "RWR",
-    "player": "Xavier Worthy",
-    "metric1": {
-      "value": "70.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.06,
-      "color": "rgb(211, 237, 224)"
-    },
-    "opp_team": "CAR",
-    "opp_position": "LCB",
-    "opponent": "Mike Jackson",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "KC",
-    "position": "SWR",
-    "player": "Justin Watson",
-    "metric1": {
-      "value": "51.5%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1,
-      "color": "rgb(255, 251, 250)"
-    },
-    "opp_team": "CAR",
-    "opp_position": "SCB",
-    "opponent": "Dane Jackson",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "LA",
-    "position": "LWR",
-    "player": "Demarcus Robinson",
-    "metric1": {
-      "value": "78.3%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.8,
-      "color": "rgb(238, 164, 158)"
-    },
-    "opp_team": "PHI",
-    "opp_position": "RCB",
-    "opponent": "Quinyon Mitchell",
-    "recommendation": "Sit"
-  },
-  {
-    "team": "LA",
-    "position": "RWR",
-    "player": "Puka Nacua",
-    "metric1": {
-      "value": "70.2%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.27,
-      "color": "rgb(147, 212, 180)"
-    },
-    "opp_team": "PHI",
-    "opp_position": "LCB",
-    "opponent": "Darius Slay",
-    "recommendation": "Start"
-  },
-  {
-    "team": "LA",
-    "position": "SWR",
-    "player": "Cooper Kupp",
-    "metric1": {
-      "value": "83.7%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.24,
-      "color": "rgb(156, 215, 186)"
-    },
-    "opp_team": "PHI",
-    "opp_position": "SCB",
-    "opponent": "Cooper DeJean",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "LAC",
-    "position": "LWR",
-    "player": "Quentin Johnston",
-    "metric1": {
-      "value": "73.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
       "value": 1.13,
-      "color": "rgb(198, 232, 216)"
-    },
-    "opp_team": "BLT",
-    "opp_position": "RCB",
-    "opponent": "Brandon Stephens",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "LAC",
-    "position": "RWR",
-    "player": "Josh Palmer",
-    "metric1": {
-      "value": "67.3%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.87,
-      "color": "rgb(243, 188, 183)"
-    },
-    "opp_team": "BLT",
-    "opp_position": "LCB",
-    "opponent": "Nate Wiggins",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "LAC",
-    "position": "SWR",
-    "player": "Ladd McConkey",
-    "metric1": {
-      "value": "78.9%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.25,
-      "color": "rgb(151, 213, 183)"
-    },
-    "opp_team": "BLT",
-    "opp_position": "SCB",
-    "opponent": "Marlon Humphrey",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "LV",
-    "position": "LWR",
-    "player": "Tre Tucker",
-    "metric1": {
-      "value": "80.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.77,
-      "color": "rgb(236, 151, 144)"
-    },
-    "opp_team": "DEN",
-    "opp_position": "RCB",
-    "opponent": "Riley Moss",
-    "recommendation": "Sit"
-  },
-  {
-    "team": "LV",
-    "position": "RWR",
-    "player": "Jakobi Meyers",
-    "metric1": {
-      "value": "86.5%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.93,
-      "color": "rgb(248, 214, 211)"
-    },
-    "opp_team": "DEN",
-    "opp_position": "LCB",
-    "opponent": "Pat Surtain",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "LV",
-    "position": "SWR",
-    "player": "D.J. Turner",
-    "metric1": {
-      "value": "43.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.71,
-      "color": "rgb(234, 144, 137)"
-    },
-    "opp_team": "DEN",
-    "opp_position": "SCB",
-    "opponent": "Ja'Quan McMillian",
-    "recommendation": "Sit"
-  },
-  {
-    "team": "MIA",
-    "position": "LWR",
-    "player": "Jaylen Waddle",
-    "metric1": {
-      "value": "73.4%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.08,
-      "color": "rgb(202, 234, 218)"
-    },
-    "opp_team": "NE",
-    "opp_position": "RCB",
-    "opponent": "Marco Wilson",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "MIA",
-    "position": "RWR",
-    "player": "Tyreek Hill",
-    "metric1": {
-      "value": "75.1%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.28,
-      "color": "rgb(139, 208, 174)"
-    },
-    "opp_team": "NE",
-    "opp_position": "LCB",
-    "opponent": "Christian Gonzalez",
-    "recommendation": "Start"
-  },
-  {
-    "team": "MIA",
-    "position": "SWR",
-    "player": "Odell Beckham",
-    "metric1": {
-      "value": "31.4%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.84,
-      "color": "rgb(241, 178, 172)"
-    },
-    "opp_team": "NE",
-    "opp_position": "SCB",
-    "opponent": "Marcus Jones",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "MIN",
-    "position": "LWR",
-    "player": "Justin Jefferson",
-    "metric1": {
-      "value": "91.1%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.43,
-      "color": "rgb(109, 196, 153)"
-    },
-    "opp_team": "CHI",
-    "opp_position": "RCB",
-    "opponent": "Tyrique Stevenson",
-    "recommendation": "Start"
-  },
-  {
-    "team": "MIN",
-    "position": "RWR",
-    "player": "Jordan Addison",
-    "metric1": {
-      "value": "75.4%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.03,
-      "color": "rgb(245, 251, 248)"
-    },
-    "opp_team": "CHI",
-    "opp_position": "LCB",
-    "opponent": "Jaylon Johnson",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "MIN",
-    "position": "SWR",
-    "player": "Jalen Nailor",
-    "metric1": {
-      "value": "52.5%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.92,
-      "color": "rgb(246, 207, 204)"
-    },
-    "opp_team": "CHI",
-    "opp_position": "SCB",
-    "opponent": "Kyler Gordon",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "NE",
-    "position": "LWR",
-    "player": "Kendrick Bourne",
-    "metric1": {
-      "value": "54.5%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.67,
-      "color": "rgb(232, 134, 126)"
-    },
-    "opp_team": "MIA",
-    "opp_position": "RCB",
-    "opponent": "Storm Duck",
-    "recommendation": "Sit"
-  },
-  {
-    "team": "NE",
-    "position": "RWR",
-    "player": "Kayshon Boutte",
-    "metric1": {
-      "value": "56.4%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.58,
-      "color": "rgb(231, 128, 119)"
-    },
-    "opp_team": "MIA",
-    "opp_position": "LCB",
-    "opponent": "Jalen Ramsey",
-    "recommendation": "Sit"
-  },
-  {
-    "team": "NE",
-    "position": "SWR",
-    "player": "Demario Douglas",
-    "metric1": {
-      "value": "68.1%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.87,
-      "color": "rgb(243, 191, 186)"
-    },
-    "opp_team": "MIA",
-    "opp_position": "SCB",
-    "opponent": "Kader Kohou",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "NYG",
-    "position": "LWR",
-    "player": "Darius Slayton",
-    "metric1": {
-      "value": "80.8%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.96,
-      "color": "rgb(251, 231, 229)"
-    },
-    "opp_team": "TB",
-    "opp_position": "RCB",
-    "opponent": "Jamel Dean",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "NYG",
-    "position": "RWR",
-    "player": "Malik Nabers",
-    "metric1": {
-      "value": "90.4%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.23,
-      "color": "rgb(160, 217, 189)"
-    },
-    "opp_team": "TB",
-    "opp_position": "LCB",
-    "opponent": "Zyon McCollum",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "NYG",
-    "position": "SWR",
-    "player": "Wan'Dale Robinson",
-    "metric1": {
-      "value": "79.2%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.06,
-      "color": "rgb(215, 239, 227)"
-    },
-    "opp_team": "TB",
-    "opp_position": "SCB",
-    "opponent": "Christian Izien",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "PHI",
-    "position": "LWR",
-    "player": "Jahan Dotson",
-    "metric1": {
-      "value": "69.4%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.67,
-      "color": "rgb(232, 131, 123)"
-    },
-    "opp_team": "LA",
-    "opp_position": "RCB",
-    "opponent": "Darious Williams",
-    "recommendation": "Sit"
-  },
-  {
-    "team": "PHI",
-    "position": "RWR",
-    "player": "A.J. Brown",
-    "metric1": {
-      "value": "76.7%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.36,
-      "color": "rgb(117, 200, 159)"
-    },
-    "opp_team": "LA",
-    "opp_position": "LCB",
-    "opponent": "Cobie Durant",
-    "recommendation": "Start"
-  },
-  {
-    "team": "PHI",
-    "position": "SWR",
-    "player": "Britain Covey",
-    "metric1": {
-      "value": "24.7%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.2,
-      "color": "rgb(177, 224, 201)"
-    },
-    "opp_team": "LA",
-    "opp_position": "SCB",
-    "opponent": "Quentin Lake",
-    "recommendation": "Neutral"
-  },
-  {
-    "team": "PIT",
-    "position": "LWR",
-    "player": "George Pickens",
-    "metric1": {
-      "value": "81.5%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 1.35,
-      "color": "rgb(122, 201, 162)"
-    },
-    "opp_team": "CLV",
-    "opp_position": "RCB",
-    "opponent": "Martin Emerson",
-    "recommendation": "Start"
-  },
-  {
-    "team": "PIT",
-    "position": "RWR",
-    "player": "Mike Williams",
-    "metric1": {
-      "value": "48.2%",
-      "color": "rgba(0, 0, 0, 0)"
-    },
-    "matchup2": {
-      "value": 0.96,
-      "color": "rgb(251, 234, 232)"
+      "color": "rgb(205, 235, 221)"
     },
     "opp_team": "CLV",
     "opp_position": "LCB",
@@ -1054,84 +493,492 @@
     "recommendation": "Neutral"
   },
   {
-    "team": "PIT",
+    "team": "DEN",
     "position": "SWR",
-    "player": "Calvin Austin",
+    "player": "Devaughn Vele",
     "metric1": {
-      "value": "55.7%",
+      "value": "53.9%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.06,
-      "color": "rgb(228, 244, 236)"
+      "value": 1.34,
+      "color": "rgb(122, 202, 163)"
     },
     "opp_team": "CLV",
     "opp_position": "SCB",
     "opponent": "Greg Newsome",
-    "recommendation": "Neutral"
+    "recommendation": "Start"
   },
   {
-    "team": "SEA",
+    "team": "DET",
     "position": "LWR",
-    "player": "DK Metcalf",
+    "player": "Jameson Williams",
     "metric1": {
-      "value": "85.0%",
+      "value": "73.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.14,
-      "color": "rgb(190, 229, 210)"
+      "value": 1.21,
+      "color": "rgb(171, 221, 196)"
     },
-    "opp_team": "ARZ",
+    "opp_team": "CHI",
     "opp_position": "RCB",
-    "opponent": "Sean Murphy-Bunting",
+    "opponent": "Tyrique Stevenson",
     "recommendation": "Neutral"
   },
   {
-    "team": "SEA",
+    "team": "DET",
     "position": "RWR",
-    "player": "Tyler Lockett",
+    "player": "Tim Patrick",
     "metric1": {
-      "value": "76.9%",
+      "value": "47.7%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.98,
-      "color": "rgb(252, 237, 236)"
+      "value": 0.96,
+      "color": "rgb(248, 216, 214)"
     },
-    "opp_team": "ARZ",
+    "opp_team": "CHI",
     "opp_position": "LCB",
-    "opponent": "Starling Thomas",
+    "opponent": "Jaylon Johnson",
     "recommendation": "Neutral"
   },
   {
-    "team": "SEA",
+    "team": "DET",
     "position": "SWR",
-    "player": "Jaxon Smith-Njigba",
+    "player": "Amon-Ra St. Brown",
     "metric1": {
-      "value": "85.9%",
+      "value": "82.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.56,
+      "color": "rgb(94, 190, 143)"
+    },
+    "opp_team": "CHI",
+    "opp_position": "SCB",
+    "opponent": "Kyler Gordon",
+    "recommendation": "Start"
+  },
+  {
+    "team": "GB",
+    "position": "LWR",
+    "player": "Christian Watson",
+    "metric1": {
+      "value": "49.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1,
+      "color": "rgb(253, 243, 243)"
+    },
+    "opp_team": "MIA",
+    "opp_position": "RCB",
+    "opponent": "Jalen Ramsey",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "GB",
+    "position": "RWR",
+    "player": "Dontayvion Wicks",
+    "metric1": {
+      "value": "45.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.11,
+      "color": "rgb(219, 241, 230)"
+    },
+    "opp_team": "MIA",
+    "opp_position": "LCB",
+    "opponent": "Storm Duck",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "GB",
+    "position": "SWR",
+    "player": "Jayden Reed",
+    "metric1": {
+      "value": "71.0%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.23,
+      "color": "rgb(167, 220, 194)"
+    },
+    "opp_team": "MIA",
+    "opp_position": "SCB",
+    "opponent": "Kader Kohou",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "HST",
+    "position": "LWR",
+    "player": "Nico Collins",
+    "metric1": {
+      "value": "64.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.76,
+      "color": "rgb(91, 189, 141)"
+    },
+    "opp_team": "JAX",
+    "opp_position": "RCB",
+    "opponent": "Tyson Campbell",
+    "recommendation": "Start"
+  },
+  {
+    "team": "HST",
+    "position": "RWR",
+    "player": "Tank Dell",
+    "metric1": {
+      "value": "78.0%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.1,
+      "color": "rgb(226, 244, 235)"
+    },
+    "opp_team": "JAX",
+    "opp_position": "LCB",
+    "opponent": "Ronald Darby",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "HST",
+    "position": "SWR",
+    "player": "John Metchie",
+    "metric1": {
+      "value": "41.1%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.89,
+      "color": "rgb(242, 187, 182)"
+    },
+    "opp_team": "JAX",
+    "opp_position": "SCB",
+    "opponent": "Jarrian Jones",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "IND",
+    "position": "LWR",
+    "player": "Alec Pierce",
+    "metric1": {
+      "value": "77.2%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.15,
+      "color": "rgb(195, 231, 213)"
+    },
+    "opp_team": "NE",
+    "opp_position": "RCB",
+    "opponent": "Marcus Jones",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "IND",
+    "position": "RWR",
+    "player": "Michael Pittman",
+    "metric1": {
+      "value": "81.8%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.13,
+      "color": "rgb(212, 238, 225)"
+    },
+    "opp_team": "NE",
+    "opp_position": "LCB",
+    "opponent": "Christian Gonzalez",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "IND",
+    "position": "SWR",
+    "player": "Josh Downs",
+    "metric1": {
+      "value": "70.8%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.47,
+      "color": "rgb(101, 193, 148)"
+    },
+    "opp_team": "NE",
+    "opp_position": "SCB",
+    "opponent": "Jonathan Jones",
+    "recommendation": "Start"
+  },
+  {
+    "team": "JAX",
+    "position": "LWR",
+    "player": "Devin Duvernay",
+    "metric1": {
+      "value": "14.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.68,
+      "color": "rgb(233, 135, 127)"
+    },
+    "opp_team": "HST",
+    "opp_position": "RCB",
+    "opponent": "Kamari Lassiter",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "JAX",
+    "position": "RWR",
+    "player": "Brian Thomas",
+    "metric1": {
+      "value": "77.2%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.3,
+      "color": "rgb(143, 210, 177)"
+    },
+    "opp_team": "HST",
+    "opp_position": "LCB",
+    "opponent": "Derek Stingley",
+    "recommendation": "Start"
+  },
+  {
+    "team": "JAX",
+    "position": "SWR",
+    "player": "Parker Washington",
+    "metric1": {
+      "value": "43.3%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.91,
+      "color": "rgb(245, 200, 196)"
+    },
+    "opp_team": "HST",
+    "opp_position": "SCB",
+    "opponent": "Eric Murray",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "KC",
+    "position": "LWR",
+    "player": "DeAndre Hopkins",
+    "metric1": {
+      "value": "55.0%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.36,
+      "color": "rgb(112, 197, 155)"
+    },
+    "opp_team": "LV",
+    "opp_position": "RCB",
+    "opponent": "Decamerion Richardson",
+    "recommendation": "Start"
+  },
+  {
+    "team": "KC",
+    "position": "RWR",
+    "player": "Xavier Worthy",
+    "metric1": {
+      "value": "70.5%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1,
+      "color": "rgb(252, 238, 237)"
+    },
+    "opp_team": "LV",
+    "opp_position": "LCB",
+    "opponent": "Jack Jones",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "KC",
+    "position": "SWR",
+    "player": "Justin Watson",
+    "metric1": {
+      "value": "51.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
       "value": 0.9,
-      "color": "rgb(244, 194, 190)"
+      "color": "rgb(244, 195, 191)"
     },
-    "opp_team": "ARZ",
+    "opp_team": "LV",
     "opp_position": "SCB",
-    "opponent": "Garrett Williams",
+    "opponent": "Darnay Holmes",
     "recommendation": "Neutral"
   },
   {
-    "team": "SF",
+    "team": "LA",
     "position": "LWR",
-    "player": "Deebo Samuel",
+    "player": "Demarcus Robinson",
     "metric1": {
-      "value": "68.1%",
+      "value": "78.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.04,
-      "color": "rgb(241, 249, 245)"
+      "value": 1,
+      "color": "rgb(253, 241, 240)"
+    },
+    "opp_team": "NO",
+    "opp_position": "RCB",
+    "opponent": "Kool-Aid McKinstry",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "LA",
+    "position": "RWR",
+    "player": "Puka Nacua",
+    "metric1": {
+      "value": "71.5%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.49,
+      "color": "rgb(98, 192, 146)"
+    },
+    "opp_team": "NO",
+    "opp_position": "LCB",
+    "opponent": "Alontae Taylor",
+    "recommendation": "Start"
+  },
+  {
+    "team": "LA",
+    "position": "SWR",
+    "player": "Cooper Kupp",
+    "metric1": {
+      "value": "84.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.39,
+      "color": "rgb(108, 196, 153)"
+    },
+    "opp_team": "NO",
+    "opp_position": "SCB",
+    "opponent": "Ugo Amadi",
+    "recommendation": "Start"
+  },
+  {
+    "team": "LAC",
+    "position": "LWR",
+    "player": "Quentin Johnston",
+    "metric1": {
+      "value": "72.8%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.28,
+      "color": "rgb(146, 211, 180)"
+    },
+    "opp_team": "ATL",
+    "opp_position": "RCB",
+    "opponent": "A.J. Terrell",
+    "recommendation": "Start"
+  },
+  {
+    "team": "LAC",
+    "position": "RWR",
+    "player": "Josh Palmer",
+    "metric1": {
+      "value": "68.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.17,
+      "color": "rgb(184, 227, 206)"
+    },
+    "opp_team": "ATL",
+    "opp_position": "LCB",
+    "opponent": "Clark Phillips",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "LAC",
+    "position": "SWR",
+    "player": "Ladd McConkey",
+    "metric1": {
+      "value": "80.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.39,
+      "color": "rgb(105, 195, 151)"
+    },
+    "opp_team": "ATL",
+    "opp_position": "SCB",
+    "opponent": "Dee Alford",
+    "recommendation": "Start"
+  },
+  {
+    "team": "LV",
+    "position": "LWR",
+    "player": "Tre Tucker",
+    "metric1": {
+      "value": "81.5%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.8,
+      "color": "rgb(236, 154, 147)"
+    },
+    "opp_team": "KC",
+    "opp_position": "RCB",
+    "opponent": "Nazeeh Johnson",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "LV",
+    "position": "RWR",
+    "player": "Jakobi Meyers",
+    "metric1": {
+      "value": "87.0%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.07,
+      "color": "rgb(240, 249, 245)"
+    },
+    "opp_team": "KC",
+    "opp_position": "LCB",
+    "opponent": "Trent McDuffie",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "LV",
+    "position": "SWR",
+    "player": "D.J. Turner",
+    "metric1": {
+      "value": "46.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.76,
+      "color": "rgb(235, 149, 141)"
+    },
+    "opp_team": "KC",
+    "opp_position": "SCB",
+    "opponent": "Chamarri Conner",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "MIA",
+    "position": "LWR",
+    "player": "Jaylen Waddle",
+    "metric1": {
+      "value": "73.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.02,
+      "color": "rgb(254, 255, 254)"
     },
     "opp_team": "GB",
     "opp_position": "RCB",
@@ -1139,16 +986,16 @@
     "recommendation": "Neutral"
   },
   {
-    "team": "SF",
+    "team": "MIA",
     "position": "RWR",
-    "player": "Ricky Pearsall",
+    "player": "Tyreek Hill",
     "metric1": {
-      "value": "68.7%",
+      "value": "75.5%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.92,
-      "color": "rgb(247, 211, 208)"
+      "value": 1.17,
+      "color": "rgb(181, 225, 204)"
     },
     "opp_team": "GB",
     "opp_position": "LCB",
@@ -1156,20 +1003,479 @@
     "recommendation": "Neutral"
   },
   {
-    "team": "SF",
+    "team": "MIA",
     "position": "SWR",
-    "player": "Jauan Jennings",
+    "player": "Odell Beckham",
     "metric1": {
-      "value": "70.4%",
+      "value": "32.1%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.43,
-      "color": "rgb(105, 194, 150)"
+      "value": 0.71,
+      "color": "rgb(233, 138, 130)"
     },
     "opp_team": "GB",
     "opp_position": "SCB",
     "opponent": "Javon Bullard",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "MIN",
+    "position": "LWR",
+    "player": "Justin Jefferson",
+    "metric1": {
+      "value": "91.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.33,
+      "color": "rgb(126, 203, 165)"
+    },
+    "opp_team": "ARZ",
+    "opp_position": "RCB",
+    "opponent": "Sean Murphy-Bunting",
+    "recommendation": "Start"
+  },
+  {
+    "team": "MIN",
+    "position": "RWR",
+    "player": "Jordan Addison",
+    "metric1": {
+      "value": "76.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.1,
+      "color": "rgb(223, 242, 233)"
+    },
+    "opp_team": "ARZ",
+    "opp_position": "LCB",
+    "opponent": "Starling Thomas",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "MIN",
+    "position": "SWR",
+    "player": "Jalen Nailor",
+    "metric1": {
+      "value": "52.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.86,
+      "color": "rgb(241, 179, 173)"
+    },
+    "opp_team": "ARZ",
+    "opp_position": "SCB",
+    "opponent": "Garrett Williams",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NE",
+    "position": "LWR",
+    "player": "Kendrick Bourne",
+    "metric1": {
+      "value": "53.8%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.83,
+      "color": "rgb(239, 170, 165)"
+    },
+    "opp_team": "IND",
+    "opp_position": "RCB",
+    "opponent": "Jaylon Jones",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "NE",
+    "position": "RWR",
+    "player": "Kayshon Boutte",
+    "metric1": {
+      "value": "58.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.72,
+      "color": "rgb(234, 141, 133)"
+    },
+    "opp_team": "IND",
+    "opp_position": "LCB",
+    "opponent": "Samuel Womack",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "NE",
+    "position": "SWR",
+    "player": "Demario Douglas",
+    "metric1": {
+      "value": "68.3%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.96,
+      "color": "rgb(248, 214, 211)"
+    },
+    "opp_team": "IND",
+    "opp_position": "SCB",
+    "opponent": "Kenny Moore",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NO",
+    "position": "LWR",
+    "player": "Kevin Austin",
+    "metric1": {
+      "value": "42.1%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.09,
+      "color": "rgb(233, 246, 240)"
+    },
+    "opp_team": "LA",
+    "opp_position": "RCB",
+    "opponent": "Darious Williams",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NO",
+    "position": "RWR",
+    "player": "Marquez Valdes-Scantling",
+    "metric1": {
+      "value": "40.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.18,
+      "color": "rgb(178, 224, 201)"
+    },
+    "opp_team": "LA",
+    "opp_position": "LCB",
+    "opponent": "Cobie Durant",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NO",
+    "position": "SWR",
+    "player": "Cedrick Wilson",
+    "metric1": {
+      "value": "35.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.97,
+      "color": "rgb(250, 224, 222)"
+    },
+    "opp_team": "LA",
+    "opp_position": "SCB",
+    "opponent": "Quentin Lake",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NYG",
+    "position": "LWR",
+    "player": "Darius Slayton",
+    "metric1": {
+      "value": "78.0%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.87,
+      "color": "rgb(242, 184, 179)"
+    },
+    "opp_team": "DAL",
+    "opp_position": "RCB",
+    "opponent": "DaRon Bland",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NYG",
+    "position": "RWR",
+    "player": "Malik Nabers",
+    "metric1": {
+      "value": "90.6%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.15,
+      "color": "rgb(198, 232, 216)"
+    },
+    "opp_team": "DAL",
+    "opp_position": "LCB",
+    "opponent": "Trevon Diggs",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NYG",
+    "position": "SWR",
+    "player": "Wan'Dale Robinson",
+    "metric1": {
+      "value": "79.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.91,
+      "color": "rgb(246, 206, 202)"
+    },
+    "opp_team": "DAL",
+    "opp_position": "SCB",
+    "opponent": "Jourdan Lewis",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NYJ",
+    "position": "LWR",
+    "player": "Garrett Wilson",
+    "metric1": {
+      "value": "90.6%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.09,
+      "color": "rgb(236, 248, 242)"
+    },
+    "opp_team": "SEA",
+    "opp_position": "RCB",
+    "opponent": "Riq Woolen",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NYJ",
+    "position": "RWR",
+    "player": "Davante Adams",
+    "metric1": {
+      "value": "89.6%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.02,
+      "color": "rgb(255, 254, 254)"
+    },
+    "opp_team": "SEA",
+    "opp_position": "LCB",
+    "opponent": "Josh Jobe",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "NYJ",
+    "position": "SWR",
+    "player": "Xavier Gipson",
+    "metric1": {
+      "value": "25.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.62,
+      "color": "rgb(232, 130, 121)"
+    },
+    "opp_team": "SEA",
+    "opp_position": "SCB",
+    "opponent": "Devon Witherspoon",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "PHI",
+    "position": "LWR",
+    "player": "Jahan Dotson",
+    "metric1": {
+      "value": "69.6%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.58,
+      "color": "rgb(231, 127, 118)"
+    },
+    "opp_team": "BLT",
+    "opp_position": "RCB",
+    "opponent": "Brandon Stephens",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "PHI",
+    "position": "RWR",
+    "player": "A.J. Brown",
+    "metric1": {
+      "value": "77.2%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.33,
+      "color": "rgb(129, 204, 167)"
+    },
+    "opp_team": "BLT",
+    "opp_position": "LCB",
+    "opponent": "Nate Wiggins",
+    "recommendation": "Start"
+  },
+  {
+    "team": "PHI",
+    "position": "SWR",
+    "player": "Britain Covey",
+    "metric1": {
+      "value": "22.3%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.1,
+      "color": "rgb(230, 245, 237)"
+    },
+    "opp_team": "BLT",
+    "opp_position": "SCB",
+    "opponent": "Marlon Humphrey",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "PIT",
+    "position": "LWR",
+    "player": "George Pickens",
+    "metric1": {
+      "value": "82.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.14,
+      "color": "rgb(202, 234, 218)"
+    },
+    "opp_team": "CIN",
+    "opp_position": "RCB",
+    "opponent": "DJ Turner",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "PIT",
+    "position": "RWR",
+    "player": "Mike Williams",
+    "metric1": {
+      "value": "47.3%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.8,
+      "color": "rgb(237, 157, 150)"
+    },
+    "opp_team": "CIN",
+    "opp_position": "LCB",
+    "opponent": "Cam Taylor-Britt",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "PIT",
+    "position": "SWR",
+    "player": "Calvin Austin",
+    "metric1": {
+      "value": "57.0%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.89,
+      "color": "rgb(243, 189, 185)"
+    },
+    "opp_team": "CIN",
+    "opp_position": "SCB",
+    "opponent": "Mike Hilton",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "SEA",
+    "position": "LWR",
+    "player": "DK Metcalf",
+    "metric1": {
+      "value": "84.9%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.98,
+      "color": "rgb(250, 227, 225)"
+    },
+    "opp_team": "NYJ",
+    "opp_position": "RCB",
+    "opponent": "Sauce Gardner",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "SEA",
+    "position": "RWR",
+    "player": "Tyler Lockett",
+    "metric1": {
+      "value": "76.8%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.84,
+      "color": "rgb(240, 173, 167)"
+    },
+    "opp_team": "NYJ",
+    "opp_position": "LCB",
+    "opponent": "D.J. Reed",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "SEA",
+    "position": "SWR",
+    "player": "Jaxon Smith-Njigba",
+    "metric1": {
+      "value": "85.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.95,
+      "color": "rgb(247, 211, 208)"
+    },
+    "opp_team": "NYJ",
+    "opp_position": "SCB",
+    "opponent": "Michael Carter",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "SF",
+    "position": "LWR",
+    "player": "Deebo Samuel",
+    "metric1": {
+      "value": "69.4%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.95,
+      "color": "rgb(246, 208, 205)"
+    },
+    "opp_team": "BUF",
+    "opp_position": "RCB",
+    "opponent": "Christian Benford",
+    "recommendation": "Neutral"
+  },
+  {
+    "team": "SF",
+    "position": "RWR",
+    "player": "Ricky Pearsall",
+    "metric1": {
+      "value": "68.2%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 0.79,
+      "color": "rgb(236, 152, 144)"
+    },
+    "opp_team": "BUF",
+    "opp_position": "LCB",
+    "opponent": "Rasul Douglas",
+    "recommendation": "Sit"
+  },
+  {
+    "team": "SF",
+    "position": "SWR",
+    "player": "Jauan Jennings",
+    "metric1": {
+      "value": "72.7%",
+      "color": "rgba(0, 0, 0, 0)"
+    },
+    "matchup2": {
+      "value": 1.3,
+      "color": "rgb(139, 209, 175)"
+    },
+    "opp_team": "BUF",
+    "opp_position": "SCB",
+    "opponent": "Taron Johnson",
     "recommendation": "Start"
   },
   {
@@ -1177,16 +1483,16 @@
     "position": "LWR",
     "player": "Mike Evans",
     "metric1": {
-      "value": "69.0%",
+      "value": "67.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.43,
-      "color": "rgb(100, 193, 147)"
+      "value": 1.36,
+      "color": "rgb(115, 199, 158)"
     },
-    "opp_team": "NYG",
+    "opp_team": "CAR",
     "opp_position": "RCB",
-    "opponent": "Deonte Banks",
+    "opponent": "Jaycee Horn",
     "recommendation": "Start"
   },
   {
@@ -1194,33 +1500,33 @@
     "position": "RWR",
     "player": "Jalen McMillan",
     "metric1": {
-      "value": "60.7%",
+      "value": "60.1%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.77,
-      "color": "rgb(235, 148, 140)"
+      "value": 0.9,
+      "color": "rgb(243, 192, 188)"
     },
-    "opp_team": "NYG",
+    "opp_team": "CAR",
     "opp_position": "LCB",
-    "opponent": "Cordale Flott",
-    "recommendation": "Sit"
+    "opponent": "Mike Jackson",
+    "recommendation": "Neutral"
   },
   {
     "team": "TB",
     "position": "SWR",
     "player": "Sterling Shepard",
     "metric1": {
-      "value": "51.1%",
+      "value": "52.0%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.91,
-      "color": "rgb(246, 204, 201)"
+      "value": 1.03,
+      "color": "rgb(250, 253, 252)"
     },
-    "opp_team": "NYG",
+    "opp_team": "CAR",
     "opp_position": "SCB",
-    "opponent": "Andru Phillips",
+    "opponent": "Dane Jackson",
     "recommendation": "Neutral"
   },
   {
@@ -1228,16 +1534,16 @@
     "position": "LWR",
     "player": "Nick Westbrook-Ikhine",
     "metric1": {
-      "value": "49.3%",
+      "value": "52.0%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.07,
-      "color": "rgb(207, 236, 221)"
+      "value": 1.25,
+      "color": "rgb(153, 214, 184)"
     },
-    "opp_team": "HST",
+    "opp_team": "WAS",
     "opp_position": "RCB",
-    "opponent": "Kamari Lassiter",
+    "opponent": "Benjamin St-Juste",
     "recommendation": "Neutral"
   },
   {
@@ -1245,16 +1551,16 @@
     "position": "RWR",
     "player": "Calvin Ridley",
     "metric1": {
-      "value": "80.9%",
+      "value": "80.8%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.05,
-      "color": "rgb(236, 248, 242)"
+      "value": 1.24,
+      "color": "rgb(164, 218, 192)"
     },
-    "opp_team": "HST",
+    "opp_team": "WAS",
     "opp_position": "LCB",
-    "opponent": "Derek Stingley",
+    "opponent": "Mike Sainristil",
     "recommendation": "Neutral"
   },
   {
@@ -1262,33 +1568,33 @@
     "position": "SWR",
     "player": "Tyler Boyd",
     "metric1": {
-      "value": "63.6%",
+      "value": "63.3%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.83,
-      "color": "rgb(239, 171, 165)"
+      "value": 0.8,
+      "color": "rgb(237, 160, 153)"
     },
-    "opp_team": "HST",
+    "opp_team": "WAS",
     "opp_position": "SCB",
-    "opponent": "Jalen Pitre",
-    "recommendation": "Neutral"
+    "opponent": "Noah Igbinoghene",
+    "recommendation": "Sit"
   },
   {
     "team": "WAS",
     "position": "LWR",
     "player": "Terry McLaurin",
     "metric1": {
-      "value": "76.6%",
+      "value": "76.9%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 1.2,
-      "color": "rgb(168, 220, 195)"
+      "value": 1.26,
+      "color": "rgb(150, 213, 182)"
     },
-    "opp_team": "DAL",
+    "opp_team": "TEN",
     "opp_position": "RCB",
-    "opponent": "Trevon Diggs",
+    "opponent": "Jarvis Brownlee",
     "recommendation": "Neutral"
   },
   {
@@ -1296,33 +1602,33 @@
     "position": "RWR",
     "player": "Noah Brown",
     "metric1": {
-      "value": "61.7%",
+      "value": "63.0%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.69,
-      "color": "rgb(234, 141, 133)"
+      "value": 0.97,
+      "color": "rgb(249, 222, 219)"
     },
-    "opp_team": "DAL",
+    "opp_team": "TEN",
     "opp_position": "LCB",
-    "opponent": "DaRon Bland",
-    "recommendation": "Sit"
+    "opponent": "Darrell Baker",
+    "recommendation": "Neutral"
   },
   {
     "team": "WAS",
     "position": "SWR",
     "player": "Luke McCaffrey",
     "metric1": {
-      "value": "41.5%",
+      "value": "40.6%",
       "color": "rgba(0, 0, 0, 0)"
     },
     "matchup2": {
-      "value": 0.69,
-      "color": "rgb(233, 138, 130)"
+      "value": 0.67,
+      "color": "rgb(232, 133, 124)"
     },
-    "opp_team": "DAL",
+    "opp_team": "TEN",
     "opp_position": "SCB",
-    "opponent": "Jourdan Lewis",
+    "opponent": "Roger McCreary",
     "recommendation": "Sit"
   }
 ]

@@ -43,7 +43,7 @@ async function scrapePlayers() {
 
 }
 
-setTimeout(() => {
+setInterval(() => {
     scrapePlayers();
 }, 1000 * 60 * 60 * 24);  // 1 day interval (24 hours)
 

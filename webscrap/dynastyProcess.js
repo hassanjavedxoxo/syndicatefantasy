@@ -15,11 +15,11 @@ async function scrapePlayerData() {
         await page.goto('https://calc.dynastyprocess.com/');
 
         console.log('Waiting for tab link...');
-        await page.waitForSelector('a[data-tab="#tabs-Values"]', { timeout: 5000 });
+        await page.waitForSelector('a[data-tab="#tabs-Values"]', { timeout: 120000 });
         await page.click('a[data-tab="#tabs-Values"]');
 
         console.log('Waiting for table rows...');
-        await page.waitForSelector('tr', { timeout: 10000 });
+        await page.waitForSelector('tr', { timeout: 120000 });
 
         console.log('Extracting data...');
         const data = await page.evaluate(() => {

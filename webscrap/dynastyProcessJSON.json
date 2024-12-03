@@ -2,1002 +2,992 @@
   {
     "name": "JaMarr Chase, WR CIN",
     "age": "24.7",
-    "value": 10136
+    "value": 10160
   },
   {
     "name": "Justin Jefferson, WR MIN",
-    "age": "25.4",
+    "age": "25.5",
     "value": 9971
   },
   {
     "name": "CeeDee Lamb, WR DAL",
     "age": "25.6",
-    "value": 9901
+    "value": 9558
   },
   {
     "name": "Bijan Robinson, RB ATL",
     "age": "22.8",
-    "value": 9424
-  },
-  {
-    "name": "Breece Hall, RB NYJ",
-    "age": "23.5",
-    "value": 9076
+    "value": 9249
   },
   {
     "name": "Amon-Ra St Brown, WR DET",
     "age": "25.1",
-    "value": 8991
-  },
-  {
-    "name": "Malik Nabers, WR NYG",
-    "age": "21.3",
-    "value": 8700
-  },
-  {
-    "name": "Marvin Harrison, WR ARI",
-    "age": "22.3",
-    "value": 8700
+    "value": 9162
   },
   {
     "name": "Jahmyr Gibbs, RB DET",
     "age": "22.7",
-    "value": 8538
+    "value": 8498
   },
   {
-    "name": "Garrett Wilson, WR NYJ",
-    "age": "24.3",
-    "value": 7682
+    "name": "Breece Hall, RB NYJ",
+    "age": "23.5",
+    "value": 8498
   },
   {
-    "name": "AJ Brown, WR PHI",
-    "age": "27.4",
-    "value": 7592
+    "name": "Marvin Harrison, WR ARI",
+    "age": "22.3",
+    "value": 8399
+  },
+  {
+    "name": "Malik Nabers, WR NYG",
+    "age": "21.3",
+    "value": 8340
   },
   {
     "name": "Puka Nacua, WR LAR",
     "age": "23.5",
-    "value": 7209
+    "value": 8321
   },
   {
-    "name": "Jonathan Taylor, RB IND",
-    "age": "25.8",
-    "value": 7042
+    "name": "Garrett Wilson, WR NYJ",
+    "age": "24.4",
+    "value": 7664
+  },
+  {
+    "name": "AJ Brown, WR PHI",
+    "age": "27.4",
+    "value": 7539
   },
   {
     "name": "Nico Collins, WR HOU",
     "age": "25.7",
-    "value": 6943
-  },
-  {
-    "name": "Josh Allen, QB BUF",
-    "age": "28.5",
-    "value": 6782
+    "value": 7108
   },
   {
     "name": "Drake London, WR ATL",
-    "age": "23.3",
-    "value": 6547
+    "age": "23.4",
+    "value": 6862
   },
   {
     "name": "2025 Early 1st",
     "age": "NA",
-    "value": 6535
+    "value": 6568
   },
   {
-    "name": "Kenneth Walker, RB SEA",
-    "age": "24.1",
-    "value": 6350
+    "name": "Jonathan Taylor, RB IND",
+    "age": "25.9",
+    "value": 6380
   },
   {
-    "name": "Brian Thomas, WR JAC",
-    "age": "22.1",
-    "value": 6291
-  },
-  {
-    "name": "Tyreek Hill, WR MIA",
-    "age": "30.7",
-    "value": 6159
-  },
-  {
-    "name": "DeVon Achane, RB MIA",
-    "age": "23.1",
-    "value": 6087
-  },
-  {
-    "name": "Chris Olave, WR NO",
-    "age": "24.4",
-    "value": 6073
-  },
-  {
-    "name": "Saquon Barkley, RB PHI",
-    "age": "27.8",
-    "value": 5918
-  },
-  {
-    "name": "Christian McCaffrey, RB SF",
+    "name": "Josh Allen, QB BUF",
     "age": "28.5",
-    "value": 5876
-  },
-  {
-    "name": "Brock Bowers, TE LV",
-    "age": "21.9",
-    "value": 5554
-  },
-  {
-    "name": "Jaylen Waddle, WR MIA",
-    "age": "26",
-    "value": 5515
-  },
-  {
-    "name": "Trey McBride, TE ARI",
-    "age": "25",
-    "value": 5425
-  },
-  {
-    "name": "Lamar Jackson, QB BAL",
-    "age": "27.9",
-    "value": 5387
+    "value": 6350
   },
   {
     "name": "Rome Odunze, WR CHI",
     "age": "22.5",
-    "value": 5299
+    "value": 5960
   },
   {
-    "name": "Sam LaPorta, TE DET",
-    "age": "23.9",
-    "value": 5262
+    "name": "Kenneth Walker, RB SEA",
+    "age": "24.1",
+    "value": 5932
+  },
+  {
+    "name": "DeVon Achane, RB MIA",
+    "age": "23.1",
+    "value": 5794
+  },
+  {
+    "name": "Saquon Barkley, RB PHI",
+    "age": "27.8",
+    "value": 5620
+  },
+  {
+    "name": "Christian McCaffrey, RB SF",
+    "age": "28.5",
+    "value": 5502
+  },
+  {
+    "name": "Chris Olave, WR NO",
+    "age": "24.4",
+    "value": 5463
   },
   {
     "name": "DeVonta Smith, WR PHI",
     "age": "26",
-    "value": 5237
+    "value": 5274
   },
   {
-    "name": "CJ Stroud, QB HOU",
-    "age": "23.1",
+    "name": "Trey McBride, TE ARI",
+    "age": "25",
     "value": 5164
   },
   {
-    "name": "James Cook, RB BUF",
-    "age": "25.2",
-    "value": 5068
+    "name": "Lamar Jackson, QB BAL",
+    "age": "27.9",
+    "value": 5092
   },
   {
-    "name": "Jayden Reed, WR GB",
-    "age": "24.6",
-    "value": 4973
+    "name": "Tyreek Hill, WR MIA",
+    "age": "30.7",
+    "value": 5092
   },
   {
-    "name": "Patrick Mahomes, QB KC",
-    "age": "29.2",
-    "value": 4846
-  },
-  {
-    "name": "Kyren Williams, RB LAR",
-    "age": "24.2",
-    "value": 4835
-  },
-  {
-    "name": "Brandon Aiyuk, WR SF",
-    "age": "26.7",
-    "value": 4624
-  },
-  {
-    "name": "Jayden Daniels, QB WAS",
+    "name": "Sam LaPorta, TE DET",
     "age": "23.9",
-    "value": 4591
-  },
-  {
-    "name": "DK Metcalf, WR SEA",
-    "age": "26.9",
-    "value": 4464
-  },
-  {
-    "name": "Zay Flowers, WR BAL",
-    "age": "24.2",
-    "value": 4360
-  },
-  {
-    "name": "Jalen Hurts, QB PHI",
-    "age": "26.3",
-    "value": 4179
-  },
-  {
-    "name": "Josh Jacobs, RB GB",
-    "age": "26.8",
-    "value": 4025
-  },
-  {
-    "name": "DJ Moore, WR CHI",
-    "age": "27.6",
-    "value": 3913
-  },
-  {
-    "name": "Travis Etienne, RB JAC",
-    "age": "25.8",
-    "value": 3913
-  },
-  {
-    "name": "Jonathon Brooks, RB CAR",
-    "age": "21.3",
-    "value": 3690
-  },
-  {
-    "name": "2025 1st",
-    "age": "NA",
-    "value": 3653
-  },
-  {
-    "name": "Joe Burrow, QB CIN",
-    "age": "28",
-    "value": 3463
-  },
-  {
-    "name": "George Pickens, WR PIT",
-    "age": "23.7",
-    "value": 3423
-  },
-  {
-    "name": "Michael Pittman, WR IND",
-    "age": "27.1",
-    "value": 3328
-  },
-  {
-    "name": "2026 1st",
-    "age": "NA",
-    "value": 3288
-  },
-  {
-    "name": "Tank Dell, WR HOU",
-    "age": "25.1",
-    "value": 3281
-  },
-  {
-    "name": "Tee Higgins, WR CIN",
-    "age": "25.8",
-    "value": 3273
-  },
-  {
-    "name": "Rashee Rice, WR KC",
-    "age": "24.6",
-    "value": 3258
-  },
-  {
-    "name": "Kyle Pitts, TE ATL",
-    "age": "24.1",
-    "value": 3227
-  },
-  {
-    "name": "Derrick Henry, RB BAL",
-    "age": "30.9",
-    "value": 3108
-  },
-  {
-    "name": "2025 Mid 1st",
-    "age": "NA",
-    "value": 3071
-  },
-  {
-    "name": "Dalton Kincaid, TE BUF",
-    "age": "25.1",
-    "value": 3036
-  },
-  {
-    "name": "2027 1st",
-    "age": "NA",
-    "value": 2959
+    "value": 5092
   },
   {
     "name": "Jaxon Smith-Njigba, WR SEA",
     "age": "22.8",
-    "value": 2843
+    "value": 5008
   },
   {
-    "name": "Terry McLaurin, WR WAS",
+    "name": "Zay Flowers, WR BAL",
+    "age": "24.2",
+    "value": 4835
+  },
+  {
+    "name": "Brian Thomas, WR JAC",
+    "age": "22.1",
+    "value": 4801
+  },
+  {
+    "name": "Jalen Hurts, QB PHI",
+    "age": "26.3",
+    "value": 4801
+  },
+  {
+    "name": "Patrick Mahomes, QB KC",
     "age": "29.2",
-    "value": 2803
+    "value": 4668
   },
   {
-    "name": "Joe Mixon, RB HOU",
-    "age": "28.3",
-    "value": 2764
+    "name": "DK Metcalf, WR SEA",
+    "age": "27",
+    "value": 4613
   },
   {
-    "name": "Jordan Love, QB GB",
-    "age": "26.1",
-    "value": 2725
+    "name": "CJ Stroud, QB HOU",
+    "age": "23.2",
+    "value": 4485
   },
   {
-    "name": "Caleb Williams, QB CHI",
-    "age": "23",
-    "value": 2606
+    "name": "Jaylen Waddle, WR MIA",
+    "age": "26",
+    "value": 4453
   },
   {
-    "name": "Trey Benson, RB ARI",
-    "age": "22.3",
-    "value": 2492
+    "name": "James Cook, RB BUF",
+    "age": "25.2",
+    "value": 4432
   },
   {
-    "name": "David Montgomery, RB DET",
-    "age": "27.5",
-    "value": 2492
+    "name": "Brandon Aiyuk, WR SF",
+    "age": "26.7",
+    "value": 4360
   },
   {
-    "name": "Isiah Pacheco, RB KC",
-    "age": "25.7",
-    "value": 2367
+    "name": "Kyren Williams, RB LAR",
+    "age": "24.3",
+    "value": 4329
   },
   {
-    "name": "Xavier Worthy, WR KC",
-    "age": "21.6",
-    "value": 2334
+    "name": "Josh Jacobs, RB GB",
+    "age": "26.8",
+    "value": 4319
   },
   {
-    "name": "Deebo Samuel, WR SF",
-    "age": "28.9",
-    "value": 2334
+    "name": "George Pickens, WR PIT",
+    "age": "23.7",
+    "value": 4269
   },
   {
-    "name": "Jordan Addison, WR MIN",
-    "age": "22.8",
-    "value": 2290
+    "name": "Brock Bowers, TE LV",
+    "age": "22",
+    "value": 4082
   },
   {
-    "name": "TJ Hockenson, TE MIN",
-    "age": "27.4",
-    "value": 2237
+    "name": "Rashee Rice, WR KC",
+    "age": "24.6",
+    "value": 3960
+  },
+  {
+    "name": "Jayden Daniels, QB WAS",
+    "age": "23.9",
+    "value": 3895
+  },
+  {
+    "name": "Joe Burrow, QB CIN",
+    "age": "28",
+    "value": 3751
+  },
+  {
+    "name": "Tee Higgins, WR CIN",
+    "age": "25.8",
+    "value": 3734
+  },
+  {
+    "name": "2025 1st",
+    "age": "NA",
+    "value": 3633
   },
   {
     "name": "Ladd McConkey, WR LAC",
     "age": "23.1",
-    "value": 2164
+    "value": 3537
   },
   {
-    "name": "Kyler Murray, QB ARI",
-    "age": "27.3",
-    "value": 2104
+    "name": "2026 1st",
+    "age": "NA",
+    "value": 3270
   },
   {
-    "name": "Tony Pollard, RB TEN",
+    "name": "Derrick Henry, RB BAL",
+    "age": "30.9",
+    "value": 3220
+  },
+  {
+    "name": "Tank Dell, WR HOU",
+    "age": "25.1",
+    "value": 3205
+  },
+  {
+    "name": "Terry McLaurin, WR WAS",
+    "age": "29.2",
+    "value": 3116
+  },
+  {
+    "name": "DJ Moore, WR CHI",
     "age": "27.6",
-    "value": 2094
+    "value": 3079
   },
   {
-    "name": "Chris Godwin, WR TB",
-    "age": "28.7",
-    "value": 2027
+    "name": "Travis Etienne, RB JAC",
+    "age": "25.8",
+    "value": 3050
   },
   {
-    "name": "Alvin Kamara, RB NO",
-    "age": "29.3",
-    "value": 2008
+    "name": "2025 Mid 1st",
+    "age": "NA",
+    "value": 2980
   },
   {
-    "name": "Brian Robinson, RB WAS",
-    "age": "25.7",
-    "value": 1943
+    "name": "Joe Mixon, RB HOU",
+    "age": "28.4",
+    "value": 2952
   },
   {
-    "name": "DAndre Swift, RB CHI",
-    "age": "25.9",
-    "value": 1871
+    "name": "2027 1st",
+    "age": "NA",
+    "value": 2943
   },
   {
-    "name": "Tyrone Tracy, RB NYG",
-    "age": "25",
-    "value": 1853
+    "name": "Kyle Pitts, TE ATL",
+    "age": "24.1",
+    "value": 2910
   },
   {
-    "name": "Mike Evans, WR TB",
-    "age": "31.3",
-    "value": 1836
+    "name": "David Montgomery, RB DET",
+    "age": "27.5",
+    "value": 2849
   },
   {
-    "name": "Jameson Williams, WR DET",
-    "age": "23.7",
-    "value": 1744
+    "name": "Jayden Reed, WR GB",
+    "age": "24.6",
+    "value": 2836
+  },
+  {
+    "name": "TJ Hockenson, TE MIN",
+    "age": "27.4",
+    "value": 2836
+  },
+  {
+    "name": "Dalton Kincaid, TE BUF",
+    "age": "25.1",
+    "value": 2624
+  },
+  {
+    "name": "Michael Pittman, WR IND",
+    "age": "27.2",
+    "value": 2582
   },
   {
     "name": "George Kittle, TE SF",
     "age": "31.1",
-    "value": 1735
+    "value": 2434
   },
   {
-    "name": "Davante Adams, WR NYJ",
-    "age": "NA",
-    "value": 1735
+    "name": "Jonathon Brooks, RB CAR",
+    "age": "21.4",
+    "value": 2367
   },
   {
-    "name": "Evan Engram, TE JAC",
-    "age": "30.2",
-    "value": 1727
-  },
-  {
-    "name": "Rhamondre Stevenson, RB NE",
-    "age": "26.7",
-    "value": 1711
-  },
-  {
-    "name": "Travis Kelce, TE KC",
-    "age": "35.1",
-    "value": 1695
-  },
-  {
-    "name": "David Njoku, TE CLE",
-    "age": "28.4",
-    "value": 1664
-  },
-  {
-    "name": "Amari Cooper, WR BUF",
-    "age": "NA",
-    "value": 1565
-  },
-  {
-    "name": "Diontae Johnson, WR BAL",
-    "age": "NA",
-    "value": 1521
-  },
-  {
-    "name": "Cooper Kupp, WR LAR",
-    "age": "31.4",
-    "value": 1521
+    "name": "Jordan Love, QB GB",
+    "age": "26.1",
+    "value": 2345
   },
   {
     "name": "Josh Downs, WR IND",
     "age": "23.3",
-    "value": 1465
+    "value": 2237
   },
   {
-    "name": "Jake Ferguson, TE DAL",
-    "age": "25.8",
-    "value": 1465
+    "name": "Jameson Williams, WR DET",
+    "age": "23.7",
+    "value": 2211
   },
   {
-    "name": "Brock Purdy, QB SF",
-    "age": "24.9",
-    "value": 1438
+    "name": "Brian Robinson, RB WAS",
+    "age": "25.7",
+    "value": 2124
+  },
+  {
+    "name": "Isiah Pacheco, RB KC",
+    "age": "25.7",
+    "value": 2109
+  },
+  {
+    "name": "Rhamondre Stevenson, RB NE",
+    "age": "26.8",
+    "value": 2085
   },
   {
     "name": "Chase Brown, RB CIN",
     "age": "24.7",
-    "value": 1418
+    "value": 2065
   },
   {
-    "name": "2025 Late 1st",
-    "age": "NA",
-    "value": 1354
-  },
-  {
-    "name": "Anthony Richardson, QB IND",
-    "age": "22.5",
-    "value": 1306
-  },
-  {
-    "name": "Najee Harris, RB PIT",
-    "age": "26.7",
-    "value": 1273
-  },
-  {
-    "name": "Mark Andrews, TE BAL",
-    "age": "29.2",
-    "value": 1243
-  },
-  {
-    "name": "Rachaad White, RB TB",
-    "age": "25.6",
-    "value": 1231
+    "name": "Tony Pollard, RB TEN",
+    "age": "27.6",
+    "value": 2060
   },
   {
     "name": "Justin Herbert, QB LAC",
     "age": "26.7",
-    "value": 1137
+    "value": 2003
   },
   {
-    "name": "Keon Coleman, WR BUF",
-    "age": "21.5",
-    "value": 1090
+    "name": "Deebo Samuel, WR SF",
+    "age": "28.9",
+    "value": 1980
   },
   {
-    "name": "Stefon Diggs, WR HOU",
-    "age": "31",
-    "value": 1075
+    "name": "Xavier Worthy, WR KC",
+    "age": "21.6",
+    "value": 1943
   },
   {
-    "name": "Christian Watson, WR GB",
-    "age": "25.5",
-    "value": 992
+    "name": "Travis Kelce, TE KC",
+    "age": "35.2",
+    "value": 1898
   },
   {
-    "name": "Khalil Shakir, WR BUF",
-    "age": "24.8",
-    "value": 969
+    "name": "Caleb Williams, QB CHI",
+    "age": "23",
+    "value": 1875
   },
   {
-    "name": "Tucker Kraft, TE GB",
-    "age": "24.1",
-    "value": 960
-  },
-  {
-    "name": "Drake Maye, QB NE",
-    "age": "22.2",
-    "value": 951
-  },
-  {
-    "name": "Calvin Ridley, WR TEN",
-    "age": "29.9",
-    "value": 929
-  },
-  {
-    "name": "Dak Prescott, QB DAL",
+    "name": "Mike Evans, WR TB",
     "age": "31.3",
-    "value": 899
+    "value": 1858
   },
   {
-    "name": "James Conner, RB ARI",
-    "age": "29.6",
-    "value": 886
+    "name": "Cooper Kupp, WR LAR",
+    "age": "31.5",
+    "value": 1823
   },
   {
-    "name": "Aaron Jones, RB MIN",
-    "age": "30",
-    "value": 878
+    "name": "DAndre Swift, RB CHI",
+    "age": "25.9",
+    "value": 1823
+  },
+  {
+    "name": "Alvin Kamara, RB NO",
+    "age": "29.3",
+    "value": 1810
+  },
+  {
+    "name": "Anthony Richardson, QB IND",
+    "age": "22.5",
+    "value": 1781
+  },
+  {
+    "name": "David Njoku, TE CLE",
+    "age": "28.4",
+    "value": 1687
+  },
+  {
+    "name": "Jordan Addison, WR MIN",
+    "age": "22.8",
+    "value": 1621
+  },
+  {
+    "name": "Kyler Murray, QB ARI",
+    "age": "27.3",
+    "value": 1536
   },
   {
     "name": "Bucky Irving, RB TB",
     "age": "22.3",
-    "value": 830
+    "value": 1476
   },
   {
-    "name": "Trevor Lawrence, QB JAC",
-    "age": "25.1",
-    "value": 814
+    "name": "Evan Engram, TE JAC",
+    "age": "30.2",
+    "value": 1431
   },
   {
-    "name": "JK Dobbins, RB LAC",
-    "age": "25.9",
-    "value": 803
+    "name": "Chris Godwin, WR TB",
+    "age": "28.8",
+    "value": 1401
   },
   {
-    "name": "Jared Goff, QB DET",
-    "age": "30.1",
-    "value": 773
+    "name": "Mark Andrews, TE BAL",
+    "age": "29.2",
+    "value": 1391
   },
   {
-    "name": "Christian Kirk, WR JAC",
-    "age": "28",
-    "value": 770
+    "name": "Najee Harris, RB PIT",
+    "age": "26.7",
+    "value": 1385
   },
   {
-    "name": "Jordan Mason, RB SF",
-    "age": "25.5",
-    "value": 745
-  },
-  {
-    "name": "Tyjae Spears, RB TEN",
-    "age": "23.4",
-    "value": 741
-  },
-  {
-    "name": "Xavier Legette, WR CAR",
-    "age": "23.8",
-    "value": 738
-  },
-  {
-    "name": "Baker Mayfield, QB TB",
-    "age": "29.6",
-    "value": 727
-  },
-  {
-    "name": "Ricky Pearsall, WR SF",
-    "age": "24.2",
-    "value": 717
-  },
-  {
-    "name": "Blake Corum, RB LAR",
-    "age": "24",
-    "value": 717
-  },
-  {
-    "name": "Darnell Mooney, WR ATL",
-    "age": "27.1",
-    "value": 701
-  },
-  {
-    "name": "Courtland Sutton, WR DEN",
-    "age": "29.1",
-    "value": 672
-  },
-  {
-    "name": "Braelon Allen, RB NYJ",
-    "age": "20.8",
-    "value": 659
-  },
-  {
-    "name": "Dallas Goedert, TE PHI",
-    "age": "29.9",
-    "value": 656
-  },
-  {
-    "name": "Jakobi Meyers, WR LV",
-    "age": "28",
-    "value": 650
-  },
-  {
-    "name": "Pat Freiermuth, TE PIT",
-    "age": "26.1",
-    "value": 647
-  },
-  {
-    "name": "Cole Kmet, TE CHI",
-    "age": "25.7",
-    "value": 641
-  },
-  {
-    "name": "Zach Charbonnet, RB SEA",
-    "age": "23.9",
-    "value": 635
-  },
-  {
-    "name": "2025 Early 2nd",
+    "name": "2025 Late 1st",
     "age": "NA",
-    "value": 630
+    "value": 1351
   },
   {
-    "name": "Jaylen Warren, RB PIT",
-    "age": "26.1",
-    "value": 617
+    "name": "Drake Maye, QB NE",
+    "age": "22.3",
+    "value": 1312
+  },
+  {
+    "name": "Calvin Ridley, WR TEN",
+    "age": "29.9",
+    "value": 1273
   },
   {
     "name": "Chuba Hubbard, RB CAR",
     "age": "25.5",
-    "value": 592
+    "value": 1217
+  },
+  {
+    "name": "Khalil Shakir, WR BUF",
+    "age": "24.8",
+    "value": 1186
+  },
+  {
+    "name": "Trey Benson, RB ARI",
+    "age": "22.4",
+    "value": 1167
+  },
+  {
+    "name": "Keon Coleman, WR BUF",
+    "age": "21.5",
+    "value": 1161
+  },
+  {
+    "name": "James Conner, RB ARI",
+    "age": "29.6",
+    "value": 1161
+  },
+  {
+    "name": "Amari Cooper, WR BUF",
+    "age": "NA",
+    "value": 1134
+  },
+  {
+    "name": "Davante Adams, WR NYJ",
+    "age": "NA",
+    "value": 1113
+  },
+  {
+    "name": "Aaron Jones, RB MIN",
+    "age": "30",
+    "value": 1075
+  },
+  {
+    "name": "Rachaad White, RB TB",
+    "age": "25.6",
+    "value": 1062
+  },
+  {
+    "name": "Tucker Kraft, TE GB",
+    "age": "24.1",
+    "value": 1055
+  },
+  {
+    "name": "Brock Purdy, QB SF",
+    "age": "24.9",
+    "value": 1032
+  },
+  {
+    "name": "Courtland Sutton, WR DEN",
+    "age": "29.1",
+    "value": 1020
+  },
+  {
+    "name": "Tyrone Tracy, RB NYG",
+    "age": "25",
+    "value": 927
+  },
+  {
+    "name": "Jake Ferguson, TE DAL",
+    "age": "25.9",
+    "value": 922
+  },
+  {
+    "name": "Jared Goff, QB DET",
+    "age": "30.1",
+    "value": 905
+  },
+  {
+    "name": "Darnell Mooney, WR ATL",
+    "age": "27.1",
+    "value": 895
+  },
+  {
+    "name": "Christian Watson, WR GB",
+    "age": "25.6",
+    "value": 876
+  },
+  {
+    "name": "Ricky Pearsall, WR SF",
+    "age": "24.2",
+    "value": 816
+  },
+  {
+    "name": "JK Dobbins, RB LAC",
+    "age": "26",
+    "value": 782
   },
   {
     "name": "Javonte Williams, RB DEN",
     "age": "24.6",
-    "value": 575
+    "value": 773
   },
   {
-    "name": "Bo Nix, QB DEN",
-    "age": "24.7",
-    "value": 572
+    "name": "Xavier Legette, WR CAR",
+    "age": "23.8",
+    "value": 759
   },
   {
-    "name": "Isaiah Likely, TE BAL",
-    "age": "24.6",
-    "value": 556
+    "name": "Zach Charbonnet, RB SEA",
+    "age": "23.9",
+    "value": 759
   },
   {
-    "name": "Nick Chubb, RB CLE",
-    "age": "28.9",
-    "value": 554
+    "name": "Stefon Diggs, WR HOU",
+    "age": "31",
+    "value": 707
   },
   {
-    "name": "Tua Tagovailoa, QB MIA",
-    "age": "26.7",
-    "value": 546
+    "name": "Jakobi Meyers, WR LV",
+    "age": "28.1",
+    "value": 704
   },
   {
-    "name": "DeAndre Hopkins, WR KC",
+    "name": "Diontae Johnson, WR BAL",
     "age": "NA",
-    "value": 531
+    "value": 684
   },
   {
-    "name": "Romeo Doubs, WR GB",
-    "age": "24.6",
-    "value": 514
+    "name": "Jaylen Warren, RB PIT",
+    "age": "26.1",
+    "value": 683
   },
   {
-    "name": "Keenan Allen, WR CHI",
-    "age": "32.6",
-    "value": 504
+    "name": "Dak Prescott, QB DAL",
+    "age": "31.3",
+    "value": 656
+  },
+  {
+    "name": "Dallas Goedert, TE PHI",
+    "age": "29.9",
+    "value": 653
   },
   {
     "name": "Jerry Jeudy, WR CLE",
     "age": "25.6",
-    "value": 499
+    "value": 645
   },
   {
-    "name": "Cedric Tillman, WR CLE",
-    "age": "24.6",
-    "value": 490
+    "name": "2025 Early 2nd",
+    "age": "NA",
+    "value": 645
   },
   {
-    "name": "Rashid Shaheed, WR NO",
-    "age": "26.2",
-    "value": 468
+    "name": "Braelon Allen, RB NYJ",
+    "age": "20.9",
+    "value": 621
   },
   {
-    "name": "Tank Bigsby, RB JAC",
-    "age": "23.2",
-    "value": 430
+    "name": "Trevor Lawrence, QB JAC",
+    "age": "25.1",
+    "value": 619
   },
   {
-    "name": "Jalen McMillan, WR TB",
-    "age": "23",
-    "value": 416
+    "name": "Cole Kmet, TE CHI",
+    "age": "25.7",
+    "value": 581
+  },
+  {
+    "name": "Tua Tagovailoa, QB MIA",
+    "age": "26.7",
+    "value": 570
+  },
+  {
+    "name": "Baker Mayfield, QB TB",
+    "age": "29.6",
+    "value": 570
+  },
+  {
+    "name": "JJ McCarthy, QB MIN",
+    "age": "21.9",
+    "value": 541
   },
   {
     "name": "Adonai Mitchell, WR IND",
     "age": "22.1",
-    "value": 412
+    "value": 535
   },
   {
-    "name": "Marquise Brown, WR KC",
-    "age": "27.5",
-    "value": 408
-  },
-  {
-    "name": "WanDale Robinson, WR NYG",
-    "age": "23.9",
-    "value": 400
-  },
-  {
-    "name": "Ray Davis, RB BUF",
-    "age": "25",
-    "value": 395
-  },
-  {
-    "name": "Cade Otton, TE TB",
-    "age": "25.6",
-    "value": 368
-  },
-  {
-    "name": "Dontayvion Wicks, WR GB",
-    "age": "23.4",
-    "value": 368
-  },
-  {
-    "name": "2025 2nd",
+    "name": "DeAndre Hopkins, WR KC",
     "age": "NA",
-    "value": 365
+    "value": 533
   },
   {
-    "name": "JJ McCarthy, QB MIN",
-    "age": "21.8",
-    "value": 359
+    "name": "Jordan Mason, RB SF",
+    "age": "25.5",
+    "value": 528
   },
   {
-    "name": "Dalton Schultz, TE HOU",
-    "age": "28.4",
-    "value": 349
+    "name": "Bo Nix, QB DEN",
+    "age": "24.8",
+    "value": 515
   },
   {
-    "name": "2026 2nd",
-    "age": "NA",
-    "value": 329
+    "name": "Christian Kirk, WR JAC",
+    "age": "28",
+    "value": 504
   },
   {
-    "name": "Austin Ekeler, RB WAS",
-    "age": "29.5",
-    "value": 315
-  },
-  {
-    "name": "Michael Wilson, WR ARI",
-    "age": "24.7",
-    "value": 315
-  },
-  {
-    "name": "Geno Smith, QB SEA",
-    "age": "34.1",
-    "value": 311
-  },
-  {
-    "name": "Devin Singletary, RB NYG",
-    "age": "27.2",
-    "value": 309
-  },
-  {
-    "name": "MarShawn Lloyd, RB GB",
-    "age": "23.9",
-    "value": 309
-  },
-  {
-    "name": "Kirk Cousins, QB ATL",
-    "age": "36.3",
-    "value": 308
-  },
-  {
-    "name": "2025 Mid 2nd",
-    "age": "NA",
-    "value": 308
-  },
-  {
-    "name": "JaLynn Polk, WR NE",
-    "age": "22.6",
-    "value": 306
-  },
-  {
-    "name": "Ben Sinnott, TE WAS",
-    "age": "22.4",
-    "value": 299
-  },
-  {
-    "name": "2027 2nd",
-    "age": "NA",
-    "value": 296
-  },
-  {
-    "name": "Tyler Lockett, WR SEA",
-    "age": "32.2",
-    "value": 241
-  },
-  {
-    "name": "Jerome Ford, RB CLE",
-    "age": "25.2",
-    "value": 234
-  },
-  {
-    "name": "Jaylen Wright, RB MIA",
-    "age": "21.6",
-    "value": 230
-  },
-  {
-    "name": "Rico Dowdle, RB DAL",
-    "age": "26.4",
-    "value": 227
-  },
-  {
-    "name": "Tyler Allgeier, RB ATL",
-    "age": "24.6",
-    "value": 225
-  },
-  {
-    "name": "Kareem Hunt, RB KC",
-    "age": "NA",
-    "value": 220
-  },
-  {
-    "name": "Josh Palmer, WR LAC",
-    "age": "25.2",
-    "value": 214
-  },
-  {
-    "name": "Zack Moss, RB CIN",
-    "age": "26.9",
-    "value": 206
-  },
-  {
-    "name": "Gabriel Davis, WR JAC",
-    "age": "25.6",
-    "value": 200
-  },
-  {
-    "name": "Jermaine Burton, WR CIN",
-    "age": "23.4",
-    "value": 190
-  },
-  {
-    "name": "Jauan Jennings, WR SF",
-    "age": "27.4",
-    "value": 186
-  },
-  {
-    "name": "Troy Franklin, WR DEN",
-    "age": "21.8",
-    "value": 182
-  },
-  {
-    "name": "Zamir White, RB LV",
-    "age": "25.2",
-    "value": 178
-  },
-  {
-    "name": "Noah Fant, TE SEA",
-    "age": "27",
-    "value": 178
-  },
-  {
-    "name": "Justin Fields, QB PIT",
-    "age": "25.7",
-    "value": 173
-  },
-  {
-    "name": "Matthew Stafford, QB LAR",
-    "age": "36.8",
-    "value": 173
-  },
-  {
-    "name": "Roschon Johnson, RB CHI",
-    "age": "23.8",
-    "value": 171
-  },
-  {
-    "name": "JaTavion Sanders, TE CAR",
-    "age": "21.7",
-    "value": 163
-  },
-  {
-    "name": "2025 Late 2nd",
-    "age": "NA",
-    "value": 158
-  },
-  {
-    "name": "Kimani Vidal, RB LAC",
-    "age": "23.2",
-    "value": 156
-  },
-  {
-    "name": "Raheem Mostert, RB MIA",
-    "age": "32.6",
-    "value": 152
-  },
-  {
-    "name": "Theo Johnson, TE NYG",
-    "age": "23.7",
-    "value": 152
-  },
-  {
-    "name": "Roman Wilson, WR PIT",
-    "age": "23.4",
-    "value": 148
-  },
-  {
-    "name": "Hunter Henry, TE NE",
-    "age": "30",
-    "value": 144
+    "name": "Nick Chubb, RB CLE",
+    "age": "28.9",
+    "value": 503
   },
   {
     "name": "Quentin Johnston, WR LAC",
     "age": "23.2",
-    "value": 142
+    "value": 495
   },
   {
-    "name": "Erick All, TE CIN",
-    "age": "24.2",
-    "value": 140
+    "name": "Romeo Doubs, WR GB",
+    "age": "24.6",
+    "value": 495
   },
   {
-    "name": "Luke Musgrave, TE GB",
-    "age": "24.2",
-    "value": 135
+    "name": "Tyjae Spears, RB TEN",
+    "age": "23.5",
+    "value": 486
   },
   {
-    "name": "Jahan Dotson, WR PHI",
+    "name": "Rashid Shaheed, WR NO",
+    "age": "26.2",
+    "value": 461
+  },
+  {
+    "name": "Tank Bigsby, RB JAC",
+    "age": "23.2",
+    "value": 427
+  },
+  {
+    "name": "Cade Otton, TE TB",
+    "age": "25.6",
+    "value": 427
+  },
+  {
+    "name": "Jaylen Wright, RB MIA",
+    "age": "21.7",
+    "value": 389
+  },
+  {
+    "name": "2025 2nd",
     "age": "NA",
-    "value": 127
+    "value": 380
   },
   {
-    "name": "Rashod Bateman, WR BAL",
-    "age": "25",
-    "value": 126
+    "name": "Blake Corum, RB LAR",
+    "age": "24",
+    "value": 378
   },
   {
-    "name": "Kendre Miller, RB NO",
-    "age": "22.5",
-    "value": 125
+    "name": "Dontayvion Wicks, WR GB",
+    "age": "23.5",
+    "value": 365
   },
   {
-    "name": "Michael Penix, QB ATL",
-    "age": "24.5",
-    "value": 124
+    "name": "Pat Freiermuth, TE PIT",
+    "age": "26.1",
+    "value": 365
+  },
+  {
+    "name": "Ray Davis, RB BUF",
+    "age": "25.1",
+    "value": 350
+  },
+  {
+    "name": "Keenan Allen, WR CHI",
+    "age": "32.6",
+    "value": 345
+  },
+  {
+    "name": "2026 2nd",
+    "age": "NA",
+    "value": 342
+  },
+  {
+    "name": "Jauan Jennings, WR SF",
+    "age": "27.4",
+    "value": 330
+  },
+  {
+    "name": "Cedric Tillman, WR CLE",
+    "age": "24.6",
+    "value": 327
+  },
+  {
+    "name": "WanDale Robinson, WR NYG",
+    "age": "23.9",
+    "value": 326
+  },
+  {
+    "name": "Isaiah Likely, TE BAL",
+    "age": "24.6",
+    "value": 326
+  },
+  {
+    "name": "2025 Mid 2nd",
+    "age": "NA",
+    "value": 324
+  },
+  {
+    "name": "Taysom Hill, TE NO",
+    "age": "34.3",
+    "value": 317
+  },
+  {
+    "name": "2027 2nd",
+    "age": "NA",
+    "value": 308
+  },
+  {
+    "name": "Roschon Johnson, RB CHI",
+    "age": "23.8",
+    "value": 304
+  },
+  {
+    "name": "Austin Ekeler, RB WAS",
+    "age": "29.5",
+    "value": 301
   },
   {
     "name": "DeMario Douglas, WR NE",
     "age": "24",
-    "value": 124
+    "value": 294
+  },
+  {
+    "name": "Devin Singletary, RB NYG",
+    "age": "27.2",
+    "value": 290
+  },
+  {
+    "name": "Tyler Allgeier, RB ATL",
+    "age": "24.6",
+    "value": 280
+  },
+  {
+    "name": "Rashod Bateman, WR BAL",
+    "age": "25",
+    "value": 259
+  },
+  {
+    "name": "MarShawn Lloyd, RB GB",
+    "age": "23.9",
+    "value": 259
+  },
+  {
+    "name": "Marquise Brown, WR KC",
+    "age": "27.5",
+    "value": 256
+  },
+  {
+    "name": "Audric Estime, RB DEN",
+    "age": "21.2",
+    "value": 249
+  },
+  {
+    "name": "Jonnu Smith, TE MIA",
+    "age": "29.3",
+    "value": 243
+  },
+  {
+    "name": "Michael Penix, QB ATL",
+    "age": "24.6",
+    "value": 224
+  },
+  {
+    "name": "Jalen McMillan, WR TB",
+    "age": "23",
+    "value": 222
+  },
+  {
+    "name": "Rico Dowdle, RB DAL",
+    "age": "26.5",
+    "value": 193
+  },
+  {
+    "name": "Troy Franklin, WR DEN",
+    "age": "21.8",
+    "value": 192
+  },
+  {
+    "name": "Geno Smith, QB SEA",
+    "age": "34.1",
+    "value": 191
+  },
+  {
+    "name": "JaTavion Sanders, TE CAR",
+    "age": "21.7",
+    "value": 190
+  },
+  {
+    "name": "Jerome Ford, RB CLE",
+    "age": "25.2",
+    "value": 189
+  },
+  {
+    "name": "Justin Fields, QB PIT",
+    "age": "25.7",
+    "value": 187
+  },
+  {
+    "name": "Hunter Henry, TE NE",
+    "age": "30",
+    "value": 180
+  },
+  {
+    "name": "Tyler Lockett, WR SEA",
+    "age": "32.2",
+    "value": 171
+  },
+  {
+    "name": "2025 Late 2nd",
+    "age": "NA",
+    "value": 171
+  },
+  {
+    "name": "Michael Wilson, WR ARI",
+    "age": "24.8",
+    "value": 167
+  },
+  {
+    "name": "Noah Gray, TE KC",
+    "age": "25.6",
+    "value": 163
+  },
+  {
+    "name": "JaLynn Polk, WR NE",
+    "age": "22.6",
+    "value": 162
   },
   {
     "name": "Sam Darnold, QB MIN",
     "age": "27.5",
-    "value": 114
+    "value": 150
+  },
+  {
+    "name": "Matthew Stafford, QB LAR",
+    "age": "36.8",
+    "value": 146
+  },
+  {
+    "name": "Kirk Cousins, QB ATL",
+    "age": "36.3",
+    "value": 141
+  },
+  {
+    "name": "Zack Moss, RB CIN",
+    "age": "27",
+    "value": 135
+  },
+  {
+    "name": "Gabriel Davis, WR JAC",
+    "age": "25.7",
+    "value": 135
+  },
+  {
+    "name": "Josh Palmer, WR LAC",
+    "age": "25.2",
+    "value": 135
+  },
+  {
+    "name": "Sean Tucker, RB TB",
+    "age": "23.1",
+    "value": 133
+  },
+  {
+    "name": "Jermaine Burton, WR CIN",
+    "age": "23.4",
+    "value": 131
   },
   {
     "name": "Isaac Guerendo, RB SF",
     "age": "24.4",
-    "value": 113
+    "value": 121
   },
   {
-    "name": "Jalen Tolbert, WR DAL",
-    "age": "25.7",
+    "name": "Jalen Coker, WR CAR",
+    "age": "NA",
+    "value": 121
+  },
+  {
+    "name": "Devaughn Vele, WR DEN",
+    "age": "NA",
+    "value": 121
+  },
+  {
+    "name": "Elijah Moore, WR CLE",
+    "age": "24.7",
+    "value": 119
+  },
+  {
+    "name": "Dalton Schultz, TE HOU",
+    "age": "28.4",
+    "value": 117
+  },
+  {
+    "name": "Carson Steele, RB KC",
+    "age": "22.1",
+    "value": 114
+  },
+  {
+    "name": "Ben Sinnott, TE WAS",
+    "age": "22.5",
+    "value": 114
+  },
+  {
+    "name": "Raheem Mostert, RB MIA",
+    "age": "32.6",
+    "value": 108
+  },
+  {
+    "name": "Khalil Herbert, RB CIN",
+    "age": "NA",
     "value": 105
-  },
-  {
-    "name": "Marvin Mims, WR DEN",
-    "age": "22.7",
-    "value": 103
   },
   {
     "name": "Jaleel McLaughlin, RB DEN",
@@ -1005,612 +995,767 @@
     "value": 102
   },
   {
-    "name": "Michael Mayer, TE LV",
-    "age": "23.4",
+    "name": "Jalen Tolbert, WR DAL",
+    "age": "25.8",
     "value": 101
   },
   {
     "name": "Javon Baker, WR NE",
     "age": "22.8",
-    "value": 98
+    "value": 101
   },
   {
-    "name": "Chig Okonkwo, TE TEN",
-    "age": "25.2",
-    "value": 94
+    "name": "Theo Johnson, TE NYG",
+    "age": "23.8",
+    "value": 98
   },
   {
     "name": "2025 Early 3rd",
     "age": "NA",
-    "value": 85
-  },
-  {
-    "name": "Audric Estime, RB DEN",
-    "age": "21.2",
-    "value": 84
-  },
-  {
-    "name": "Juwan Johnson, TE NO",
-    "age": "28.2",
-    "value": 83
-  },
-  {
-    "name": "Andrei Iosivas, WR CIN",
-    "age": "25.1",
-    "value": 80
-  },
-  {
-    "name": "Mike Williams, WR PIT",
-    "age": "NA",
-    "value": 79
-  },
-  {
-    "name": "Brandin Cooks, WR DAL",
-    "age": "31.2",
-    "value": 77
-  },
-  {
-    "name": "Elijah Moore, WR CLE",
-    "age": "24.7",
-    "value": 77
-  },
-  {
-    "name": "Ty Chandler, RB MIN",
-    "age": "26.5",
-    "value": 76
-  },
-  {
-    "name": "Luke McCaffrey, WR WAS",
-    "age": "23.6",
-    "value": 75
-  },
-  {
-    "name": "Gus Edwards, RB LAC",
-    "age": "29.6",
-    "value": 72
-  },
-  {
-    "name": "Tyler Conklin, TE NYJ",
-    "age": "29.3",
-    "value": 69
-  },
-  {
-    "name": "Tre Tucker, WR LV",
-    "age": "23.7",
-    "value": 69
-  },
-  {
-    "name": "Curtis Samuel, WR BUF",
-    "age": "28.3",
-    "value": 68
-  },
-  {
-    "name": "Alexander Mattison, RB LV",
-    "age": "26.4",
-    "value": 65
-  },
-  {
-    "name": "Deshaun Watson, QB CLE",
-    "age": "29.2",
-    "value": 64
-  },
-  {
-    "name": "Greg Dulcich, TE DEN",
-    "age": "24.7",
-    "value": 64
-  },
-  {
-    "name": "Antonio Gibson, RB NE",
-    "age": "26.4",
-    "value": 64
-  },
-  {
-    "name": "Taysom Hill, TE NO",
-    "age": "34.3",
-    "value": 63
-  },
-  {
-    "name": "Derek Carr, QB NO",
-    "age": "33.7",
-    "value": 58
+    "value": 95
   },
   {
     "name": "Alec Pierce, WR IND",
     "age": "24.6",
-    "value": 56
+    "value": 94
   },
   {
-    "name": "Jalin Hyatt, WR NYG",
-    "age": "23.2",
-    "value": 55
+    "name": "Kendre Miller, RB NO",
+    "age": "22.5",
+    "value": 93
   },
   {
-    "name": "Khalil Herbert, RB CIN",
-    "age": "NA",
-    "value": 55
-  },
-  {
-    "name": "Jalen Coker, WR CAR",
-    "age": "NA",
-    "value": 54
-  },
-  {
-    "name": "2025 3rd",
-    "age": "NA",
-    "value": 54
-  },
-  {
-    "name": "Daniel Jones, QB NYG",
-    "age": "27.5",
-    "value": 53
-  },
-  {
-    "name": "Colby Parkinson, TE LAR",
-    "age": "25.9",
-    "value": 53
-  },
-  {
-    "name": "Keaton Mitchell, RB BAL",
-    "age": "22.8",
-    "value": 51
-  },
-  {
-    "name": "Russell Wilson, QB PIT",
-    "age": "36",
-    "value": 49
-  },
-  {
-    "name": "2026 3rd",
-    "age": "NA",
-    "value": 49
-  },
-  {
-    "name": "Demarcus Robinson, WR LAR",
-    "age": "30.2",
-    "value": 48
-  },
-  {
-    "name": "2025 Mid 3rd",
-    "age": "NA",
-    "value": 48
-  },
-  {
-    "name": "Noah Brown, WR WAS",
-    "age": "NA",
-    "value": 45
-  },
-  {
-    "name": "2027 3rd",
-    "age": "NA",
-    "value": 44
-  },
-  {
-    "name": "Cade Stover, TE HOU",
-    "age": "24.4",
-    "value": 42
-  },
-  {
-    "name": "Aaron Rodgers, QB NYJ",
-    "age": "41",
-    "value": 41
-  },
-  {
-    "name": "Will Shipley, RB PHI",
-    "age": "22.2",
-    "value": 39
-  },
-  {
-    "name": "Treylon Burks, WR TEN",
-    "age": "24.7",
-    "value": 39
-  },
-  {
-    "name": "Darius Slayton, WR NYG",
-    "age": "27.9",
-    "value": 39
-  },
-  {
-    "name": "Malachi Corley, WR NYJ",
-    "age": "22.7",
-    "value": 38
-  },
-  {
-    "name": "Carson Steele, RB KC",
-    "age": "22.1",
-    "value": 36
-  },
-  {
-    "name": "Bryce Young, QB CAR",
-    "age": "23.3",
-    "value": 36
-  },
-  {
-    "name": "Mike Gesicki, TE CIN",
-    "age": "29.1",
-    "value": 36
-  },
-  {
-    "name": "Tutu Atwell, WR LAR",
-    "age": "25.1",
-    "value": 35
-  },
-  {
-    "name": "Emanuel Wilson, RB GB",
-    "age": "25.5",
-    "value": 35
-  },
-  {
-    "name": "Jelani Woods, TE IND",
-    "age": "26.1",
-    "value": 35
-  },
-  {
-    "name": "Bub Means, WR NO",
-    "age": "23.9",
-    "value": 35
-  },
-  {
-    "name": "Jonnu Smith, TE MIA",
-    "age": "29.3",
-    "value": 34
-  },
-  {
-    "name": "JuJu Smith-Schuster, WR KC",
-    "age": "NA",
-    "value": 34
-  },
-  {
-    "name": "Adam Thielen, WR CAR",
-    "age": "34.3",
-    "value": 33
-  },
-  {
-    "name": "Samaje Perine, RB KC",
-    "age": "NA",
-    "value": 33
-  },
-  {
-    "name": "Justice Hill, RB BAL",
+    "name": "Noah Fant, TE SEA",
     "age": "27",
-    "value": 32
+    "value": 92
   },
   {
-    "name": "Jordan Whittington, WR LAR",
-    "age": "24.1",
-    "value": 32
-  },
-  {
-    "name": "Aidan OConnell, QB LV",
-    "age": "26.2",
-    "value": 32
-  },
-  {
-    "name": "Trey Palmer, WR TB",
-    "age": "23.6",
-    "value": 31
-  },
-  {
-    "name": "Dylan Laube, RB LV",
-    "age": "24.9",
-    "value": 31
-  },
-  {
-    "name": "Ezekiel Elliott, RB DAL",
-    "age": "29.3",
-    "value": 29
-  },
-  {
-    "name": "Malik Washington, WR MIA",
-    "age": "23.9",
-    "value": 29
-  },
-  {
-    "name": "Trey Sermon, RB IND",
-    "age": "25.8",
-    "value": 29
-  },
-  {
-    "name": "Jacob Cowing, WR SF",
-    "age": "23.8",
-    "value": 29
-  },
-  {
-    "name": "John Metchie, WR HOU",
-    "age": "24.3",
-    "value": 29
-  },
-  {
-    "name": "2025 Late 3rd",
+    "name": "Kareem Hunt, RB KC",
     "age": "NA",
-    "value": 29
+    "value": 92
   },
   {
-    "name": "Parker Washington, WR JAC",
+    "name": "Antonio Gibson, RB NE",
+    "age": "26.4",
+    "value": 91
+  },
+  {
+    "name": "Curtis Samuel, WR BUF",
+    "age": "28.3",
+    "value": 91
+  },
+  {
+    "name": "Marvin Mims, WR DEN",
     "age": "22.7",
-    "value": 27
+    "value": 88
   },
   {
-    "name": "Ray-Ray McCloud, WR ATL",
-    "age": "28.1",
-    "value": 27
+    "name": "Kayshon Boutte, WR NE",
+    "age": "22.6",
+    "value": 87
   },
   {
-    "name": "Devontez Walker, WR BAL",
+    "name": "Roman Wilson, WR PIT",
     "age": "23.4",
-    "value": 27
+    "value": 85
   },
   {
-    "name": "Calvin Austin, WR PIT",
-    "age": "25.7",
-    "value": 26
+    "name": "Erick All, TE CIN",
+    "age": "24.2",
+    "value": 83
   },
   {
-    "name": "Allen Lazard, WR NYJ",
-    "age": "29",
-    "value": 26
+    "name": "Alexander Mattison, RB LV",
+    "age": "26.4",
+    "value": 82
   },
   {
-    "name": "Jared Wiley, TE KC",
-    "age": "24.1",
-    "value": 25
+    "name": "Michael Mayer, TE LV",
+    "age": "23.4",
+    "value": 82
   },
   {
-    "name": "Noah Gray, TE KC",
-    "age": "25.6",
-    "value": 25
+    "name": "Tre Tucker, WR LV",
+    "age": "23.7",
+    "value": 80
+  },
+  {
+    "name": "Gus Edwards, RB LAC",
+    "age": "29.6",
+    "value": 80
   },
   {
     "name": "Cam Akers, RB MIN",
     "age": "NA",
-    "value": 23
+    "value": 79
   },
   {
-    "name": "Zach Ertz, TE WAS",
-    "age": "34",
-    "value": 23
+    "name": "Andrei Iosivas, WR CIN",
+    "age": "25.1",
+    "value": 78
   },
   {
-    "name": "Sean Tucker, RB TB",
-    "age": "23.1",
-    "value": 23
+    "name": "Derek Carr, QB NO",
+    "age": "33.7",
+    "value": 72
   },
   {
-    "name": "Ty Johnson, RB BUF",
-    "age": "27.2",
-    "value": 23
+    "name": "Keaton Mitchell, RB BAL",
+    "age": "22.9",
+    "value": 70
   },
   {
     "name": "Dameon Pierce, RB HOU",
     "age": "24.8",
-    "value": 21
+    "value": 70
   },
   {
-    "name": "Will Levis, QB TEN",
-    "age": "25.4",
-    "value": 21
+    "name": "Zamir White, RB LV",
+    "age": "25.2",
+    "value": 69
   },
   {
-    "name": "Greg Dortch, WR ARI",
-    "age": "26.5",
-    "value": 21
-  },
-  {
-    "name": "Tyler Boyd, WR TEN",
-    "age": "30",
-    "value": 20
-  },
-  {
-    "name": "Daniel Bellinger, TE NYG",
+    "name": "Jordan Whittington, WR LAR",
     "age": "24.2",
-    "value": 20
+    "value": 63
   },
   {
-    "name": "Jaheim Bell, TE NE",
+    "name": "Mike Williams, WR PIT",
     "age": "NA",
-    "value": 20
+    "value": 63
+  },
+  {
+    "name": "Brandin Cooks, WR DAL",
+    "age": "31.2",
+    "value": 62
+  },
+  {
+    "name": "2025 3rd",
+    "age": "NA",
+    "value": 61
+  },
+  {
+    "name": "Jahan Dotson, WR PHI",
+    "age": "NA",
+    "value": 60
+  },
+  {
+    "name": "Bryce Young, QB CAR",
+    "age": "23.3",
+    "value": 58
+  },
+  {
+    "name": "Ty Chandler, RB MIN",
+    "age": "26.6",
+    "value": 56
+  },
+  {
+    "name": "Justice Hill, RB BAL",
+    "age": "27",
+    "value": 55
+  },
+  {
+    "name": "Kimani Vidal, RB LAC",
+    "age": "23.3",
+    "value": 55
+  },
+  {
+    "name": "2025 Mid 3rd",
+    "age": "NA",
+    "value": 55
+  },
+  {
+    "name": "2026 3rd",
+    "age": "NA",
+    "value": 55
+  },
+  {
+    "name": "Demarcus Robinson, WR LAR",
+    "age": "30.2",
+    "value": 54
+  },
+  {
+    "name": "Emanuel Wilson, RB GB",
+    "age": "25.6",
+    "value": 53
+  },
+  {
+    "name": "Noah Brown, WR WAS",
+    "age": "NA",
+    "value": 53
+  },
+  {
+    "name": "Zach Ertz, TE WAS",
+    "age": "34.1",
+    "value": 52
+  },
+  {
+    "name": "Luke McCaffrey, WR WAS",
+    "age": "23.7",
+    "value": 51
+  },
+  {
+    "name": "Luke Musgrave, TE GB",
+    "age": "24.2",
+    "value": 50
+  },
+  {
+    "name": "Will Shipley, RB PHI",
+    "age": "22.3",
+    "value": 50
+  },
+  {
+    "name": "2027 3rd",
+    "age": "NA",
+    "value": 50
+  },
+  {
+    "name": "Chig Okonkwo, TE TEN",
+    "age": "25.2",
+    "value": 46
+  },
+  {
+    "name": "Luke Schoonmaker, TE DAL",
+    "age": "26.2",
+    "value": 45
+  },
+  {
+    "name": "Aaron Rodgers, QB NYJ",
+    "age": "41",
+    "value": 45
+  },
+  {
+    "name": "Trey Palmer, WR TB",
+    "age": "23.7",
+    "value": 44
+  },
+  {
+    "name": "Mike Gesicki, TE CIN",
+    "age": "29.2",
+    "value": 42
+  },
+  {
+    "name": "Darius Slayton, WR NYG",
+    "age": "27.9",
+    "value": 41
+  },
+  {
+    "name": "Juwan Johnson, TE NO",
+    "age": "28.2",
+    "value": 41
+  },
+  {
+    "name": "Russell Wilson, QB PIT",
+    "age": "36",
+    "value": 40
+  },
+  {
+    "name": "Malik Washington, WR MIA",
+    "age": "23.9",
+    "value": 39
+  },
+  {
+    "name": "Samaje Perine, RB KC",
+    "age": "NA",
+    "value": 39
   },
   {
     "name": "Rondale Moore, WR ATL",
     "age": "24.5",
-    "value": 19
+    "value": 38
   },
   {
-    "name": "DOnta Foreman, RB CLE",
-    "age": "28.6",
-    "value": 19
+    "name": "Treylon Burks, WR TEN",
+    "age": "24.7",
+    "value": 37
   },
   {
-    "name": "2025 Early 4th",
+    "name": "Tyler Conklin, TE NYJ",
+    "age": "29.3",
+    "value": 37
+  },
+  {
+    "name": "Devontez Walker, WR BAL",
+    "age": "23.4",
+    "value": 36
+  },
+  {
+    "name": "Jalin Hyatt, WR NYG",
+    "age": "23.2",
+    "value": 36
+  },
+  {
+    "name": "Will Dissly, TE LAC",
+    "age": "28.4",
+    "value": 36
+  },
+  {
+    "name": "Malachi Corley, WR NYJ",
+    "age": "22.7",
+    "value": 35
+  },
+  {
+    "name": "Deshaun Watson, QB CLE",
+    "age": "29.2",
+    "value": 35
+  },
+  {
+    "name": "Will Levis, QB TEN",
+    "age": "25.4",
+    "value": 34
+  },
+  {
+    "name": "Jacob Cowing, WR SF",
+    "age": "23.8",
+    "value": 34
+  },
+  {
+    "name": "2025 Late 3rd",
     "age": "NA",
-    "value": 19
+    "value": 34
+  },
+  {
+    "name": "Clyde Edwards-Helaire, RB KC",
+    "age": "25.6",
+    "value": 33
+  },
+  {
+    "name": "Greg Dortch, WR ARI",
+    "age": "26.5",
+    "value": 33
+  },
+  {
+    "name": "Bub Means, WR NO",
+    "age": "23.9",
+    "value": 32
+  },
+  {
+    "name": "Spencer Rattler, QB NO",
+    "age": "24.2",
+    "value": 32
+  },
+  {
+    "name": "Trey Sermon, RB IND",
+    "age": "25.8",
+    "value": 32
+  },
+  {
+    "name": "Cade Stover, TE HOU",
+    "age": "24.5",
+    "value": 31
+  },
+  {
+    "name": "Davis Allen, TE LAR",
+    "age": "23.8",
+    "value": 31
+  },
+  {
+    "name": "Ray-Ray McCloud, WR ATL",
+    "age": "28.1",
+    "value": 30
+  },
+  {
+    "name": "Allen Lazard, WR NYJ",
+    "age": "29",
+    "value": 28
+  },
+  {
+    "name": "Parker Washington, WR JAC",
+    "age": "22.7",
+    "value": 28
+  },
+  {
+    "name": "Nick Westbrook-Ikhine, WR TEN",
+    "age": "27.7",
+    "value": 28
+  },
+  {
+    "name": "Johnny Wilson, WR PHI",
+    "age": "23.7",
+    "value": 28
+  },
+  {
+    "name": "Daniel Jones, QB MIN",
+    "age": "NA",
+    "value": 27
+  },
+  {
+    "name": "Dylan Laube, RB LV",
+    "age": "25",
+    "value": 27
   },
   {
     "name": "Jonathan Mingo, WR DAL",
     "age": "NA",
+    "value": 27
+  },
+  {
+    "name": "Sam Howell, QB SEA",
+    "age": "24.2",
+    "value": 26
+  },
+  {
+    "name": "Jalen Nailor, WR MIN",
+    "age": "25.7",
+    "value": 25
+  },
+  {
+    "name": "Greg Dulcich, TE NYG",
+    "age": "NA",
+    "value": 25
+  },
+  {
+    "name": "Tutu Atwell, WR LAR",
+    "age": "25.1",
+    "value": 25
+  },
+  {
+    "name": "Elijah Mitchell, RB SF",
+    "age": "26.6",
+    "value": 25
+  },
+  {
+    "name": "Aidan OConnell, QB LV",
+    "age": "26.2",
+    "value": 25
+  },
+  {
+    "name": "Jelani Woods, TE IND",
+    "age": "26.1",
+    "value": 25
+  },
+  {
+    "name": "Michael Carter, RB ARI",
+    "age": "NA",
+    "value": 24
+  },
+  {
+    "name": "Isaiah Davis, RB NYJ",
+    "age": "22.8",
+    "value": 24
+  },
+  {
+    "name": "Miles Sanders, RB CAR",
+    "age": "27.6",
+    "value": 24
+  },
+  {
+    "name": "2025 Early 4th",
+    "age": "NA",
+    "value": 23
+  },
+  {
+    "name": "Jameis Winston, QB CLE",
+    "age": "30.9",
+    "value": 22
+  },
+  {
+    "name": "Dawson Knox, TE BUF",
+    "age": "28",
+    "value": 22
+  },
+  {
+    "name": "Kenneth Gainwell, RB PHI",
+    "age": "25.7",
+    "value": 22
+  },
+  {
+    "name": "John Metchie, WR HOU",
+    "age": "24.4",
+    "value": 22
+  },
+  {
+    "name": "AJ Barner, TE SEA",
+    "age": "22.6",
+    "value": 21
+  },
+  {
+    "name": "Calvin Austin, WR PIT",
+    "age": "25.7",
+    "value": 20
+  },
+  {
+    "name": "Gerald Everett, TE CHI",
+    "age": "30.4",
+    "value": 20
+  },
+  {
+    "name": "Ezekiel Elliott, RB DAL",
+    "age": "29.4",
+    "value": 20
+  },
+  {
+    "name": "Tyler Boyd, WR TEN",
+    "age": "30",
+    "value": 19
+  },
+  {
+    "name": "Colby Parkinson, TE LAR",
+    "age": "25.9",
+    "value": 19
+  },
+  {
+    "name": "Adam Thielen, WR CAR",
+    "age": "34.3",
     "value": 18
   },
   {
-    "name": "DJ Chark, WR LAC",
-    "age": "28.2",
+    "name": "Rasheen Ali, RB BAL",
+    "age": "23.8",
     "value": 18
   },
   {
     "name": "Kendrick Bourne, WR NE",
     "age": "29.3",
+    "value": 18
+  },
+  {
+    "name": "Ty Johnson, RB BUF",
+    "age": "27.2",
+    "value": 18
+  },
+  {
+    "name": "Tyler Higbee, TE LAR",
+    "age": "31.9",
+    "value": 18
+  },
+  {
+    "name": "Darnell Washington, TE PIT",
+    "age": "23.3",
+    "value": 18
+  },
+  {
+    "name": "Marquez Valdes-Scantling, WR NO",
+    "age": "NA",
     "value": 17
   },
   {
-    "name": "Dawson Knox, TE BUF",
-    "age": "28",
+    "name": "DOnta Foreman, RB CLE",
+    "age": "28.6",
+    "value": 17
+  },
+  {
+    "name": "AT Perry, WR DEN",
+    "age": "NA",
+    "value": 17
+  },
+  {
+    "name": "Emari Demercado, RB ARI",
+    "age": "25.9",
+    "value": 17
+  },
+  {
+    "name": "Jared Wiley, TE KC",
+    "age": "24.1",
+    "value": 17
+  },
+  {
+    "name": "2025 4th",
+    "age": "NA",
+    "value": 17
+  },
+  {
+    "name": "Trey Lance, QB DAL",
+    "age": "24.6",
     "value": 16
   },
   {
-    "name": "Odell Beckham, WR MIA",
-    "age": "32",
+    "name": "Gardner Minshew, QB LV",
+    "age": "28.5",
     "value": 16
   },
   {
-    "name": "Elijah Mitchell, RB SF",
-    "age": "26.6",
+    "name": "Mac Jones, QB JAC",
+    "age": "26.2",
+    "value": 16
+  },
+  {
+    "name": "Brenton Strange, TE JAC",
+    "age": "23.9",
+    "value": 16
+  },
+  {
+    "name": "2025 Mid 4th",
+    "age": "NA",
+    "value": 16
+  },
+  {
+    "name": "Malik Willis, QB GB",
+    "age": "NA",
     "value": 15
   },
   {
-    "name": "Sam Howell, QB SEA",
-    "age": "24.2",
+    "name": "2026 4th",
+    "age": "NA",
+    "value": 15
+  },
+  {
+    "name": "Josh Reynolds, WR DEN",
+    "age": "29.8",
     "value": 14
   },
   {
-    "name": "Dyami Brown, WR WAS",
-    "age": "25.1",
+    "name": "DJ Chark, WR LAC",
+    "age": "28.2",
     "value": 14
   },
   {
     "name": "KJ Osborn, WR NE",
     "age": "27.5",
-    "value": 14
-  },
-  {
-    "name": "Kadarius Toney, WR CLE",
-    "age": "NA",
-    "value": 14
-  },
-  {
-    "name": "AJ Dillon, RB GB",
-    "age": "26.6",
-    "value": 14
-  },
-  {
-    "name": "2025 4th",
-    "age": "NA",
-    "value": 14
-  },
-  {
-    "name": "Miles Sanders, RB CAR",
-    "age": "27.6",
     "value": 13
-  },
-  {
-    "name": "2025 Mid 4th",
-    "age": "NA",
-    "value": 13
-  },
-  {
-    "name": "Spencer Rattler, QB NO",
-    "age": "24.2",
-    "value": 12
-  },
-  {
-    "name": "Gerald Everett, TE CHI",
-    "age": "30.4",
-    "value": 12
-  },
-  {
-    "name": "Zay Jones, WR ARI",
-    "age": "29.7",
-    "value": 12
-  },
-  {
-    "name": "Gardner Minshew, QB LV",
-    "age": "28.5",
-    "value": 12
-  },
-  {
-    "name": "2026 4th",
-    "age": "NA",
-    "value": 12
-  },
-  {
-    "name": "Johnny Wilson, WR PHI",
-    "age": "23.6",
-    "value": 11
-  },
-  {
-    "name": "Josh Reynolds, WR DEN",
-    "age": "29.8",
-    "value": 11
-  },
-  {
-    "name": "2027 4th",
-    "age": "NA",
-    "value": 11
-  },
-  {
-    "name": "Kayshon Boutte, WR NE",
-    "age": "22.5",
-    "value": 10
-  },
-  {
-    "name": "Trey Lance, QB DAL",
-    "age": "24.5",
-    "value": 10
-  },
-  {
-    "name": "Eric Gray, RB NYG",
-    "age": "25.1",
-    "value": 10
-  },
-  {
-    "name": "Nick Westbrook-Ikhine, WR TEN",
-    "age": "27.7",
-    "value": 10
-  },
-  {
-    "name": "Skyy Moore, WR KC",
-    "age": "24.2",
-    "value": 10
-  },
-  {
-    "name": "Brenton Strange, TE JAC",
-    "age": "23.9",
-    "value": 10
-  },
-  {
-    "name": "AT Perry, WR DEN",
-    "age": "NA",
-    "value": 10
   },
   {
     "name": "Donovan Peoples-Jones, WR DET",
     "age": "NA",
-    "value": 9
+    "value": 13
+  },
+  {
+    "name": "Dyami Brown, WR WAS",
+    "age": "25.1",
+    "value": 13
+  },
+  {
+    "name": "Zay Jones, WR ARI",
+    "age": "29.7",
+    "value": 13
+  },
+  {
+    "name": "JuJu Smith-Schuster, WR KC",
+    "age": "NA",
+    "value": 13
+  },
+  {
+    "name": "2027 4th",
+    "age": "NA",
+    "value": 13
+  },
+  {
+    "name": "Chris Rodriguez, RB WAS",
+    "age": "24.2",
+    "value": 12
+  },
+  {
+    "name": "Jeremy Ruckert, TE NYJ",
+    "age": "24.3",
+    "value": 12
+  },
+  {
+    "name": "Kenny Pickett, QB PHI",
+    "age": "26.5",
+    "value": 12
+  },
+  {
+    "name": "Kadarius Toney, WR CLE",
+    "age": "NA",
+    "value": 12
+  },
+  {
+    "name": "Hayden Hurst, TE LAC",
+    "age": "31.3",
+    "value": 12
+  },
+  {
+    "name": "Daniel Bellinger, TE NYG",
+    "age": "24.2",
+    "value": 12
+  },
+  {
+    "name": "Skyy Moore, WR KC",
+    "age": "24.2",
+    "value": 12
+  },
+  {
+    "name": "2025 Late 4th",
+    "age": "NA",
+    "value": 12
+  },
+  {
+    "name": "Jamari Thrash, WR CLE",
+    "age": "23.9",
+    "value": 11
+  },
+  {
+    "name": "Charlie Kolar, TE BAL",
+    "age": "NA",
+    "value": 11
+  },
+  {
+    "name": "Tyler Johnson, WR LAR",
+    "age": "26.3",
+    "value": 11
+  },
+  {
+    "name": "Foster Moreau, TE NO",
+    "age": "27.6",
+    "value": 11
+  },
+  {
+    "name": "Bo Melton, WR GB",
+    "age": "25.5",
+    "value": 11
+  },
+  {
+    "name": "Xavier Hutchinson, WR HOU",
+    "age": "24.5",
+    "value": 11
+  },
+  {
+    "name": "Xavier Gipson, WR NYJ",
+    "age": "23.7",
+    "value": 10
+  },
+  {
+    "name": "Jarrett Stidham, QB DEN",
+    "age": "28.3",
+    "value": 10
   },
   {
     "name": "Brenden Rice, WR LAC",
     "age": "22.7",
+    "value": 10
+  },
+  {
+    "name": "Desmond Ridder, QB LV",
+    "age": "NA",
+    "value": 10
+  },
+  {
+    "name": "Hendon Hooker, QB DET",
+    "age": "26.9",
     "value": 9
   },
   {
-    "name": "Tyler Higbee, TE LAR",
-    "age": "31.9",
+    "name": "Josh Oliver, TE MIN",
+    "age": "27.7",
     "value": 9
   },
   {
-    "name": "Luke Schoonmaker, TE DAL",
-    "age": "26.2",
-    "value": 9
-  },
-  {
-    "name": "Will Dissly, TE LAC",
-    "age": "28.4",
-    "value": 9
-  },
-  {
-    "name": "Jalen Nailor, WR MIN",
-    "age": "25.7",
-    "value": 9
-  },
-  {
-    "name": "Mac Jones, QB JAC",
-    "age": "26.2",
-    "value": 9
-  },
-  {
-    "name": "Evan Hull, RB IND",
+    "name": "Tommy DeVito, QB NYG",
     "age": "NA",
     "value": 9
   },
   {
-    "name": "2025 Late 4th",
+    "name": "Tim Patrick, WR DET",
+    "age": "NA",
+    "value": 9
+  },
+  {
+    "name": "Odell Beckham, WR MIA",
+    "age": "32.1",
+    "value": 9
+  },
+  {
+    "name": "Justin Watson, WR KC",
+    "age": "29.7",
+    "value": 9
+  },
+  {
+    "name": "Jimmy Garoppolo, QB LAR",
+    "age": "33.1",
+    "value": 9
+  },
+  {
+    "name": "2025 Early 5th",
     "age": "NA",
     "value": 9
   },
@@ -1620,8 +1765,13 @@
     "value": 8
   },
   {
-    "name": "Tim Patrick, WR DET",
-    "age": "NA",
+    "name": "Elijah Higgins, TE ARI",
+    "age": "24.1",
+    "value": 8
+  },
+  {
+    "name": "Ainias Smith, WR PHI",
+    "age": "23.5",
     "value": 8
   },
   {
@@ -1630,188 +1780,128 @@
     "value": 8
   },
   {
-    "name": "Jameis Winston, QB CLE",
-    "age": "30.9",
+    "name": "Jacoby Brissett, QB NE",
+    "age": "32",
     "value": 8
-  },
-  {
-    "name": "Clyde Edwards-Helaire, RB KC",
-    "age": "25.6",
-    "value": 8
-  },
-  {
-    "name": "Brevin Jordan, TE HOU",
-    "age": "24.4",
-    "value": 7
-  },
-  {
-    "name": "Emari Demercado, RB ARI",
-    "age": "25.8",
-    "value": 7
-  },
-  {
-    "name": "Casey Washington, WR ATL",
-    "age": "NA",
-    "value": 7
-  },
-  {
-    "name": "Jamaal Williams, RB NO",
-    "age": "29.6",
-    "value": 7
-  },
-  {
-    "name": "Kenny Pickett, QB PHI",
-    "age": "26.5",
-    "value": 7
-  },
-  {
-    "name": "Bo Melton, WR GB",
-    "age": "25.5",
-    "value": 7
-  },
-  {
-    "name": "Robert Woods, WR HOU",
-    "age": "NA",
-    "value": 7
-  },
-  {
-    "name": "2025 Early 5th",
-    "age": "NA",
-    "value": 7
-  },
-  {
-    "name": "Justin Watson, WR KC",
-    "age": "29.6",
-    "value": 6
-  },
-  {
-    "name": "Kenneth Gainwell, RB PHI",
-    "age": "25.7",
-    "value": 6
-  },
-  {
-    "name": "Desmond Ridder, QB LV",
-    "age": "NA",
-    "value": 6
-  },
-  {
-    "name": "Xavier Hutchinson, WR HOU",
-    "age": "24.5",
-    "value": 6
-  },
-  {
-    "name": "Hendon Hooker, QB DET",
-    "age": "26.9",
-    "value": 6
-  },
-  {
-    "name": "Tyquan Thornton, WR KC",
-    "age": "NA",
-    "value": 6
-  },
-  {
-    "name": "Darnell Washington, TE PIT",
-    "age": "23.3",
-    "value": 6
-  },
-  {
-    "name": "Jimmy Garoppolo, QB LAR",
-    "age": "33.1",
-    "value": 6
-  },
-  {
-    "name": "2025 5th",
-    "age": "NA",
-    "value": 6
-  },
-  {
-    "name": "Cordarrelle Patterson, RB PIT",
-    "age": "33.7",
-    "value": 5
-  },
-  {
-    "name": "Jawhar Jordan, RB HOU",
-    "age": "NA",
-    "value": 5
   },
   {
     "name": "Tyler Scott, WR CHI",
     "age": "23.1",
-    "value": 5
+    "value": 7
   },
   {
-    "name": "Jacoby Brissett, QB NE",
-    "age": "31.9",
-    "value": 5
+    "name": "Jamaal Williams, RB NO",
+    "age": "29.7",
+    "value": 7
   },
   {
-    "name": "Sterling Shepard, WR TB",
+    "name": "Jaheim Bell, TE NE",
     "age": "NA",
-    "value": 5
+    "value": 7
   },
   {
-    "name": "Michael Carter, RB ARI",
+    "name": "Evan Hull, RB IND",
     "age": "NA",
-    "value": 5
+    "value": 7
   },
   {
-    "name": "Terrace Marshall, WR LV",
-    "age": "NA",
-    "value": 5
+    "name": "Nelson Agholor, WR BAL",
+    "age": "31.5",
+    "value": 7
   },
   {
-    "name": "Rasheen Ali, RB BAL",
-    "age": "23.8",
-    "value": 5
+    "name": "Tommy Tremble, TE CAR",
+    "age": "24.5",
+    "value": 7
   },
   {
-    "name": "Van Jefferson, WR PIT",
-    "age": "28.3",
-    "value": 5
+    "name": "Eric Gray, RB NYG",
+    "age": "25.1",
+    "value": 7
   },
   {
-    "name": "2025 Late 5th",
-    "age": "NA",
-    "value": 5
+    "name": "AJ Dillon, RB GB",
+    "age": "26.6",
+    "value": 7
   },
   {
     "name": "2025 Mid 5th",
     "age": "NA",
-    "value": 5
+    "value": 7
+  },
+  {
+    "name": "2025 5th",
+    "age": "NA",
+    "value": 7
   },
   {
     "name": "2026 5th",
     "age": "NA",
-    "value": 5
+    "value": 7
+  },
+  {
+    "name": "Sterling Shepard, WR TB",
+    "age": "NA",
+    "value": 6
+  },
+  {
+    "name": "Dorian Thompson-Robinson, QB CLE",
+    "age": "25",
+    "value": 6
+  },
+  {
+    "name": "Jawhar Jordan, RB HOU",
+    "age": "NA",
+    "value": 6
+  },
+  {
+    "name": "Dalvin Cook, RB DAL",
+    "age": "NA",
+    "value": 6
+  },
+  {
+    "name": "Adam Trautman, TE DEN",
+    "age": "27.8",
+    "value": 6
+  },
+  {
+    "name": "Van Jefferson, WR PIT",
+    "age": "28.3",
+    "value": 6
+  },
+  {
+    "name": "2025 Late 5th",
+    "age": "NA",
+    "value": 6
   },
   {
     "name": "2027 5th",
     "age": "NA",
+    "value": 6
+  },
+  {
+    "name": "Lucas Krull, TE DEN",
+    "age": "26.4",
     "value": 5
   },
   {
-    "name": "Will Mallory, TE IND",
-    "age": "25.4",
-    "value": 4
+    "name": "Casey Washington, WR ATL",
+    "age": "NA",
+    "value": 5
   },
   {
-    "name": "Isaiah Davis, RB NYJ",
-    "age": "22.8",
-    "value": 4
+    "name": "Israel Abanikanda, RB NYJ",
+    "age": "22.2",
+    "value": 5
   },
   {
-    "name": "Parris Campbell, WR PHI",
+    "name": "Kyle Philips, WR PHI",
     "age": "NA",
     "value": 4
   },
   {
-    "name": "Jamari Thrash, WR CLE",
-    "age": "23.9",
-    "value": 4
-  },
-  {
-    "name": "Tyler Johnson, WR LAR",
-    "age": "26.2",
+    "name": "DErnest Johnson, RB JAC",
+    "age": "28.8",
     "value": 4
   },
   {
@@ -1820,133 +1910,53 @@
     "value": 4
   },
   {
-    "name": "Charlie Kolar, TE BAL",
-    "age": "NA",
+    "name": "Cordarrelle Patterson, RB PIT",
+    "age": "33.7",
     "value": 4
-  },
-  {
-    "name": "Nelson Agholor, WR BAL",
-    "age": "31.5",
-    "value": 4
-  },
-  {
-    "name": "Isaiah Hodgins, WR NYG",
-    "age": "26.1",
-    "value": 4
-  },
-  {
-    "name": "Foster Moreau, TE NO",
-    "age": "27.5",
-    "value": 4
-  },
-  {
-    "name": "Tommy Tremble, TE CAR",
-    "age": "24.5",
-    "value": 3
-  },
-  {
-    "name": "Joe Flacco, QB IND",
-    "age": "39.8",
-    "value": 3
-  },
-  {
-    "name": "Hayden Hurst, TE LAC",
-    "age": "31.2",
-    "value": 3
-  },
-  {
-    "name": "Charlie Jones, WR CIN",
-    "age": "26.1",
-    "value": 3
   },
   {
     "name": "Mack Hollins, WR BUF",
     "age": "31.2",
-    "value": 3
+    "value": 4
   },
   {
-    "name": "Andy Dalton, QB CAR",
+    "name": "Kendall Milton, RB CIN",
     "age": "NA",
-    "value": 3
+    "value": 4
   },
   {
-    "name": "Deneric Prince, RB MIA",
+    "name": "Tyquan Thornton, WR KC",
     "age": "NA",
-    "value": 3
+    "value": 4
   },
   {
-    "name": "Josh Oliver, TE MIN",
-    "age": "27.7",
-    "value": 3
+    "name": "Sione Vaki, RB DET",
+    "age": "23.3",
+    "value": 4
   },
   {
-    "name": "Ryan Flournoy, WR DAL",
-    "age": "25.1",
-    "value": 3
-  },
-  {
-    "name": "Kalif Raymond, WR DET",
-    "age": "30.3",
-    "value": 3
-  },
-  {
-    "name": "Olamide Zaccheaus, WR WAS",
-    "age": "27.3",
-    "value": 3
-  },
-  {
-    "name": "Israel Abanikanda, RB NYJ",
-    "age": "22.1",
-    "value": 3
-  },
-  {
-    "name": "Chris Rodriguez, RB WAS",
-    "age": "24.2",
-    "value": 3
-  },
-  {
-    "name": "Ainias Smith, WR PHI",
-    "age": "23.5",
-    "value": 3
-  },
-  {
-    "name": "Marquez Valdes-Scantling, WR NO",
+    "name": "Eric Saubert, TE SF",
     "age": "NA",
-    "value": 3
+    "value": 4
   },
   {
-    "name": "Brevyn Spann-Ford, TE DAL",
+    "name": "Blake Watson, RB DEN",
     "age": "NA",
-    "value": 3
+    "value": 4
   },
   {
-    "name": "Irv Smith, TE HOU",
+    "name": "Brandon Allen, QB SF",
     "age": "NA",
+    "value": 4
+  },
+  {
+    "name": "Tyler Goodson, RB IND",
+    "age": "24.1",
     "value": 3
   },
   {
-    "name": "Dallin Holker, TE NO",
+    "name": "Jaret Patterson, RB LAC",
     "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "DErnest Johnson, RB JAC",
-    "age": "28.7",
-    "value": 3
-  },
-  {
-    "name": "Jeff Wilson, RB MIA",
-    "age": "29",
-    "value": 3
-  },
-  {
-    "name": "Zach Wilson, QB DEN",
-    "age": "25.3",
-    "value": 3
-  },
-  {
-    "name": "Adam Trautman, TE DEN",
-    "age": "27.8",
     "value": 3
   },
   {
@@ -1955,92 +1965,17 @@
     "value": 3
   },
   {
-    "name": "Allen Robinson, WR DET",
+    "name": "Andy Dalton, QB CAR",
     "age": "NA",
     "value": 3
   },
   {
-    "name": "Mason Rudolph, QB TEN",
-    "age": "29.4",
+    "name": "Frank Gore, RB BUF",
+    "age": "22.7",
     "value": 3
   },
   {
-    "name": "Drew Lock, QB NYG",
-    "age": "28",
-    "value": 3
-  },
-  {
-    "name": "Jeremy Ruckert, TE NYJ",
-    "age": "24.3",
-    "value": 3
-  },
-  {
-    "name": "Tanner Hudson, TE CIN",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Bailey Zappe, QB CLE",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Elijah Higgins, TE ARI",
-    "age": "24.1",
-    "value": 3
-  },
-  {
-    "name": "Donald Parham, TE DEN",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Tip Reiman, TE ARI",
-    "age": "23.2",
-    "value": 3
-  },
-  {
-    "name": "Eric Saubert, TE SF",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Logan Thomas, TE FA",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Tyler Huntley, QB MIA",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Harrison Bryant, TE LV",
-    "age": "26.6",
-    "value": 3
-  },
-  {
-    "name": "JhaQuan Jackson, WR TEN",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "David Bell, WR CLE",
-    "age": "23.9",
-    "value": 3
-  },
-  {
-    "name": "Kyle Philips, WR FA",
-    "age": "NA",
-    "value": 3
-  },
-  {
-    "name": "Austin Hooper, TE NE",
-    "age": "30.1",
-    "value": 3
-  },
-  {
-    "name": "Hunter Renfrow, WR FA",
+    "name": "Deneric Prince, RB MIA",
     "age": "NA",
     "value": 3
   },
@@ -2050,12 +1985,197 @@
     "value": 3
   },
   {
+    "name": "Cody Schrader, RB LAR",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "KaVontae Turpin, WR DAL",
+    "age": "28.3",
+    "value": 3
+  },
+  {
+    "name": "Kalif Raymond, WR DET",
+    "age": "30.3",
+    "value": 3
+  },
+  {
+    "name": "David Moore, WR CAR",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "DeeJay Dallas, RB ARI",
+    "age": "26.2",
+    "value": 3
+  },
+  {
+    "name": "Ronnie Rivers, RB LAR",
+    "age": "25.8",
+    "value": 3
+  },
+  {
+    "name": "Jeff Wilson, RB MIA",
+    "age": "29",
+    "value": 3
+  },
+  {
+    "name": "Louis Rees-Zammit, RB JAC",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Drew Lock, QB NYG",
+    "age": "28.1",
+    "value": 3
+  },
+  {
+    "name": "Keilan Robinson, RB JAC",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Jase McClellan, RB ATL",
+    "age": "22.4",
+    "value": 3
+  },
+  {
+    "name": "Julius Chestnut, RB TEN",
+    "age": "24.1",
+    "value": 3
+  },
+  {
+    "name": "Tyler Badie, RB DEN",
+    "age": "24.8",
+    "value": 3
+  },
+  {
+    "name": "Hassan Haskins, RB LAC",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Grant Calcaterra, TE PHI",
+    "age": "NA",
+    "value": 3
+  },
+  {
     "name": "Joe Milton, QB NE",
     "age": "24.7",
     "value": 3
   },
   {
-    "name": "Jordan Akins, TE CLE",
+    "name": "Will Mallory, TE IND",
+    "age": "25.4",
+    "value": 3
+  },
+  {
+    "name": "Tyler Huntley, QB MIA",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Mason Rudolph, QB TEN",
+    "age": "29.4",
+    "value": 3
+  },
+  {
+    "name": "Brevin Jordan, TE HOU",
+    "age": "24.4",
+    "value": 3
+  },
+  {
+    "name": "Olamide Zaccheaus, WR WAS",
+    "age": "27.4",
+    "value": 3
+  },
+  {
+    "name": "Joe Flacco, QB IND",
+    "age": "39.9",
+    "value": 3
+  },
+  {
+    "name": "Austin Hooper, TE NE",
+    "age": "30.1",
+    "value": 3
+  },
+  {
+    "name": "Johnny Mundt, TE MIN",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Tanner McLachlan, TE CIN",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Tip Reiman, TE ARI",
+    "age": "23.2",
+    "value": 3
+  },
+  {
+    "name": "Kenny McIntosh, RB SEA",
+    "age": "24.7",
+    "value": 3
+  },
+  {
+    "name": "Brevyn Spann-Ford, TE DAL",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Nyheim Hines, RB CLE",
+    "age": "28",
+    "value": 3
+  },
+  {
+    "name": "Dallin Holker, TE NO",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Charlie Jones, WR CIN",
+    "age": "26.1",
+    "value": 3
+  },
+  {
+    "name": "Zach Wilson, QB DEN",
+    "age": "25.3",
+    "value": 3
+  },
+  {
+    "name": "Brock Wright, TE DET",
+    "age": "26",
+    "value": 3
+  },
+  {
+    "name": "Ryan Tannehill, QB FA",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Joshua Dobbs, QB SF",
+    "age": "29.8",
+    "value": 3
+  },
+  {
+    "name": "Tyson Bagent, QB CHI",
+    "age": "24.5",
+    "value": 3
+  },
+  {
+    "name": "Jake Haener, QB NO",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Craig Reynolds, RB DET",
+    "age": "28.5",
+    "value": 3
+  },
+  {
+    "name": "Devin Culp, TE TB",
     "age": "NA",
     "value": 3
   },
@@ -2065,42 +2185,52 @@
     "value": 3
   },
   {
-    "name": "Kendall Milton, RB CIN",
+    "name": "Tanner Hudson, TE CIN",
     "age": "NA",
-    "value": 2
+    "value": 3
   },
   {
-    "name": "Jarrett Stidham, QB DEN",
-    "age": "28.3",
-    "value": 2
-  },
-  {
-    "name": "Lucas Krull, TE DEN",
-    "age": "26.4",
-    "value": 2
-  },
-  {
-    "name": "Zack Kuntz, TE NYJ",
+    "name": "Mason Tipton, WR NO",
     "age": "NA",
-    "value": 2
+    "value": 3
   },
   {
-    "name": "Michael Thomas, WR FA",
+    "name": "Davis Mills, QB HOU",
+    "age": "26.1",
+    "value": 3
+  },
+  {
+    "name": "Chris Evans, RB CIN",
+    "age": "27.2",
+    "value": 3
+  },
+  {
+    "name": "Isaiah Hodgins, WR NYG",
+    "age": "26.1",
+    "value": 3
+  },
+  {
+    "name": "JhaQuan Jackson, WR TEN",
     "age": "NA",
-    "value": 2
+    "value": 3
   },
   {
-    "name": "Dorian Thompson-Robinson, QB CLE",
-    "age": "25",
-    "value": 2
+    "name": "Trayveon Williams, RB CIN",
+    "age": "27.1",
+    "value": 3
   },
   {
-    "name": "Cody Schrader, RB LAR",
+    "name": "Jordan Akins, TE CLE",
     "age": "NA",
-    "value": 2
+    "value": 3
   },
   {
-    "name": "Jaret Patterson, RB LAC",
+    "name": "Marcus Mariota, QB WAS",
+    "age": "NA",
+    "value": 3
+  },
+  {
+    "name": "Isaiah Williams, WR CIN",
     "age": "NA",
     "value": 2
   },
@@ -2110,47 +2240,67 @@
     "value": 2
   },
   {
-    "name": "Tommy DeVito, QB NYG",
+    "name": "Harrison Bryant, TE LV",
+    "age": "26.6",
+    "value": 2
+  },
+  {
+    "name": "Josh Johnson, QB BAL",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Tyrod Taylor, QB NYJ",
-    "age": "35.3",
-    "value": 2
-  },
-  {
-    "name": "Taylor Heinicke, QB LAC",
+    "name": "Donald Parham, TE DEN",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Cole Turner, TE WAS",
+    "name": "Terrace Marshall, WR LV",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Dalvin Cook, RB DAL",
+    "name": "Cooper Rush, QB DAL",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Joshua Dobbs, QB SF",
-    "age": "29.8",
+    "name": "Raheem Blackshear, RB CAR",
+    "age": "26.5",
     "value": 2
   },
   {
-    "name": "Justyn Ross, WR KC",
-    "age": "24.9",
-    "value": 2
-  },
-  {
-    "name": "Ryan Tannehill, QB FA",
+    "name": "Michael Wiley, RB WAS",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Keaontay Ingram, RB KC",
+    "name": "Skylar Thompson, QB MIA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Bailey Zappe, QB CLE",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Irv Smith, TE HOU",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Drew Ogletree, TE IND",
+    "age": "26.3",
+    "value": 2
+  },
+  {
+    "name": "Nick Mullens, QB MIN",
+    "age": "29.7",
+    "value": 2
+  },
+  {
+    "name": "Anthony Gould, WR IND",
     "age": "NA",
     "value": 2
   },
@@ -2160,48 +2310,8 @@
     "value": 2
   },
   {
-    "name": "AJ Barner, TE SEA",
-    "age": "22.6",
-    "value": 2
-  },
-  {
-    "name": "Robert Tonyan, TE MIN",
-    "age": "30.6",
-    "value": 2
-  },
-  {
-    "name": "Blake Watson, RB DEN",
+    "name": "Hunter Renfrow, WR FA",
     "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Tyson Bagent, QB CHI",
-    "age": "24.5",
-    "value": 2
-  },
-  {
-    "name": "Peyton Hendershot, TE KC",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Albert Okwuegbunam, TE FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Isaiah Spiller, RB FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Chase Edmonds, RB TB",
-    "age": "28.6",
-    "value": 2
-  },
-  {
-    "name": "Ronnie Rivers, RB LAR",
-    "age": "25.8",
     "value": 2
   },
   {
@@ -2210,38 +2320,8 @@
     "value": 2
   },
   {
-    "name": "Durham Smythe, TE MIA",
+    "name": "JaMycal Hasty, RB NE",
     "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Kenny McIntosh, RB SEA",
-    "age": "24.7",
-    "value": 2
-  },
-  {
-    "name": "Joshua Kelley, RB TEN",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "DeeJay Dallas, RB ARI",
-    "age": "26.2",
-    "value": 2
-  },
-  {
-    "name": "Cedrick Wilson, WR NO",
-    "age": "29",
-    "value": 2
-  },
-  {
-    "name": "Keilan Robinson, RB JAC",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Kyle Trask, QB TB",
-    "age": "26.7",
     "value": 2
   },
   {
@@ -2250,32 +2330,32 @@
     "value": 2
   },
   {
-    "name": "Frank Gore, RB BUF",
-    "age": "22.7",
-    "value": 2
-  },
-  {
-    "name": "Laviska Shenault, WR SEA",
-    "age": "26.1",
-    "value": 2
-  },
-  {
-    "name": "Kevin Harris, RB NE",
+    "name": "Clayton Tune, QB ARI",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Hunter Long, TE LAR",
-    "age": "26.3",
+    "name": "Tyrod Taylor, QB NYJ",
+    "age": "35.3",
     "value": 2
   },
   {
-    "name": "Marcus Mariota, QB WAS",
+    "name": "Tyrion Davis-Price, RB PHI",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Tanner McLachlan, TE CIN",
+    "name": "Drew Sample, TE CIN",
+    "age": "28.6",
+    "value": 2
+  },
+  {
+    "name": "Robert Woods, WR HOU",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Allen Robinson, WR DET",
     "age": "NA",
     "value": 2
   },
@@ -2285,57 +2365,22 @@
     "value": 2
   },
   {
-    "name": "Davis Mills, QB HOU",
-    "age": "26.1",
+    "name": "Travis Homer, RB CHI",
+    "age": "26.3",
     "value": 2
   },
   {
-    "name": "Malik Willis, QB GB",
+    "name": "Chase Edmonds, RB TB",
+    "age": "28.6",
+    "value": 2
+  },
+  {
+    "name": "Peyton Hendershot, TE KC",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Zach Evans, RB FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Tahj Washington, WR MIA",
-    "age": "23.5",
-    "value": 2
-  },
-  {
-    "name": "Devin Duvernay, WR JAC",
-    "age": "27.2",
-    "value": 2
-  },
-  {
-    "name": "Chase Claypool, WR FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Isaiah Williams, WR CIN",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Deonte Harty, WR BAL",
-    "age": "27",
-    "value": 2
-  },
-  {
-    "name": "Louis Rees-Zammit, RB JAC",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Nick Mullens, QB MIN",
-    "age": "29.7",
-    "value": 2
-  },
-  {
-    "name": "Connor Heyward, TE PIT",
+    "name": "Durham Smythe, TE MIA",
     "age": "NA",
     "value": 2
   },
@@ -2345,43 +2390,68 @@
     "value": 2
   },
   {
-    "name": "Cooper Rush, QB DAL",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Chris Evans, RB CIN",
-    "age": "27.1",
-    "value": 2
-  },
-  {
-    "name": "Clayton Tune, QB ARI",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Jaren Hall, QB SEA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Jake Haener, QB NO",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "CJ Uzomah, TE PHI",
-    "age": "NA",
-    "value": 2
-  },
-  {
     "name": "Malik Davis, RB DAL",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Jase McClellan, RB ATL",
-    "age": "22.4",
+    "name": "Hunter Long, TE LAR",
+    "age": "26.3",
+    "value": 2
+  },
+  {
+    "name": "Parris Campbell, WR PHI",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Malik Heath, WR GB",
+    "age": "24.7",
+    "value": 2
+  },
+  {
+    "name": "Tahj Washington, WR MIA",
+    "age": "23.5",
+    "value": 2
+  },
+  {
+    "name": "Keaontay Ingram, RB KC",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Albert Okwuegbunam, TE FA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Julian Hill, TE MIA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Ryan Flournoy, WR DAL",
+    "age": "25.1",
+    "value": 2
+  },
+  {
+    "name": "John Bates, TE WAS",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Dillon Johnson, RB CAR",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Latavius Murray, RB FA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Rakim Jarrett, WR TB",
+    "age": "23.8",
     "value": 2
   },
   {
@@ -2390,27 +2460,87 @@
     "value": 2
   },
   {
+    "name": "Michael Pratt, QB TB",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Dare Ogunbowale, RB HOU",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Deonte Harty, WR BAL",
+    "age": "27",
+    "value": 2
+  },
+  {
+    "name": "Cedrick Wilson, WR NO",
+    "age": "29",
+    "value": 2
+  },
+  {
+    "name": "Laviska Shenault, WR SEA",
+    "age": "26.2",
+    "value": 2
+  },
+  {
     "name": "Cameron Latu, TE CLE",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Zach Pascal, WR ARI",
+    "name": "Taylor Heinicke, QB LAC",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Tyrion Davis-Price, RB PHI",
+    "name": "Stetson Bennett, QB LAR",
+    "age": "27.1",
+    "value": 2
+  },
+  {
+    "name": "Justyn Ross, WR KC",
+    "age": "25",
+    "value": 2
+  },
+  {
+    "name": "Michael Thomas, WR FA",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Tyler Goodson, RB IND",
-    "age": "24",
+    "name": "Kyle Trask, QB TB",
+    "age": "26.7",
     "value": 2
   },
   {
-    "name": "Jerick McKinnon, RB FA",
+    "name": "Marcus Rosemy-Jacksaint, WR FA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Devin Duvernay, WR JAC",
+    "age": "27.2",
+    "value": 2
+  },
+  {
+    "name": "Ian Thomas, TE CAR",
+    "age": "28.5",
+    "value": 2
+  },
+  {
+    "name": "Jaren Hall, QB SEA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Brett Rypien, QB MIN",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Jalen Reagor, WR LAC",
     "age": "NA",
     "value": 2
   },
@@ -2420,72 +2550,22 @@
     "value": 2
   },
   {
-    "name": "Dillon Johnson, RB CAR",
+    "name": "Joshua Kelley, RB TEN",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Quez Watkins, WR PIT",
+    "name": "Payne Durham, TE TB",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Tyler Badie, RB DEN",
-    "age": "24.8",
-    "value": 2
-  },
-  {
-    "name": "Jamison Crowder, WR WAS",
+    "name": "Ameer Abdullah, RB LV",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "James Mitchell, TE DET",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Davis Allen, TE LAR",
-    "age": "23.8",
-    "value": 2
-  },
-  {
-    "name": "Craig Reynolds, RB DET",
-    "age": "28.4",
-    "value": 2
-  },
-  {
-    "name": "Leonard Fournette, RB FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Xavier Gipson, WR NYJ",
-    "age": "23.7",
-    "value": 2
-  },
-  {
-    "name": "Marcus Rosemy-Jacksaint, WR PHI",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "CJ Beathard, QB JAC",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Tre McKitty, TE FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "Marvin Jones, WR FA",
-    "age": "NA",
-    "value": 2
-  },
-  {
-    "name": "JaMycal Hasty, RB NE",
+    "name": "Chase Claypool, WR FA",
     "age": "NA",
     "value": 2
   },
@@ -2495,102 +2575,117 @@
     "value": 2
   },
   {
+    "name": "Tylan Wallace, WR BAL",
+    "age": "25.5",
+    "value": 2
+  },
+  {
+    "name": "David Bell, WR CLE",
+    "age": "24",
+    "value": 2
+  },
+  {
+    "name": "Jamison Crowder, WR WAS",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Royce Freeman, RB FA",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Case Keenum, QB HOU",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Kevin Harris, RB NE",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Kene Nwangwu, RB NYJ",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "LilJordan Humphrey, WR DEN",
+    "age": "26.6",
+    "value": 2
+  },
+  {
+    "name": "Darrynton Evans, RB CHI",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "MyCole Pruitt, TE PIT",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Patrick Taylor, RB SF",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Easton Stick, QB LAC",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Sam Ehlinger, QB IND",
+    "age": "NA",
+    "value": 2
+  },
+  {
+    "name": "Sean Clifford, QB GB",
+    "age": "NA",
+    "value": 2
+  },
+  {
     "name": "Tejhaun Palmer, WR ARI",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "John Bates, TE WAS",
+    "name": "Charlie Woerner, TE ATL",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Isaiah McKenzie, WR FA",
+    "name": "Myles Gaskin, RB MIN",
     "age": "NA",
     "value": 2
   },
   {
-    "name": "Payne Durham, TE TB",
+    "name": "Luke Farrell, TE JAC",
     "age": "NA",
-    "value": 1
+    "value": 2
   },
   {
-    "name": "Malik Heath, WR GB",
-    "age": "24.7",
-    "value": 1
-  },
-  {
-    "name": "Easton Stick, QB LAC",
+    "name": "Quez Watkins, WR PIT",
     "age": "NA",
-    "value": 1
+    "value": 2
   },
   {
-    "name": "Jacob Harris, TE FA",
+    "name": "Sam Hartman, QB WAS",
     "age": "NA",
-    "value": 1
+    "value": 2
   },
   {
-    "name": "Hassan Haskins, RB LAC",
+    "name": "Isaiah Spiller, RB FA",
     "age": "NA",
-    "value": 1
+    "value": 2
   },
   {
-    "name": "Darrell Henderson, RB FA",
+    "name": "Jason Brownlee, WR NYJ",
     "age": "NA",
-    "value": 1
+    "value": 2
   },
   {
-    "name": "Stetson Bennett, QB LAR",
-    "age": "27.1",
-    "value": 1
-  },
-  {
-    "name": "Bryson Nesbit, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "DeWayne McBride, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "PJ Walker, QB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Dan Arnold, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "James Robinson, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Zonovan Knight, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "KJ Hamler, WR BUF",
-    "age": "25.4",
-    "value": 1
-  },
-  {
-    "name": "Malik Cunningham, QB BAL",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Ian Thomas, TE CAR",
-    "age": "28.5",
-    "value": 1
-  },
-  {
-    "name": "Latavius Murray, RB FA",
+    "name": "Jerick McKinnon, RB FA",
     "age": "NA",
     "value": 1
   },
@@ -2600,212 +2695,7 @@
     "value": 1
   },
   {
-    "name": "Trayveon Williams, RB CIN",
-    "age": "27.1",
-    "value": 1
-  },
-  {
-    "name": "Skylar Thompson, QB MIA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Russell Gage, WR SF",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Jalen Guyton, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Sam Ehlinger, QB IND",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Josiah Deguara, TE JAC",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Deon Jackson, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Danny Gray, WR PHI",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Richie James, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Trevor Siemian, QB TEN",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Grant Calcaterra, TE PHI",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Darrynton Evans, RB CHI",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Kyle Allen, QB PIT",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Brycen Hopkins, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "KaVontae Turpin, WR DAL",
-    "age": "28.3",
-    "value": 1
-  },
-  {
-    "name": "Anthony Gould, WR IND",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Case Keenum, QB HOU",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Quintin Morris, TE BUF",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Royce Freeman, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Jalen Reagor, WR LAC",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Ronnie Bell, WR SF",
-    "age": "24.8",
-    "value": 1
-  },
-  {
-    "name": "Matt Corral, QB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Devin Culp, TE TB",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Boston Scott, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
     "name": "Tanner McKee, QB PHI",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Drew Ogletree, TE IND",
-    "age": "26.3",
-    "value": 1
-  },
-  {
-    "name": "Matt Breida, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Chris Moore, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Justin Shorter, WR LV",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Max Duggan, QB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "OJ Howard, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Salvon Ahmed, RB IND",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Velus Jones, WR JAC",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Colt McCoy, QB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Brock Wright, TE DET",
-    "age": "26",
-    "value": 1
-  },
-  {
-    "name": "Kellen Mond, QB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Kenny Yeboah, TE NYJ",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Jason Brownlee, WR NYJ",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Sean Clifford, QB GB",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Teagan Quitoriano, TE HOU",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Josh Johnson, QB BAL",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Jack Stoll, TE MIA",
     "age": "NA",
     "value": 1
   },
@@ -2815,167 +2705,37 @@
     "value": 1
   },
   {
-    "name": "AJ McCarron, QB FA",
+    "name": "Zach Pascal, WR ARI",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Drew Sample, TE CIN",
-    "age": "28.6",
-    "value": 1
-  },
-  {
-    "name": "Nyheim Hines, RB CLE",
-    "age": "28",
-    "value": 1
-  },
-  {
-    "name": "Marquez Callaway, WR TB",
+    "name": "Tyler Davis, TE GB",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Shane Zylstra, TE DET",
+    "name": "Cole Turner, TE WAS",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Michael Wiley, RB WAS",
+    "name": "Kyle Allen, QB PIT",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Nick Muse, TE MIN",
+    "name": "George Holani, RB SEA",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Eno Benjamin, RB FA",
+    "name": "Jack Stoll, TE MIA",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Ricky Seals-Jones, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "KeShawn Vaughn, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Anthony Firkser, TE KC",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Kene Nwangwu, RB NYJ",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Brandon Johnson, WR PIT",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Tyler Kroft, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "DeAndre Carter, WR CHI",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Scott Miller, WR PIT",
-    "age": "27.3",
-    "value": 1
-  },
-  {
-    "name": "MyCole Pruitt, TE PIT",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Ronald Jones, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Trent Sherfield, WR MIN",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Jamal Agnew, WR PIT",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Robbie Chosen, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Geoff Swaim, TE CLE",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Myles Gaskin, RB MIN",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Erik Ezukanma, WR MIA",
-    "age": "24.8",
-    "value": 1
-  },
-  {
-    "name": "Ben Skowronek, WR PIT",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Devin Asiasi, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Phillip Dorsett, WR ATL",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Blake Jarwin, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Dontrell Hilliard, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Cameron Brate, TE FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Bryce Ford-Wheaton, WR NYG",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Rakim Jarrett, WR TB",
-    "age": "23.8",
-    "value": 1
-  },
-  {
-    "name": "Derrick Deese, TE FA",
+    "name": "Zonovan Knight, RB NYJ",
     "age": "NA",
     "value": 1
   },
@@ -2985,92 +2745,22 @@
     "value": 1
   },
   {
-    "name": "Jace Sternberger, TE FA",
+    "name": "Robert Tonyan, TE MIN",
+    "age": "30.6",
+    "value": 1
+  },
+  {
+    "name": "Bryce Ford-Wheaton, WR NYG",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Demetric Felton, RB FA",
-    "age": "NA",
+    "name": "Ronnie Bell, WR SF",
+    "age": "24.8",
     "value": 1
   },
   {
-    "name": "TreQuan Smith, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Melvin Gordon, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Bryan Edwards, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Equanimeous St Brown, WR NO",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Ihmir Smith-Marsette, WR NYG",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Julius Chestnut, RB TEN",
-    "age": "24.1",
-    "value": 1
-  },
-  {
-    "name": "Samori Toure, WR CHI",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Ashton Dulin, WR IND",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Raheem Blackshear, RB CAR",
-    "age": "26.5",
-    "value": 1
-  },
-  {
-    "name": "Simi Fehoko, WR LAC",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Ameer Abdullah, RB LV",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Grant DuBose, WR MIA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Randall Cobb, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Denzel Mims, WR FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Kenyan Drake, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Shi Smith, WR FA",
+    "name": "Zack Kuntz, TE NYJ",
     "age": "NA",
     "value": 1
   },
@@ -3080,27 +2770,12 @@
     "value": 1
   },
   {
-    "name": "Marquise Goodwin, WR FA",
+    "name": "Zach Evans, RB FA",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "DWayne Eskridge, WR MIA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Marlon Mack, RB FA",
-    "age": "NA",
-    "value": 1
-  },
-  {
-    "name": "Travis Homer, RB CHI",
-    "age": "26.3",
-    "value": 1
-  },
-  {
-    "name": "Jalen Cropper, WR DAL",
+    "name": "CJ Uzomah, TE PHI",
     "age": "NA",
     "value": 1
   },
@@ -3110,57 +2785,137 @@
     "value": 1
   },
   {
-    "name": "Michael Strachan, WR WAS",
+    "name": "Simi Fehoko, WR LAC",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Byron Pringle, WR FA",
+    "name": "DeWayne McBride, RB FA",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Snoop Conner, RB FA",
+    "name": "Jermar Jefferson, RB DET",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Julio Jones, WR FA",
+    "name": "Jamal Agnew, WR PIT",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Brandon Bolden, RB FA",
+    "name": "Shane Zylstra, TE DET",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Lynn Bowden, WR FA",
+    "name": "Matt Breida, RB FA",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Mohamed Ibrahim, RB FA",
+    "name": "Salvon Ahmed, RB IND",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Tylan Wallace, WR BAL",
-    "age": "25.5",
-    "value": 1
-  },
-  {
-    "name": "Seth Williams, WR DAL",
+    "name": "Brandon Johnson, WR PIT",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Lew Nichols, RB FA",
+    "name": "James Mitchell, TE DET",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Keelan Cole, WR FA",
+    "name": "Xazavian Valladay, RB NO",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Justin Shorter, WR LV",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Kenny Yeboah, TE NYJ",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Sincere McCormick, RB LV",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "KJ Hamler, WR BUF",
+    "age": "25.4",
+    "value": 1
+  },
+  {
+    "name": "Quintin Morris, TE BUF",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Danny Gray, WR PHI",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Teagan Quitoriano, TE HOU",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "JJ Taylor, RB HOU",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Connor Heyward, TE PIT",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Deon Jackson, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Erik Ezukanma, WR MIA",
+    "age": "24.8",
+    "value": 1
+  },
+  {
+    "name": "Ross Dwelley, TE ATL",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Trent Sherfield, WR MIN",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Josiah Deguara, TE JAC",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Boston Scott, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Jashaun Corbin, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "DeAndre Carter, WR CHI",
     "age": "NA",
     "value": 1
   },
@@ -3170,177 +2925,217 @@
     "value": 1
   },
   {
-    "name": "Dres Anderson, WR FA",
+    "name": "Grant DuBose, WR MIA",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Joseph Ngata, WR FA",
+    "name": "Velus Jones, WR JAC",
     "age": "NA",
     "value": 1
   },
   {
-    "name": "Amari Rodgers, WR FA",
+    "name": "Darrell Henderson, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "JD McKissic, RB FA",
+    "name": "Samori Toure, WR CHI",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Frank Darby, WR FA",
+    "name": "Leonard Fournette, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Anthony Schwartz, WR MIA",
-    "age": "24.2",
-    "value": 0
+    "name": "Scott Miller, WR PIT",
+    "age": "27.3",
+    "value": 1
   },
   {
-    "name": "Xazavian Valladay, RB NO",
+    "name": "Russell Gage, WR SF",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "James Washington, WR FA",
+    "name": "Marquez Callaway, WR TB",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Darrel Williams, RB FA",
+    "name": "Equanimeous St Brown, WR NO",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Tyron Billy-Johnson, WR FA",
+    "name": "Phillip Dorsett, WR ATL",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Dontay Demus, WR FA",
+    "name": "Snoop Conner, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Jaelon Darden, WR CLE",
-    "age": "25.9",
-    "value": 0
+    "name": "Ashton Dulin, WR IND",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Michael Strachan, WR WAS",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Jaden Shirden, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Ben Skowronek, WR PIT",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "James Robinson, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Lew Nichols, RB FA",
+    "age": "NA",
+    "value": 1
   },
   {
     "name": "Tony Jones, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Artavis Scott, WR FA",
+    "name": "Ihmir Smith-Marsette, WR NYG",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "JJ Taylor, RB HOU",
+    "name": "Demetric Felton, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Sincere McCormick, RB LV",
+    "name": "DWayne Eskridge, WR MIA",
     "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Dante Pettis, WR NO",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Dare Ogunbowale, RB HOU",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Jarvis Landry, WR FA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "William Fuller, WR FA",
-    "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
     "name": "LaMical Perine, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Andy Isabella, WR FA",
+    "name": "Jalen Cropper, WR DAL",
     "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Cam Sims, WR FA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Anthony McFarland, RB FA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Cade Johnson, WR FA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Trestan Ebner, RB FA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Cornell Powell, WR FA",
-    "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
     "name": "Jake Funk, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
-    "name": "Quintez Cephus, WR LAR",
+    "name": "KeShawn Vaughn, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
     "name": "Dez Fitzpatrick, WR LAC",
     "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "Jashaun Corbin, RB FA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "NKeal Harry, WR SEA",
-    "age": "NA",
-    "value": 0
-  },
-  {
-    "name": "David Moore, WR CAR",
-    "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
     "name": "Derrick Gore, RB FA",
     "age": "NA",
-    "value": 0
+    "value": 1
   },
   {
     "name": "Miles Boykin, WR SEA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Anthony McFarland, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Anthony Schwartz, WR MIA",
+    "age": "24.2",
+    "value": 1
+  },
+  {
+    "name": "Melvin Gordon, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "NKeal Harry, WR SEA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Mohamed Ibrahim, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Dante Pettis, WR NO",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Eno Benjamin, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Jaelon Darden, WR CLE",
+    "age": "25.9",
+    "value": 1
+  },
+  {
+    "name": "Marlon Mack, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Seth Williams, WR DAL",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Brandon Bolden, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Patrick Laird, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Caleb Huntley, RB FA",
+    "age": "NA",
+    "value": 1
+  },
+  {
+    "name": "Ronald Jones, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Lynn Bowden, WR FA",
     "age": "NA",
     "value": 0
   },
@@ -3350,7 +3145,57 @@
     "value": 0
   },
   {
-    "name": "Larry Rountree, RB FA",
+    "name": "Julio Jones, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "JD McKissic, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "TreQuan Smith, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Dontrell Hilliard, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Byron Pringle, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Kenyan Drake, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Andy Isabella, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Darrel Williams, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Joseph Ngata, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Trestan Ebner, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Frank Darby, WR FA",
     "age": "NA",
     "value": 0
   },
@@ -3360,17 +3205,102 @@
     "value": 0
   },
   {
-    "name": "Freddie Swain, WR FA",
+    "name": "James Washington, WR FA",
     "age": "NA",
     "value": 0
   },
   {
-    "name": "JJ Arcega-Whiteside, WR FA",
+    "name": "Corey Clement, RB FA",
     "age": "NA",
     "value": 0
   },
   {
-    "name": "Collin Johnson, WR CHI",
+    "name": "Tyron Billy-Johnson, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Gerrid Doaks, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Shi Smith, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Benny Snell, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Keelan Cole, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Tevin Coleman, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Cornell Powell, WR SEA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Malcolm Brown, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Cam Sims, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Wayne Gallman, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Cade Johnson, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Larry Rountree, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Denzel Mims, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Jason Huntley, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Jarvis Landry, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Jerrion Ealy, RB FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Amari Rodgers, WR FA",
+    "age": "NA",
+    "value": 0
+  },
+  {
+    "name": "Kennedy Brooks, RB FA",
     "age": "NA",
     "value": 0
   },
@@ -3380,7 +3310,7 @@
     "value": 0
   },
   {
-    "name": "Steven Sims, WR HOU",
+    "name": "JJ Arcega-Whiteside, WR FA",
     "age": "NA",
     "value": 0
   }

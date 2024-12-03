@@ -2,549 +2,273 @@
   {
     "rowData": {
       "one": {
-        "spread": "-2.5",
-        "line": "-115",
-        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
-      },
-      "two": {
-        "spread": "+2.5",
-        "line": "-104",
+        "spread": "+3.5",
+        "line": "-112",
         "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
       },
+      "two": {
+        "spread": "-3.5",
+        "line": "-102",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+      },
       "three": {
-        "spread": "-2.5",
+        "spread": "+3.5",
         "line": "-115",
         "logo": null
       },
       "four": {
-        "spread": "+2.5",
+        "spread": "-3.5",
         "line": "-105",
         "logo": null
       },
       "five": {
-        "spread": "-2.5",
+        "spread": "+3.5",
         "line": "-115",
         "logo": null
       },
       "six": {
-        "spread": "+2.5",
+        "spread": "-3.5",
         "line": "-105",
         "logo": null
       },
       "seven": {
-        "spread": "-2.5",
-        "line": "-118",
+        "spread": "+3.5",
+        "line": "-112",
         "logo": null
       },
       "eight": {
-        "spread": "+2.5",
-        "line": "-104",
+        "spread": "-3.5",
+        "line": "-108",
         "logo": null
       },
       "nine": {
-        "spread": "-2.5",
-        "line": "-115",
+        "spread": "+3.5",
+        "line": "-118",
         "logo": null
       },
       "ten": {
-        "spread": "+2.5",
-        "line": "-105",
+        "spread": "-3.5",
+        "line": "-102",
         "logo": null
       },
       "eleven": {
-        "spread": "-2.5",
-        "line": "-117",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+2.5",
-        "line": "-107",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "-2.5",
+        "spread": "+3.5",
         "line": "-115",
         "logo": null
       },
+      "twelve": {
+        "spread": "-3.5",
+        "line": "-108",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+3.5",
+        "line": "-114",
+        "logo": null
+      },
       "fourteen": {
-        "spread": "+2.5",
-        "line": "-106",
+        "spread": "-3.5",
+        "line": "-107",
         "logo": null
       },
       "fifteen": {
-        "spread": "-2.5",
+        "spread": "+3.5",
         "line": "-115",
         "logo": null
       },
       "sixteen": {
-        "spread": "+2.5",
+        "spread": "-3.5",
         "line": "-105",
         "logo": null
       }
     },
-    "teamName1": "Ravens",
-    "teamName2": "Chargers",
-    "teamIcon1": "https://static.sprtactn.co/teamlogos/nfl/100/bal.png",
-    "teamIcon2": "https://static.sprtactn.co/teamlogos/nfl/100/sd.png",
-    "openSpread1": "-3",
+    "teamName1": "Packers",
+    "teamName2": "Lions",
+    "teamIcon1": "https://static.sprtactn.co/teamlogos/nfl/100/gb.png",
+    "teamIcon2": "https://static.sprtactn.co/teamlogos/nfl/100/det.png",
+    "openSpread1": "+3",
+    "openLine1": "-112",
+    "openSpread2": "-3",
+    "openLine2": "-108"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "+6.5",
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+      },
+      "two": {
+        "spread": "-6.5",
+        "line": "-108",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+      },
+      "three": {
+        "spread": "+6.5",
+        "line": "-110",
+        "logo": null
+      },
+      "four": {
+        "spread": "-6.5",
+        "line": "-110",
+        "logo": null
+      },
+      "five": {
+        "spread": "+6.5",
+        "line": "-110",
+        "logo": null
+      },
+      "six": {
+        "spread": "-6.5",
+        "line": "-110",
+        "logo": null
+      },
+      "seven": {
+        "spread": "+6.5",
+        "line": "-112",
+        "logo": null
+      },
+      "eight": {
+        "spread": "-6.5",
+        "line": "-108",
+        "logo": null
+      },
+      "nine": {
+        "spread": "+6.5",
+        "line": "-105",
+        "logo": null
+      },
+      "ten": {
+        "spread": "-6.5",
+        "line": "-115",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "+6.5",
+        "line": "-110",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-6.5",
+        "line": "-113",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+6.5",
+        "line": "-109",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-6.5",
+        "line": "-112",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "+6.5",
+        "line": "-110",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "-6.5",
+        "line": "-110",
+        "logo": null
+      }
+    },
+    "teamName1": "Jets",
+    "teamName2": "Dolphins",
+    "teamIcon1": "https://assets.actionnetwork.com/372790_jets.png",
+    "teamIcon2": "https://static.sprtactn.co/teamlogos/nfl/100/mia.png",
+    "openSpread1": "+2",
     "openLine1": "-110",
-    "openSpread2": "+3",
+    "openSpread2": "-2",
     "openLine2": "-110"
   },
   {
     "rowData": {
       "one": {
-        "spread": "-3.5",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
-      },
-      "two": {
-        "spread": "+3.5",
-        "line": "+100",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
-      },
-      "three": {
-        "spread": "-3.5",
-        "line": "-115",
-        "logo": null
-      },
-      "four": {
-        "spread": "+3.5",
-        "line": "-105",
-        "logo": null
-      },
-      "five": {
-        "spread": "-3.5",
-        "line": "-120",
-        "logo": null
-      },
-      "six": {
-        "spread": "+3.5",
-        "line": "+100",
-        "logo": null
-      },
-      "seven": {
-        "spread": "-3.5",
-        "line": "-118",
-        "logo": null
-      },
-      "eight": {
-        "spread": "+3.5",
-        "line": "-104",
-        "logo": null
-      },
-      "nine": {
-        "spread": "-3.5",
-        "line": "-118",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+3.5",
-        "line": "-102",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "-3.5",
-        "line": "-112",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+3.5",
-        "line": "-112",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "-3.5",
-        "line": "-110",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "+3.5",
-        "line": "-110",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "-3.5",
-        "line": "-115",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "+3.5",
-        "line": "-105",
-        "logo": null
-      }
-    },
-    "teamName1": "Steelers",
-    "teamName2": "Browns",
-    "teamIcon1": "https://static.sprtactn.co/teamlogos/nfl/100/pit.png",
-    "teamIcon2": "https://assets.actionnetwork.com/519602_browns.png",
-    "openSpread1": "+2.5",
-    "openLine1": "-105",
-    "openSpread2": "-2.5",
-    "openLine2": "-115"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "-10.5",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
-      },
-      "two": {
-        "spread": "+14.5",
-        "line": "-113",
-        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
-      },
-      "three": {
-        "spread": "-11",
-        "line": "-110",
-        "logo": null
-      },
-      "four": {
-        "spread": "+11",
-        "line": "-110",
-        "logo": null
-      },
-      "five": {
-        "spread": "-10.5",
-        "line": "-110",
-        "logo": null
-      },
-      "six": {
-        "spread": "+10.5",
-        "line": "-110",
-        "logo": null
-      },
-      "seven": {
-        "spread": "-10.5",
-        "line": "-115",
-        "logo": null
-      },
-      "eight": {
-        "spread": "+10.5",
-        "line": "-105",
-        "logo": null
-      },
-      "nine": {
-        "spread": "-11",
-        "line": "-112",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+11",
-        "line": "-108",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "-11",
-        "line": "-110",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+11",
-        "line": "-113",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "-14.5",
-        "line": "-118",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "+14.5",
-        "line": "-113",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "-10.5",
-        "line": "-115",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "+10.5",
-        "line": "-105",
-        "logo": null
-      }
-    },
-    "teamName1": "Chiefs",
-    "teamName2": "Panthers",
-    "teamIcon1": "https://static.sprtactn.co/teamlogos/nfl/100/kc.png",
-    "teamIcon2": null,
-    "openSpread1": "-7.5",
-    "openLine1": "-108",
-    "openSpread2": "+7.5",
-    "openLine2": "-112"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "-3",
-        "line": "-105",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
-      },
-      "two": {
-        "spread": "+3",
+        "spread": "+12.5",
         "line": "-110",
         "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
-      "three": {
-        "spread": "-3",
-        "line": "-110",
-        "logo": null
-      },
-      "four": {
-        "spread": "+3",
-        "line": "-110",
-        "logo": null
-      },
-      "five": {
-        "spread": "-3",
-        "line": "-105",
-        "logo": null
-      },
-      "six": {
-        "spread": "+3",
-        "line": "-115",
-        "logo": null
-      },
-      "seven": {
-        "spread": "-3",
-        "line": "-105",
-        "logo": null
-      },
-      "eight": {
-        "spread": "+3",
-        "line": "-115",
-        "logo": null
-      },
-      "nine": {
-        "spread": "-3",
-        "line": "-110",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+3",
-        "line": "-110",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "-3",
-        "line": "-110",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+3",
-        "line": "-113",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "-3",
-        "line": "-109",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "+3",
-        "line": "-112",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "-3",
-        "line": "-105",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "+3",
-        "line": "-115",
-        "logo": null
-      }
-    },
-    "teamName1": "Vikings",
-    "teamName2": "Bears",
-    "teamIcon1": null,
-    "teamIcon2": null,
-    "openSpread1": "+3.5",
-    "openLine1": "-115",
-    "openSpread2": "-3.5",
-    "openLine2": "-105"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "+10.5",
-        "line": "-105",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
-      },
       "two": {
-        "spread": "-10.5",
-        "line": "-108",
+        "spread": "-12",
+        "line": "-110",
         "logo": "https://assets.actionnetwork.com/603379_Primary.png"
       },
       "three": {
-        "spread": "+10.5",
+        "spread": "+12.5",
         "line": "-110",
         "logo": null
       },
       "four": {
-        "spread": "-10.5",
+        "spread": "-12.5",
         "line": "-110",
         "logo": null
       },
       "five": {
-        "spread": "+10.5",
-        "line": "-105",
+        "spread": "+12.5",
+        "line": "-110",
         "logo": null
       },
       "six": {
-        "spread": "-10.5",
-        "line": "-115",
+        "spread": "-12.5",
+        "line": "-110",
         "logo": null
       },
       "seven": {
-        "spread": "+10.5",
-        "line": "-108",
+        "spread": "+12.5",
+        "line": "-110",
         "logo": null
       },
       "eight": {
-        "spread": "-10.5",
-        "line": "-112",
+        "spread": "-12.5",
+        "line": "-110",
         "logo": null
       },
       "nine": {
-        "spread": "+10.5",
-        "line": "-112",
+        "spread": "+12",
+        "line": "-110",
         "logo": null
       },
       "ten": {
-        "spread": "-10.5",
-        "line": "-108",
+        "spread": "-12",
+        "line": "-110",
         "logo": null
       },
       "eleven": {
-        "spread": "+10.5",
+        "spread": "+12.5",
         "line": "-113",
         "logo": null
       },
       "twelve": {
-        "spread": "-10.5",
+        "spread": "-12.5",
         "line": "-110",
         "logo": null
       },
       "thirteen": {
-        "spread": "+10.5",
-        "line": "-115",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "-10.5",
+        "spread": "+12.5",
         "line": "-112",
         "logo": null
       },
+      "fourteen": {
+        "spread": "-12.5",
+        "line": "-109",
+        "logo": null
+      },
       "fifteen": {
-        "spread": "+10.5",
+        "spread": "+12.5",
         "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "-10.5",
+        "spread": "-12.5",
         "line": "-110",
         "logo": null
       }
     },
-    "teamName1": "Cowboys",
-    "teamName2": "Commanders",
-    "teamIcon1": null,
-    "teamIcon2": null,
-    "openSpread1": "-3.5",
-    "openLine1": "-108",
-    "openSpread2": "+3.5",
-    "openLine2": "-112"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "+7.5",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
-      },
-      "two": {
-        "spread": "-7",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
-      },
-      "three": {
-        "spread": "+7",
-        "line": "-110",
-        "logo": null
-      },
-      "four": {
-        "spread": "-7",
-        "line": "-110",
-        "logo": null
-      },
-      "five": {
-        "spread": "+7.5",
-        "line": "-110",
-        "logo": null
-      },
-      "six": {
-        "spread": "-7.5",
-        "line": "-110",
-        "logo": null
-      },
-      "seven": {
-        "spread": "+7.5",
-        "line": "-112",
-        "logo": null
-      },
-      "eight": {
-        "spread": "-7.5",
-        "line": "-108",
-        "logo": null
-      },
-      "nine": {
-        "spread": "+7.5",
-        "line": "-115",
-        "logo": null
-      },
-      "ten": {
-        "spread": "-7.5",
-        "line": "-105",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "+7.5",
-        "line": "-115",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "-7.5",
-        "line": "-108",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "+7.5",
-        "line": "-115",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "-7.5",
-        "line": "-110",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "+7.5",
-        "line": "-115",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "-7.5",
-        "line": "-105",
-        "logo": null
-      }
-    },
-    "teamName1": "Patriots",
-    "teamName2": "Dolphins",
-    "teamIcon1": null,
+    "teamName1": "Panthers",
+    "teamName2": "Eagles",
+    "teamIcon1": "https://static.sprtactn.co/teamlogos/nfl/100/car.png",
     "teamIcon2": null,
     "openSpread1": "+7.5",
     "openLine1": "-110",
@@ -554,548 +278,364 @@
   {
     "rowData": {
       "one": {
-        "spread": "+8",
+        "spread": "+6.5",
         "line": "-105",
         "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
       },
       "two": {
-        "spread": "-8",
+        "spread": "-6",
         "line": "-110",
         "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "three": {
-        "spread": "+8",
+        "spread": "+6",
         "line": "-110",
         "logo": null
       },
       "four": {
-        "spread": "-8",
+        "spread": "-6",
         "line": "-110",
         "logo": null
       },
       "five": {
-        "spread": "+8",
+        "spread": "+6.5",
         "line": "-105",
         "logo": null
       },
       "six": {
-        "spread": "-8",
+        "spread": "-6.5",
         "line": "-115",
         "logo": null
       },
       "seven": {
-        "spread": "+7.5",
-        "line": "-104",
-        "logo": null
-      },
-      "eight": {
-        "spread": "-7.5",
-        "line": "-118",
-        "logo": null
-      },
-      "nine": {
-        "spread": "+8",
-        "line": "-110",
-        "logo": null
-      },
-      "ten": {
-        "spread": "-8",
-        "line": "-110",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "+8",
-        "line": "-110",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "-8",
-        "line": "-113",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "+8",
-        "line": "-109",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "-8",
-        "line": "-112",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "+8",
-        "line": "-110",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "-8",
-        "line": "-110",
-        "logo": null
-      }
-    },
-    "teamName1": "Titans",
-    "teamName2": "Texans",
-    "teamIcon1": null,
-    "teamIcon2": null,
-    "openSpread1": "+6",
-    "openLine1": "-112",
-    "openSpread2": "-6",
-    "openLine2": "-108"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "-7",
-        "line": "-105",
-        "logo": "https://assets.actionnetwork.com/240081_Bet365ALT.png"
-      },
-      "two": {
-        "spread": "+7",
-        "line": "-102",
-        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
-      },
-      "three": {
-        "spread": "-7",
-        "line": "-110",
-        "logo": null
-      },
-      "four": {
-        "spread": "+7",
-        "line": "-110",
-        "logo": null
-      },
-      "five": {
-        "spread": "-7",
-        "line": "-110",
-        "logo": null
-      },
-      "six": {
-        "spread": "+7",
-        "line": "-110",
-        "logo": null
-      },
-      "seven": {
-        "spread": "-7",
-        "line": "-115",
-        "logo": null
-      },
-      "eight": {
-        "spread": "+7",
-        "line": "-105",
-        "logo": null
-      },
-      "nine": {
-        "spread": "-7",
-        "line": "-118",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+7",
-        "line": "-102",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "-7.5",
-        "line": "-109",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+7.5",
-        "line": "-114",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "-7.5",
-        "line": "-108",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "+7.5",
-        "line": "-113",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "-7",
-        "line": "-105",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "+7",
-        "line": "-115",
-        "logo": null
-      }
-    },
-    "teamName1": "Lions",
-    "teamName2": "Colts",
-    "teamIcon1": null,
-    "teamIcon2": null,
-    "openSpread1": "-2.5",
-    "openLine1": "-112",
-    "openSpread2": "+2.5",
-    "openLine2": "-108"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "-6.5",
-        "line": "-102",
-        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
-      },
-      "two": {
-        "spread": "+6.5",
-        "line": "-115",
-        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
-      },
-      "three": {
-        "spread": "-6.5",
-        "line": "-105",
-        "logo": null
-      },
-      "four": {
         "spread": "+6.5",
         "line": "-115",
         "logo": null
       },
-      "five": {
-        "spread": "-6",
-        "line": "-110",
-        "logo": null
-      },
-      "six": {
-        "spread": "+6",
-        "line": "-110",
-        "logo": null
-      },
-      "seven": {
-        "spread": "-6.5",
-        "line": "-102",
-        "logo": null
-      },
       "eight": {
-        "spread": "+6.5",
-        "line": "-120",
+        "spread": "-6.5",
+        "line": "-105",
         "logo": null
       },
       "nine": {
-        "spread": "-6",
-        "line": "-112",
+        "spread": "+6",
+        "line": "-110",
         "logo": null
       },
       "ten": {
-        "spread": "+6",
-        "line": "-108",
+        "spread": "-6",
+        "line": "-110",
         "logo": null
       },
       "eleven": {
-        "spread": "-6",
+        "spread": "+6.5",
         "line": "-112",
         "logo": null
       },
       "twelve": {
-        "spread": "+6",
+        "spread": "-6.5",
         "line": "-112",
         "logo": null
       },
       "thirteen": {
-        "spread": "-6",
-        "line": "-109",
+        "spread": "+6.5",
+        "line": "-110",
         "logo": null
       },
       "fourteen": {
-        "spread": "+6",
-        "line": "-112",
+        "spread": "-6.5",
+        "line": "-110",
         "logo": null
       },
       "fifteen": {
-        "spread": "-6",
+        "spread": "+6",
         "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "+6",
+        "spread": "-6",
         "line": "-110",
         "logo": null
       }
     },
-    "teamName1": "Buccaneers",
-    "teamName2": "Giants",
+    "teamName1": "Browns",
+    "teamName2": "Steelers",
     "teamIcon1": null,
     "teamIcon2": null,
     "openSpread1": "-1",
-    "openLine1": "-108",
+    "openLine1": "-105",
     "openSpread2": "+1",
-    "openLine2": "-112"
+    "openLine2": "-115"
   },
   {
     "rowData": {
       "one": {
-        "spread": "-5",
-        "line": "-112",
-        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
+        "spread": "+7",
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "two": {
-        "spread": "+6",
+        "spread": "-7",
         "line": "-108",
         "logo": "https://assets.actionnetwork.com/603379_Primary.png"
       },
       "three": {
-        "spread": "-5.5",
-        "line": "-110",
-        "logo": null
-      },
-      "four": {
-        "spread": "+5.5",
-        "line": "-110",
-        "logo": null
-      },
-      "five": {
-        "spread": "-5.5",
-        "line": "-110",
-        "logo": null
-      },
-      "six": {
-        "spread": "+5.5",
-        "line": "-110",
-        "logo": null
-      },
-      "seven": {
-        "spread": "-5.5",
-        "line": "-112",
-        "logo": null
-      },
-      "eight": {
-        "spread": "+5.5",
-        "line": "-108",
-        "logo": null
-      },
-      "nine": {
-        "spread": "-6",
-        "line": "-112",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+6",
-        "line": "-108",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "-5",
-        "line": "-113",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+5",
-        "line": "-110",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "-5",
-        "line": "-112",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "+5",
-        "line": "-109",
-        "logo": null
-      },
-      "fifteen": {
-        "spread": "-5.5",
-        "line": "-110",
-        "logo": null
-      },
-      "sixteen": {
-        "spread": "+5.5",
-        "line": "-110",
-        "logo": null
-      }
-    },
-    "teamName1": "Broncos",
-    "teamName2": "Raiders",
-    "teamIcon1": null,
-    "teamIcon2": null,
-    "openSpread1": "+3",
-    "openLine1": "-110",
-    "openSpread2": "-3",
-    "openLine2": "-110"
-  },
-  {
-    "rowData": {
-      "one": {
-        "spread": "+7.5",
-        "line": "-121",
-        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
-      },
-      "two": {
-        "spread": "-6",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
-      },
-      "three": {
-        "spread": "+6",
+        "spread": "+7",
         "line": "-105",
         "logo": null
       },
       "four": {
-        "spread": "-6",
+        "spread": "-7",
         "line": "-115",
         "logo": null
       },
       "five": {
-        "spread": "+6",
+        "spread": "+7",
         "line": "-110",
         "logo": null
       },
       "six": {
-        "spread": "-6",
+        "spread": "-7",
         "line": "-110",
         "logo": null
       },
       "seven": {
-        "spread": "+6.5",
-        "line": "-112",
+        "spread": "+7",
+        "line": "-110",
         "logo": null
       },
       "eight": {
-        "spread": "-6.5",
-        "line": "-108",
+        "spread": "-7",
+        "line": "-110",
         "logo": null
       },
       "nine": {
-        "spread": "+6.5",
+        "spread": "+7",
         "line": "-112",
         "logo": null
       },
       "ten": {
-        "spread": "-6.5",
+        "spread": "-7",
         "line": "-108",
         "logo": null
       },
       "eleven": {
-        "spread": "+6.5",
+        "spread": "+7",
+        "line": "-108",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-7",
+        "line": "-115",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+7",
+        "line": "-107",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-7",
         "line": "-114",
         "logo": null
       },
-      "twelve": {
-        "spread": "-6.5",
-        "line": "-112",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "+7.5",
-        "line": "-121",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "-7.5",
-        "line": "-112",
-        "logo": null
-      },
       "fifteen": {
-        "spread": "+6",
-        "line": "-105",
+        "spread": "+7",
+        "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "-6",
-        "line": "-115",
+        "spread": "-7",
+        "line": "-110",
         "logo": null
       }
     },
-    "teamName1": "49ers",
-    "teamName2": "Packers",
+    "teamName1": "Raiders",
+    "teamName2": "Buccaneers",
     "teamIcon1": null,
     "teamIcon2": null,
-    "openSpread1": "-2.5",
-    "openLine1": "-110",
-    "openSpread2": "+2.5",
-    "openLine2": "-110"
+    "openSpread1": "+3",
+    "openLine1": "-115",
+    "openSpread2": "-3",
+    "openLine2": "-105"
   },
   {
     "rowData": {
       "one": {
-        "spread": "-1",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
+        "spread": "+3.5",
+        "line": "-108",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
       },
       "two": {
-        "spread": "+1.5",
+        "spread": "-3.5",
         "line": "-110",
         "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "three": {
-        "spread": "-1.5",
+        "spread": "+3.5",
         "line": "-110",
         "logo": null
       },
       "four": {
-        "spread": "+1.5",
+        "spread": "-3.5",
         "line": "-110",
         "logo": null
       },
       "five": {
-        "spread": "-1",
+        "spread": "+3.5",
         "line": "-110",
         "logo": null
       },
       "six": {
-        "spread": "+1",
+        "spread": "-3.5",
         "line": "-110",
         "logo": null
       },
       "seven": {
-        "spread": "-1.5",
-        "line": "-108",
-        "logo": null
-      },
-      "eight": {
-        "spread": "+1.5",
-        "line": "-112",
-        "logo": null
-      },
-      "nine": {
-        "spread": "-1",
-        "line": "-112",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+1",
-        "line": "-108",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "-1",
-        "line": "-115",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "+1",
+        "spread": "+3.5",
         "line": "-110",
         "logo": null
       },
-      "thirteen": {
-        "spread": "-1",
-        "line": "-113",
+      "eight": {
+        "spread": "-3.5",
+        "line": "-110",
         "logo": null
       },
-      "fourteen": {
-        "spread": "+1",
+      "nine": {
+        "spread": "+3.5",
         "line": "-108",
         "logo": null
       },
+      "ten": {
+        "spread": "-3.5",
+        "line": "-112",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "+3.5",
+        "line": "-110",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-3.5",
+        "line": "-113",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+3.5",
+        "line": "-109",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-3.5",
+        "line": "-112",
+        "logo": null
+      },
       "fifteen": {
-        "spread": "-1",
+        "spread": "+3.5",
         "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "+1",
+        "spread": "-3.5",
         "line": "-110",
         "logo": null
       }
     },
-    "teamName1": "Cardinals",
-    "teamName2": "Seahawks",
+    "teamName1": "Jaguars",
+    "teamName2": "Titans",
+    "teamIcon1": null,
+    "teamIcon2": null,
+    "openSpread1": "-1.5",
+    "openLine1": "-112",
+    "openSpread2": "+1.5",
+    "openLine2": "-108"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "-5",
+        "line": "-109",
+        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
+      },
+      "two": {
+        "spread": "+5.5",
+        "line": "-112",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+      },
+      "three": {
+        "spread": "-5",
+        "line": "-110",
+        "logo": null
+      },
+      "four": {
+        "spread": "+5",
+        "line": "-110",
+        "logo": null
+      },
+      "five": {
+        "spread": "-5",
+        "line": "-110",
+        "logo": null
+      },
+      "six": {
+        "spread": "+5",
+        "line": "-110",
+        "logo": null
+      },
+      "seven": {
+        "spread": "-4.5",
+        "line": "-115",
+        "logo": null
+      },
+      "eight": {
+        "spread": "+4.5",
+        "line": "-105",
+        "logo": null
+      },
+      "nine": {
+        "spread": "-5.5",
+        "line": "-108",
+        "logo": null
+      },
+      "ten": {
+        "spread": "+5.5",
+        "line": "-112",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "-5",
+        "line": "-110",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "+5",
+        "line": "-113",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "-5",
+        "line": "-109",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "+5",
+        "line": "-112",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "-5",
+        "line": "-110",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "+5",
+        "line": "-110",
+        "logo": null
+      }
+    },
+    "teamName1": "Saints",
+    "teamName2": "Giants",
     "teamIcon1": null,
     "teamIcon2": null,
     "openSpread1": "+1",
@@ -1106,93 +646,553 @@
   {
     "rowData": {
       "one": {
-        "spread": "-2.5",
-        "line": "-118",
-        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+        "spread": "+5",
+        "line": "-110",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "two": {
-        "spread": "+3",
+        "spread": "-4.5",
         "line": "-110",
-        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
       },
       "three": {
-        "spread": "-3",
-        "line": "-105",
+        "spread": "+5",
+        "line": "-110",
         "logo": null
       },
       "four": {
-        "spread": "+3",
-        "line": "-115",
+        "spread": "-5",
+        "line": "-110",
         "logo": null
       },
       "five": {
-        "spread": "-3",
+        "spread": "+5",
         "line": "-110",
         "logo": null
       },
       "six": {
-        "spread": "+3",
+        "spread": "-5",
         "line": "-110",
         "logo": null
       },
       "seven": {
-        "spread": "-3",
+        "spread": "+4.5",
         "line": "-110",
         "logo": null
       },
       "eight": {
-        "spread": "+3",
+        "spread": "-4.5",
         "line": "-110",
         "logo": null
       },
       "nine": {
-        "spread": "-2.5",
-        "line": "-118",
+        "spread": "+5",
+        "line": "-112",
         "logo": null
       },
       "ten": {
-        "spread": "+2.5",
-        "line": "-102",
+        "spread": "-5",
+        "line": "-108",
         "logo": null
       },
       "eleven": {
-        "spread": "-3",
-        "line": "-107",
+        "spread": "+4.5",
+        "line": "-110",
         "logo": null
       },
       "twelve": {
-        "spread": "+3",
-        "line": "-117",
+        "spread": "-4.5",
+        "line": "-113",
         "logo": null
       },
       "thirteen": {
+        "spread": "+4.5",
+        "line": "-109",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-4.5",
+        "line": "-112",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "+5",
+        "line": "-110",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "-5",
+        "line": "-110",
+        "logo": null
+      }
+    },
+    "teamName1": "Falcons",
+    "teamName2": "Vikings",
+    "teamIcon1": null,
+    "teamIcon2": null,
+    "openSpread1": "-1",
+    "openLine1": "-112",
+    "openSpread2": "+1",
+    "openLine2": "-108"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "+3",
+        "line": "-115",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
+      },
+      "two": {
+        "spread": "-2.5",
+        "line": "-112",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+      },
+      "three": {
+        "spread": "+3",
+        "line": "-115",
+        "logo": null
+      },
+      "four": {
         "spread": "-3",
+        "line": "-105",
+        "logo": null
+      },
+      "five": {
+        "spread": "+2.5",
+        "line": "-105",
+        "logo": null
+      },
+      "six": {
+        "spread": "-2.5",
+        "line": "-115",
+        "logo": null
+      },
+      "seven": {
+        "spread": "+2.5",
+        "line": "-108",
+        "logo": null
+      },
+      "eight": {
+        "spread": "-2.5",
+        "line": "-112",
+        "logo": null
+      },
+      "nine": {
+        "spread": "+3",
+        "line": "-115",
+        "logo": null
+      },
+      "ten": {
+        "spread": "-3",
+        "line": "-105",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "+2.5",
+        "line": "-108",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-2.5",
+        "line": "-115",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+2.5",
         "line": "-106",
         "logo": null
       },
       "fourteen": {
-        "spread": "+3",
+        "spread": "-2.5",
         "line": "-115",
         "logo": null
       },
       "fifteen": {
-        "spread": "-3",
+        "spread": "+2.5",
+        "line": "+100",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "-2.5",
+        "line": "-120",
+        "logo": null
+      }
+    },
+    "teamName1": "Seahawks",
+    "teamName2": "Cardinals",
+    "teamIcon1": null,
+    "teamIcon2": null,
+    "openSpread1": "+1",
+    "openLine1": "-112",
+    "openSpread2": "-1",
+    "openLine2": "-108"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
+      },
+      "two": {
+        "spread": "-3.5",
+        "line": "-118",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+      },
+      "three": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "four": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "five": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "six": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "seven": {
+        "spread": "+3.5",
+        "line": "-102",
+        "logo": null
+      },
+      "eight": {
+        "spread": "-3.5",
+        "line": "-120",
+        "logo": null
+      },
+      "nine": {
+        "spread": "+3.5",
+        "line": "-102",
+        "logo": null
+      },
+      "ten": {
+        "spread": "-3.5",
+        "line": "-118",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "+4",
+        "line": "-112",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-4",
+        "line": "-112",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "+4",
         "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "+3",
+        "spread": "-4",
         "line": "-110",
         "logo": null
       }
     },
-    "teamName1": "Eagles",
+    "teamName1": "Bears",
+    "teamName2": "49ers",
+    "teamIcon1": null,
+    "teamIcon2": null,
+    "openSpread1": "+5.5",
+    "openLine1": "-112",
+    "openSpread2": "-5.5",
+    "openLine2": "-108"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+      },
+      "two": {
+        "spread": "+4.5",
+        "line": "-110",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
+      },
+      "three": {
+        "spread": "-4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "four": {
+        "spread": "+4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "five": {
+        "spread": "-4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "six": {
+        "spread": "+4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "seven": {
+        "spread": "-4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "eight": {
+        "spread": "+4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "nine": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "ten": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "-4.5",
+        "line": "-109",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "+4.5",
+        "line": "-114",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "-4.5",
+        "line": "-108",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "+4.5",
+        "line": "-113",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "-4.5",
+        "line": "-110",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "+4.5",
+        "line": "-110",
+        "logo": null
+      }
+    },
+    "teamName1": "Bills",
     "teamName2": "Rams",
     "teamIcon1": null,
     "teamIcon2": null,
+    "openSpread1": "-1",
+    "openLine1": "-110",
+    "openSpread2": "+1",
+    "openLine2": "-110"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "+4",
+        "line": "-109",
+        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
+      },
+      "two": {
+        "spread": "-3.5",
+        "line": "-118",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+      },
+      "three": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "four": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "five": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "six": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "seven": {
+        "spread": "+3.5",
+        "line": "-104",
+        "logo": null
+      },
+      "eight": {
+        "spread": "-3.5",
+        "line": "-118",
+        "logo": null
+      },
+      "nine": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "ten": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-4",
+        "line": "-113",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+4",
+        "line": "-109",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-4",
+        "line": "-112",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "+4",
+        "line": "-110",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "-4",
+        "line": "-110",
+        "logo": null
+      }
+    },
+    "teamName1": "Chargers",
+    "teamName2": "Chiefs",
+    "teamIcon1": null,
+    "teamIcon2": null,
+    "openSpread1": "+6.5",
+    "openLine1": "-110",
+    "openSpread2": "-6.5",
+    "openLine2": "-110"
+  },
+  {
+    "rowData": {
+      "one": {
+        "spread": "-5.5",
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
+      },
+      "two": {
+        "spread": "+5.5",
+        "line": "-106",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+      },
+      "three": {
+        "spread": "-5.5",
+        "line": "-110",
+        "logo": null
+      },
+      "four": {
+        "spread": "+5.5",
+        "line": "-110",
+        "logo": null
+      },
+      "five": {
+        "spread": "-5.5",
+        "line": "-105",
+        "logo": null
+      },
+      "six": {
+        "spread": "+5.5",
+        "line": "-115",
+        "logo": null
+      },
+      "seven": {
+        "spread": "-5.5",
+        "line": "-114",
+        "logo": null
+      },
+      "eight": {
+        "spread": "+5.5",
+        "line": "-106",
+        "logo": null
+      },
+      "nine": {
+        "spread": "-5.5",
+        "line": "-108",
+        "logo": null
+      },
+      "ten": {
+        "spread": "+5.5",
+        "line": "-112",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "-5.5",
+        "line": "-114",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "+5.5",
+        "line": "-109",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "-5.5",
+        "line": "-113",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "+5.5",
+        "line": "-108",
+        "logo": null
+      },
+      "fifteen": {
+        "spread": "-5.5",
+        "line": "-110",
+        "logo": null
+      },
+      "sixteen": {
+        "spread": "+5.5",
+        "line": "-110",
+        "logo": null
+      }
+    },
+    "teamName1": "Bengals",
+    "teamName2": "Cowboys",
+    "teamIcon1": null,
+    "teamIcon2": null,
     "openSpread1": "+1",
-    "openLine1": "-115",
+    "openLine1": "-110",
     "openSpread2": "-1",
-    "openLine2": "-105"
+    "openLine2": "-110"
   }
 ]

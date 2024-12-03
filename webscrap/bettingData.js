@@ -10,7 +10,7 @@ async function scrapeOdds() {
     await page.goto('https://actionnetwork.com/odds');  // Replace with the actual website URL
 
     // Wait for the team icons to be available
-    await page.waitForSelector('.game-info__team-icon', { timeout: 10000 });
+    await page.waitForSelector('.game-info__team-icon', { timeout: 120000 });
 
     const oddsData = await page.evaluate(() => {
       // Select all relevant tr elements (each table row)

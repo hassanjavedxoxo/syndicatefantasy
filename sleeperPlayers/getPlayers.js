@@ -42,6 +42,7 @@ const getFilteredPlayers = async () => {
                 team: player.team,
                 team_full_name: teamFullName,
                 position: player.position,
+                playerId: player.player_id,
                 findOnTeamRankingWebsite: findOnTeamRankingWebsite
             };
         });
