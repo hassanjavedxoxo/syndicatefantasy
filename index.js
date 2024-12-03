@@ -49,11 +49,6 @@ const connectDB = require('./config');
 
 require('./webscrap/ktc');
 
-// Run matchup scraping 3 min after ktc
-setTimeout(() => {
-    require('./webscrap/start&sit');
-}, 180000);  // Delay of 3 minutes
-
 // Run projectionPpr scraping after 6 min
 setTimeout(() => {
     require('./webscrap/projectionPpr');

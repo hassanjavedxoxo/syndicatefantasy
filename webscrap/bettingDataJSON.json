@@ -3,13 +3,13 @@
     "rowData": {
       "one": {
         "spread": "+3.5",
-        "line": "-112",
-        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+        "line": "-115",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "two": {
         "spread": "-3.5",
-        "line": "-102",
-        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "three": {
         "spread": "+3.5",
@@ -33,42 +33,42 @@
       },
       "seven": {
         "spread": "+3.5",
-        "line": "-112",
+        "line": "-115",
         "logo": null
       },
       "eight": {
         "spread": "-3.5",
-        "line": "-108",
+        "line": "-105",
         "logo": null
       },
       "nine": {
         "spread": "+3.5",
-        "line": "-118",
+        "line": "-115",
         "logo": null
       },
       "ten": {
         "spread": "-3.5",
-        "line": "-102",
+        "line": "-105",
         "logo": null
       },
       "eleven": {
         "spread": "+3.5",
-        "line": "-115",
+        "line": "-120",
         "logo": null
       },
       "twelve": {
         "spread": "-3.5",
-        "line": "-108",
+        "line": "-105",
         "logo": null
       },
       "thirteen": {
         "spread": "+3.5",
-        "line": "-114",
+        "line": "-115",
         "logo": null
       },
       "fourteen": {
         "spread": "-3.5",
-        "line": "-107",
+        "line": "-106",
         "logo": null
       },
       "fifteen": {
@@ -94,18 +94,18 @@
   {
     "rowData": {
       "one": {
-        "spread": "+6.5",
-        "line": "-105",
+        "spread": "+6",
+        "line": "-108",
         "logo": "https://assets.actionnetwork.com/603379_Primary.png"
       },
       "two": {
         "spread": "-6.5",
-        "line": "-108",
+        "line": "-102",
         "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
       },
       "three": {
         "spread": "+6.5",
-        "line": "-110",
+        "line": "-120",
         "logo": null
       },
       "four": {
@@ -114,62 +114,62 @@
         "logo": null
       },
       "five": {
-        "spread": "+6.5",
+        "spread": "+6",
         "line": "-110",
         "logo": null
       },
       "six": {
-        "spread": "-6.5",
+        "spread": "-6",
         "line": "-110",
         "logo": null
       },
       "seven": {
         "spread": "+6.5",
-        "line": "-112",
+        "line": "-120",
         "logo": null
       },
       "eight": {
         "spread": "-6.5",
-        "line": "-108",
+        "line": "-102",
         "logo": null
       },
       "nine": {
-        "spread": "+6.5",
-        "line": "-105",
+        "spread": "+6",
+        "line": "-108",
         "logo": null
       },
       "ten": {
-        "spread": "-6.5",
-        "line": "-115",
-        "logo": null
-      },
-      "eleven": {
-        "spread": "+6.5",
-        "line": "-110",
-        "logo": null
-      },
-      "twelve": {
-        "spread": "-6.5",
-        "line": "-113",
-        "logo": null
-      },
-      "thirteen": {
-        "spread": "+6.5",
-        "line": "-109",
-        "logo": null
-      },
-      "fourteen": {
-        "spread": "-6.5",
+        "spread": "-6",
         "line": "-112",
         "logo": null
       },
+      "eleven": {
+        "spread": "+6",
+        "line": "-109",
+        "logo": null
+      },
+      "twelve": {
+        "spread": "-6",
+        "line": "-114",
+        "logo": null
+      },
+      "thirteen": {
+        "spread": "+6",
+        "line": "-108",
+        "logo": null
+      },
+      "fourteen": {
+        "spread": "-6",
+        "line": "-113",
+        "logo": null
+      },
       "fifteen": {
-        "spread": "+6.5",
+        "spread": "+6",
         "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "-6.5",
+        "spread": "-6",
         "line": "-110",
         "logo": null
       }
@@ -278,33 +278,33 @@
   {
     "rowData": {
       "one": {
-        "spread": "+6.5",
-        "line": "-105",
+        "spread": "+7",
+        "line": "-120",
         "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
       },
       "two": {
-        "spread": "-6",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
+        "spread": "-6.5",
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
       },
       "three": {
-        "spread": "+6",
+        "spread": "+6.5",
         "line": "-110",
         "logo": null
       },
       "four": {
-        "spread": "-6",
+        "spread": "-6.5",
         "line": "-110",
         "logo": null
       },
       "five": {
-        "spread": "+6.5",
-        "line": "-105",
+        "spread": "+7",
+        "line": "-120",
         "logo": null
       },
       "six": {
-        "spread": "-6.5",
-        "line": "-115",
+        "spread": "-7",
+        "line": "+100",
         "logo": null
       },
       "seven": {
@@ -318,42 +318,42 @@
         "logo": null
       },
       "nine": {
-        "spread": "+6",
+        "spread": "+6.5",
         "line": "-110",
         "logo": null
       },
       "ten": {
-        "spread": "-6",
+        "spread": "-6.5",
         "line": "-110",
         "logo": null
       },
       "eleven": {
-        "spread": "+6.5",
-        "line": "-112",
+        "spread": "+6",
+        "line": "-108",
         "logo": null
       },
       "twelve": {
-        "spread": "-6.5",
-        "line": "-112",
+        "spread": "-6",
+        "line": "-114",
         "logo": null
       },
       "thirteen": {
-        "spread": "+6.5",
-        "line": "-110",
+        "spread": "+6",
+        "line": "-107",
         "logo": null
       },
       "fourteen": {
-        "spread": "-6.5",
-        "line": "-110",
+        "spread": "-6",
+        "line": "-114",
         "logo": null
       },
       "fifteen": {
-        "spread": "+6",
+        "spread": "+6.5",
         "line": "-110",
         "logo": null
       },
       "sixteen": {
-        "spread": "-6",
+        "spread": "-6.5",
         "line": "-110",
         "logo": null
       }
@@ -371,32 +371,32 @@
     "rowData": {
       "one": {
         "spread": "+7",
-        "line": "-105",
+        "line": "-110",
         "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "two": {
         "spread": "-7",
-        "line": "-108",
-        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
       },
       "three": {
         "spread": "+7",
-        "line": "-105",
+        "line": "-110",
         "logo": null
       },
       "four": {
         "spread": "-7",
-        "line": "-115",
+        "line": "-110",
         "logo": null
       },
       "five": {
         "spread": "+7",
-        "line": "-110",
+        "line": "-115",
         "logo": null
       },
       "six": {
         "spread": "-7",
-        "line": "-110",
+        "line": "-105",
         "logo": null
       },
       "seven": {
@@ -421,32 +421,32 @@
       },
       "eleven": {
         "spread": "+7",
-        "line": "-108",
+        "line": "-112",
         "logo": null
       },
       "twelve": {
         "spread": "-7",
-        "line": "-115",
+        "line": "-112",
         "logo": null
       },
       "thirteen": {
         "spread": "+7",
-        "line": "-107",
+        "line": "-110",
         "logo": null
       },
       "fourteen": {
         "spread": "-7",
-        "line": "-114",
+        "line": "-110",
         "logo": null
       },
       "fifteen": {
         "spread": "+7",
-        "line": "-110",
+        "line": "-115",
         "logo": null
       },
       "sixteen": {
         "spread": "-7",
-        "line": "-110",
+        "line": "-105",
         "logo": null
       }
     },
@@ -555,13 +555,13 @@
     "rowData": {
       "one": {
         "spread": "-5",
-        "line": "-109",
-        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
+        "line": "-110",
+        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "two": {
-        "spread": "+5.5",
-        "line": "-112",
-        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
+        "spread": "+4.5",
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
       },
       "three": {
         "spread": "-5",
@@ -594,33 +594,33 @@
         "logo": null
       },
       "nine": {
-        "spread": "-5.5",
-        "line": "-108",
-        "logo": null
-      },
-      "ten": {
-        "spread": "+5.5",
-        "line": "-112",
-        "logo": null
-      },
-      "eleven": {
         "spread": "-5",
         "line": "-110",
         "logo": null
       },
+      "ten": {
+        "spread": "+5",
+        "line": "-110",
+        "logo": null
+      },
+      "eleven": {
+        "spread": "-5",
+        "line": "-113",
+        "logo": null
+      },
       "twelve": {
         "spread": "+5",
-        "line": "-113",
+        "line": "-110",
         "logo": null
       },
       "thirteen": {
         "spread": "-5",
-        "line": "-109",
+        "line": "-112",
         "logo": null
       },
       "fourteen": {
         "spread": "+5",
-        "line": "-112",
+        "line": "-109",
         "logo": null
       },
       "fifteen": {
@@ -646,14 +646,14 @@
   {
     "rowData": {
       "one": {
-        "spread": "+5",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
+        "spread": "+4.5",
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
       },
       "two": {
-        "spread": "-4.5",
-        "line": "-110",
-        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+        "spread": "-5",
+        "line": "-108",
+        "logo": "https://assets.actionnetwork.com/603379_Primary.png"
       },
       "three": {
         "spread": "+5",
@@ -677,12 +677,12 @@
       },
       "seven": {
         "spread": "+4.5",
-        "line": "-110",
+        "line": "-105",
         "logo": null
       },
       "eight": {
         "spread": "-4.5",
-        "line": "-110",
+        "line": "-115",
         "logo": null
       },
       "nine": {
@@ -696,22 +696,22 @@
         "logo": null
       },
       "eleven": {
-        "spread": "+4.5",
+        "spread": "+5",
         "line": "-110",
         "logo": null
       },
       "twelve": {
-        "spread": "-4.5",
+        "spread": "-5",
         "line": "-113",
         "logo": null
       },
       "thirteen": {
-        "spread": "+4.5",
+        "spread": "+5",
         "line": "-109",
         "logo": null
       },
       "fourteen": {
-        "spread": "-4.5",
+        "spread": "-5",
         "line": "-112",
         "logo": null
       },
@@ -738,83 +738,83 @@
   {
     "rowData": {
       "one": {
-        "spread": "+3",
-        "line": "-115",
+        "spread": "+2.5",
+        "line": "-105",
         "logo": "https://assets.actionnetwork.com/40268_MGM48x48light@3x.png"
       },
       "two": {
         "spread": "-2.5",
-        "line": "-112",
-        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+        "line": "-105",
+        "logo": "https://assets.actionnetwork.com/463646_Caesars.png"
       },
       "three": {
-        "spread": "+3",
-        "line": "-115",
+        "spread": "+2.5",
+        "line": "-105",
         "logo": null
       },
       "four": {
-        "spread": "-3",
-        "line": "-105",
+        "spread": "-2.5",
+        "line": "-115",
         "logo": null
       },
       "five": {
         "spread": "+2.5",
-        "line": "-105",
+        "line": "-115",
         "logo": null
       },
       "six": {
         "spread": "-2.5",
-        "line": "-115",
+        "line": "-105",
         "logo": null
       },
       "seven": {
         "spread": "+2.5",
-        "line": "-108",
+        "line": "-110",
         "logo": null
       },
       "eight": {
         "spread": "-2.5",
-        "line": "-112",
+        "line": "-110",
         "logo": null
       },
       "nine": {
-        "spread": "+3",
-        "line": "-115",
+        "spread": "+2.5",
+        "line": "-105",
         "logo": null
       },
       "ten": {
-        "spread": "-3",
-        "line": "-105",
+        "spread": "-2.5",
+        "line": "-115",
         "logo": null
       },
       "eleven": {
         "spread": "+2.5",
-        "line": "-108",
+        "line": "-106",
         "logo": null
       },
       "twelve": {
         "spread": "-2.5",
-        "line": "-115",
+        "line": "-118",
         "logo": null
       },
       "thirteen": {
         "spread": "+2.5",
-        "line": "-106",
+        "line": "-105",
         "logo": null
       },
       "fourteen": {
         "spread": "-2.5",
-        "line": "-115",
+        "line": "-117",
         "logo": null
       },
       "fifteen": {
         "spread": "+2.5",
-        "line": "+100",
+        "line": "-110",
         "logo": null
       },
       "sixteen": {
         "spread": "-2.5",
-        "line": "-120",
+        "line": "-110",
         "logo": null
       }
     },
@@ -836,7 +836,7 @@
       },
       "two": {
         "spread": "-3.5",
-        "line": "-118",
+        "line": "-115",
         "logo": "https://assets.actionnetwork.com/603379_Primary.png"
       },
       "three": {
@@ -871,32 +871,32 @@
       },
       "nine": {
         "spread": "+3.5",
-        "line": "-102",
+        "line": "-105",
         "logo": null
       },
       "ten": {
         "spread": "-3.5",
-        "line": "-118",
+        "line": "-115",
         "logo": null
       },
       "eleven": {
         "spread": "+4",
-        "line": "-112",
+        "line": "-113",
         "logo": null
       },
       "twelve": {
         "spread": "-4",
-        "line": "-112",
+        "line": "-110",
         "logo": null
       },
       "thirteen": {
         "spread": "+4",
-        "line": "-110",
+        "line": "-112",
         "logo": null
       },
       "fourteen": {
         "spread": "-4",
-        "line": "-110",
+        "line": "-109",
         "logo": null
       },
       "fifteen": {
@@ -1015,7 +1015,7 @@
     "rowData": {
       "one": {
         "spread": "+4",
-        "line": "-109",
+        "line": "-108",
         "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
       },
       "two": {
@@ -1065,22 +1065,22 @@
       },
       "eleven": {
         "spread": "+4",
-        "line": "-110",
+        "line": "-109",
         "logo": null
       },
       "twelve": {
         "spread": "-4",
-        "line": "-113",
+        "line": "-114",
         "logo": null
       },
       "thirteen": {
         "spread": "+4",
-        "line": "-109",
+        "line": "-108",
         "logo": null
       },
       "fourteen": {
         "spread": "-4",
-        "line": "-112",
+        "line": "-113",
         "logo": null
       },
       "fifteen": {
@@ -1112,8 +1112,8 @@
       },
       "two": {
         "spread": "+5.5",
-        "line": "-106",
-        "logo": "https://assets.actionnetwork.com/392973_FanDuel.png"
+        "line": "-109",
+        "logo": "https://assets.actionnetwork.com/341144_BetRiver48x48light@2x.png"
       },
       "three": {
         "spread": "-5.5",
@@ -1137,12 +1137,12 @@
       },
       "seven": {
         "spread": "-5.5",
-        "line": "-114",
+        "line": "-110",
         "logo": null
       },
       "eight": {
         "spread": "+5.5",
-        "line": "-106",
+        "line": "-110",
         "logo": null
       },
       "nine": {
@@ -1157,22 +1157,22 @@
       },
       "eleven": {
         "spread": "-5.5",
-        "line": "-114",
+        "line": "-113",
         "logo": null
       },
       "twelve": {
         "spread": "+5.5",
-        "line": "-109",
+        "line": "-110",
         "logo": null
       },
       "thirteen": {
         "spread": "-5.5",
-        "line": "-113",
+        "line": "-112",
         "logo": null
       },
       "fourteen": {
         "spread": "+5.5",
-        "line": "-108",
+        "line": "-109",
         "logo": null
       },
       "fifteen": {

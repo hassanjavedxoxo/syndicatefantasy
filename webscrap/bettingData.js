@@ -4,11 +4,7 @@ const path = require('path');
 
 async function scrapeOdds() {
   try {
-    const browser = await puppeteer.launch({
-      executablePath: '/usr/bin/chromium-browser',
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
-      headless: true
-  });
+    const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     await page.goto('https://actionnetwork.com/odds');  // Replace with the actual website URL

@@ -1,69 +1,54 @@
-const puppeteer = require('puppeteer');
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const path = require('path');
 
-const scrapeData = async () => {
+async function scrapeData() {
     try {
-        // Launch Puppeteer browser instance
-        const browser = await puppeteer.launch({
-            executablePath: '/usr/bin/chromium-browser',
-            args: ['--no-sandbox', '--disable-setuid-sandbox'],
-            headless: true
-        });
-        
-        const page = await browser.newPage();
+        // Fetch the HTML content of the page
+        const { data: html } = await axios.get('https://www.fantasypros.com/nfl/points-allowed.php', { timeout: 120000 });
 
-        // Navigate to the FantasyPros page
-        await page.goto('https://www.fantasypros.com/nfl/points-allowed.php', { waitUntil: 'domcontentloaded' });
+        // Load the HTML into Cheerio
+        const $ = cheerio.load(html);
 
-        // Wait for the table to load
-        await page.waitForSelector('table');
+        // Select all table rows, excluding the header row
+        const rows = $('table tr').not(':first-child');
+        const results = [];
 
-        // Scrape all the <tr> rows containing the team data
-        const data = await page.evaluate(() => {
-            // Select all the table rows (excluding the header)
-            const rows = document.querySelectorAll('tr');
-            const results = [];
+        rows.each((index, row) => {
+            const cells = $(row).find('td');
 
-            rows.forEach(row => {
-                const cells = row.querySelectorAll('td');
-
-                // Only process rows that contain data (excluding the header row)
-                if (cells.length > 1) {
-                    results.push({
-                        team: cells[0].innerText.trim(), // Team name
-                        column1: cells[1].innerText.trim(),
-                        column2: cells[2].innerText.trim(),
-                        column3: cells[3].innerText.trim(),
-                        column4: cells[4].innerText.trim(),
-                        column5: cells[5].innerText.trim(),
-                        column6: cells[6].innerText.trim(),
-                        column7: cells[7].innerText.trim(),
-                        column8: cells[8].innerText.trim(),
-                        column9: cells[9].innerText.trim(),
-                        column10: cells[10].innerText.trim(),
-                        column11: cells[11].innerText.trim(),
-                        column12: cells[12].innerText.trim()
-                    });
-                }
-            });
-
-            return results;
+            // Only process rows that contain data
+            if (cells.length > 1) {
+                results.push({
+                    team: $(cells[0]).text().trim(),
+                    column1: $(cells[1]).text().trim(),
+                    column2: $(cells[2]).text().trim(),
+                    column3: $(cells[3]).text().trim(),
+                    column4: $(cells[4]).text().trim(),
+                    column5: $(cells[5]).text().trim(),
+                    column6: $(cells[6]).text().trim(),
+                    column7: $(cells[7]).text().trim(),
+                    column8: $(cells[8]).text().trim(),
+                    column9: $(cells[9]).text().trim(),
+                    column10: $(cells[10]).text().trim(),
+                    column11: $(cells[11]).text().trim(),
+                    column12: $(cells[12]).text().trim(),
+                });
+            }
         });
 
-        // Close the browser
-        await browser.close();
-
-        // You can also write it to a JSON file
-        const fs = require('fs');
-        const path = require('path');
+        // Write data to a JSON file
         const filePath = path.resolve(__dirname, '../webscrap/fantasyProsJSON.json');
-        fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+        fs.writeFileSync(filePath, JSON.stringify(results, null, 2), 'utf-8');
 
         console.log('Data saved to fantasyProsJSON.json');
     } catch (error) {
-        console.error('Error occurred:', error);
+        console.error('Error occurred:', error.message);
     }
-};
+}
 
+// Scrape immediately and then repeat every 36 hours
 const thirtySixHours = 36 * 60 * 60 * 1000;
 
 setInterval(() => {
