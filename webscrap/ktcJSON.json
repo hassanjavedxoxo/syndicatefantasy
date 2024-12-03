@@ -2,79 +2,79 @@
   {
     "name": "Ja'Marr Chase",
     "team": "CIN",
-    "positionRank": "WR224.8 y.o.Tier 1",
+    "positionRank": "WR124.8 y.o.Tier 1",
     "position": "WR",
-    "value": 9999,
+    "value": 9998,
     "age": 24.8,
-    "trend": "red:",
-    "superflexValue": 9914
+    "trend": "green:1",
+    "superflexValue": 9923
   },
   {
     "name": "Justin Jefferson",
     "team": "MIN",
-    "positionRank": "WR125.5 y.o.Tier 1",
+    "positionRank": "WR225.5 y.o.Tier 1",
     "position": "WR",
-    "value": 9999,
+    "value": 9995,
     "age": 25.5,
-    "trend": "red:",
-    "superflexValue": 9798
+    "trend": "red:1",
+    "superflexValue": 9788
   },
   {
     "name": "Bijan Robinson",
     "team": "ATL",
     "positionRank": "RB122.8 y.o.Tier 2",
     "position": "RB",
-    "value": 8937,
+    "value": 8941,
     "age": 22.8,
     "trend": "green:4",
-    "superflexValue": 8076
+    "superflexValue": 8081
   },
   {
     "name": "Amon-Ra St. Brown",
     "team": "DET",
     "positionRank": "WR325.1 y.o.Tier 2",
     "position": "WR",
-    "value": 8782,
+    "value": 8776,
     "age": 25.1,
     "trend": "green:2",
-    "superflexValue": 8093
+    "superflexValue": 8091
   },
   {
     "name": "Jahmyr Gibbs",
     "team": "DET",
     "positionRank": "RB222.7 y.o.Tier 2",
     "position": "RB",
-    "value": 8700,
+    "value": 8698,
     "age": 22.7,
     "trend": "red:",
-    "superflexValue": 7910
+    "superflexValue": 7906
   },
   {
     "name": "Malik NabersR",
     "team": "NYG",
     "positionRank": "WR421.4 y.o.Tier 2",
     "position": "WR",
-    "value": 8686,
+    "value": 8683,
     "age": 21.4,
     "trend": "red:3",
-    "superflexValue": 8018
+    "superflexValue": 8008
   },
   {
     "name": "Brock BowersR",
     "team": "LVR",
     "positionRank": "TE122.0 y.o.Tier 2",
     "position": "TE",
-    "value": 8578,
+    "value": 8581,
     "age": 22,
     "trend": "green:2",
-    "superflexValue": 8011
+    "superflexValue": 8015
   },
   {
     "name": "CeeDee Lamb",
     "team": "DAL",
     "positionRank": "WR525.6 y.o.Tier 2",
     "position": "WR",
-    "value": 8398,
+    "value": 8400,
     "age": 25.6,
     "trend": "red:4",
     "superflexValue": 7821
@@ -84,30 +84,30 @@
     "team": "HOU",
     "positionRank": "WR625.7 y.o.Tier 3",
     "position": "WR",
-    "value": 8133,
+    "value": 8131,
     "age": 25.7,
     "trend": "red:1",
-    "superflexValue": 7474
+    "superflexValue": 7464
   },
   {
     "name": "Puka Nacua",
     "team": "LAR",
     "positionRank": "WR723.5 y.o.Tier 4",
     "position": "WR",
-    "value": 7820,
+    "value": 7823,
     "age": 23.5,
-    "trend": "green:2",
-    "superflexValue": 7141
+    "trend": "green:1",
+    "superflexValue": 7143
   },
   {
     "name": "Saquon Barkley",
     "team": "PHI",
     "positionRank": "RB327.8 y.o.Tier 4",
     "position": "RB",
-    "value": 7794,
+    "value": 7795,
     "age": 27.8,
-    "trend": "green:9",
-    "superflexValue": 7118
+    "trend": "green:8",
+    "superflexValue": 7115
   },
   {
     "name": "Lamar Jackson",
@@ -117,272 +117,272 @@
     "value": 7699,
     "age": 27.9,
     "trend": "green:3",
-    "superflexValue": 9988
+    "superflexValue": 9987
   },
   {
     "name": "Marvin Harrison Jr.R",
     "team": "ARI",
     "positionRank": "WR822.3 y.o.Tier 4",
     "position": "WR",
-    "value": 7649,
+    "value": 7652,
     "age": 22.3,
     "trend": "red:3",
-    "superflexValue": 6932
+    "superflexValue": 6943
   },
   {
     "name": "De'Von Achane",
     "team": "MIA",
     "positionRank": "RB423.1 y.o.Tier 4",
     "position": "RB",
-    "value": 7552,
+    "value": 7559,
     "age": 23.1,
     "trend": "green:9",
-    "superflexValue": 6670
+    "superflexValue": 6669
   },
   {
     "name": "Breece Hall",
     "team": "NYJ",
-    "positionRank": "RB523.5 y.o.Tier 4",
+    "positionRank": "RB523.5 y.o.Tier 5",
     "position": "RB",
-    "value": 7441,
+    "value": 7436,
     "age": 23.5,
-    "trend": "red:4",
+    "trend": "red:3",
     "superflexValue": 6540
   },
   {
     "name": "Josh Allen",
     "team": "BUF",
-    "positionRank": "QB228.5 y.o.Tier 4",
+    "positionRank": "QB228.5 y.o.Tier 5",
     "position": "QB",
-    "value": 7415,
+    "value": 7413,
     "age": 28.5,
     "trend": "green:1",
-    "superflexValue": 9995
+    "superflexValue": 9999
   },
   {
     "name": "A.J. Brown",
     "team": "PHI",
-    "positionRank": "WR927.4 y.o.Tier 4",
+    "positionRank": "WR927.4 y.o.Tier 5",
     "position": "WR",
-    "value": 7370,
+    "value": 7368,
     "age": 27.4,
     "trend": "red:3",
-    "superflexValue": 6585
+    "superflexValue": 6580
   },
   {
     "name": "Drake London",
     "team": "ATL",
-    "positionRank": "WR1023.4 y.o.Tier 5",
+    "positionRank": "WR1023.4 y.o.Tier 6",
     "position": "WR",
     "value": 7239,
     "age": 23.4,
     "trend": "red:",
-    "superflexValue": 6474
+    "superflexValue": 6471
   },
   {
     "name": "Jayden DanielsR",
     "team": "WAS",
-    "positionRank": "QB324.0 y.o.Tier 5",
+    "positionRank": "QB324.0 y.o.Tier 6",
     "position": "QB",
     "value": 7228,
     "age": 24,
     "trend": "red:6",
-    "superflexValue": 9249
+    "superflexValue": 9256
   },
   {
     "name": "Brian Thomas Jr.R",
     "team": "JAC",
-    "positionRank": "WR1122.2 y.o.Tier 5",
+    "positionRank": "WR1122.2 y.o.Tier 6",
     "position": "WR",
-    "value": 7199,
+    "value": 7205,
     "age": 22.2,
     "trend": "red:4",
-    "superflexValue": 6449
+    "superflexValue": 6458
   },
   {
     "name": "2025 Early 1stFA",
     "team": "",
-    "positionRank": "PICKTier 5",
+    "positionRank": "PICKTier 6",
     "position": "PI",
     "value": 7162,
     "age": 0,
     "trend": "green:1",
-    "superflexValue": 6380
+    "superflexValue": 6379
   },
   {
     "name": "Garrett Wilson",
     "team": "NYJ",
-    "positionRank": "WR1224.4 y.o.Tier 6",
+    "positionRank": "WR1224.4 y.o.Tier 7",
     "position": "WR",
-    "value": 7012,
+    "value": 7015,
     "age": 24.4,
     "trend": "red:1",
-    "superflexValue": 6232
+    "superflexValue": 6224
   },
   {
     "name": "Jaxon Smith-Njigba",
     "team": "SEA",
-    "positionRank": "WR1322.8 y.o.Tier 6",
+    "positionRank": "WR1322.8 y.o.Tier 8",
     "position": "WR",
-    "value": 6906,
+    "value": 6903,
     "age": 22.8,
-    "trend": "green:36",
-    "superflexValue": 6008
+    "trend": "green:32",
+    "superflexValue": 6013
   },
   {
     "name": "Kyren Williams",
     "team": "LAR",
-    "positionRank": "RB624.3 y.o.Tier 6",
+    "positionRank": "RB624.3 y.o.Tier 8",
     "position": "RB",
-    "value": 6808,
+    "value": 6805,
     "age": 24.3,
-    "trend": "red:5",
-    "superflexValue": 5805
+    "trend": "red:4",
+    "superflexValue": 5801
   },
   {
     "name": "Trey McBride",
     "team": "ARI",
-    "positionRank": "TE225.0 y.o.Tier 6",
+    "positionRank": "TE225.0 y.o.Tier 8",
     "position": "TE",
-    "value": 6770,
+    "value": 6773,
     "age": 25,
     "trend": "green:1",
-    "superflexValue": 6036
+    "superflexValue": 6042
   },
   {
     "name": "Kenneth Walker III",
     "team": "SEA",
-    "positionRank": "RB724.1 y.o.Tier 6",
+    "positionRank": "RB724.1 y.o.Tier 8",
     "position": "RB",
-    "value": 6670,
+    "value": 6667,
     "age": 24.1,
     "trend": "red:2",
-    "superflexValue": 5687
+    "superflexValue": 5680
   },
   {
     "name": "George Pickens",
     "team": "PIT",
-    "positionRank": "WR1423.8 y.o.Tier 6",
+    "positionRank": "WR1423.8 y.o.Tier 8",
     "position": "WR",
     "value": 6569,
     "age": 23.8,
-    "trend": "green:15",
-    "superflexValue": 5801
+    "trend": "green:14",
+    "superflexValue": 5806
   },
   {
     "name": "Jalen Hurts",
     "team": "PHI",
-    "positionRank": "QB426.3 y.o.Tier 6",
+    "positionRank": "QB426.3 y.o.Tier 8",
     "position": "QB",
     "value": 6514,
     "age": 26.3,
-    "trend": "green:6",
-    "superflexValue": 8190
+    "trend": "green:5",
+    "superflexValue": 8192
   },
   {
     "name": "Rashee Rice",
     "team": "KCC",
-    "positionRank": "WR1524.6 y.o.Tier 7",
+    "positionRank": "WR1524.6 y.o.Tier 9",
     "position": "WR",
-    "value": 6385,
+    "value": 6382,
     "age": 24.6,
     "trend": "green:3",
-    "superflexValue": 5614
+    "superflexValue": 5609
   },
   {
     "name": "Jonathan Taylor",
     "team": "IND",
-    "positionRank": "RB825.9 y.o.Tier 7",
+    "positionRank": "RB825.9 y.o.Tier 9",
     "position": "RB",
-    "value": 6369,
+    "value": 6370,
     "age": 25.9,
     "trend": "red:5",
-    "superflexValue": 5431
+    "superflexValue": 5428
   },
   {
     "name": "Ladd McConkeyR",
     "team": "LAC",
-    "positionRank": "WR1623.1 y.o.Tier 7",
+    "positionRank": "WR1623.1 y.o.Tier 9",
     "position": "WR",
     "value": 6343,
     "age": 23.1,
-    "trend": "green:16",
-    "superflexValue": 5584
+    "trend": "green:15",
+    "superflexValue": 5586
   },
   {
     "name": "James Cook",
     "team": "BUF",
-    "positionRank": "RB925.2 y.o.Tier 7",
+    "positionRank": "RB925.2 y.o.Tier 9",
     "position": "RB",
     "value": 6279,
     "age": 25.2,
-    "trend": "red:4",
-    "superflexValue": 5277
+    "trend": "red:3",
+    "superflexValue": 5285
   },
   {
     "name": "2026 Early 1stFA",
     "team": "",
-    "positionRank": "PICKTier 7",
+    "positionRank": "PICKTier 9",
     "position": "PI",
     "value": 6255,
     "age": 0,
     "trend": "red:6",
-    "superflexValue": 5591
+    "superflexValue": 5586
   },
   {
     "name": "Tee Higgins",
     "team": "CIN",
-    "positionRank": "WR1725.8 y.o.Tier 7",
+    "positionRank": "WR1725.8 y.o.Tier 9",
     "position": "WR",
     "value": 6232,
     "age": 25.8,
     "trend": "green:9",
-    "superflexValue": 5304
+    "superflexValue": 5307
   },
   {
     "name": "Zay Flowers",
     "team": "BAL",
-    "positionRank": "WR1824.2 y.o.Tier 7",
+    "positionRank": "WR1824.2 y.o.Tier 9",
     "position": "WR",
     "value": 6188,
     "age": 24.2,
     "trend": "green:10",
-    "superflexValue": 5355
+    "superflexValue": 5348
   },
   {
     "name": "DK Metcalf",
     "team": "SEA",
-    "positionRank": "WR1927.0 y.o.Tier 7",
+    "positionRank": "WR1927.0 y.o.Tier 9",
     "position": "WR",
     "value": 6129,
     "age": 27,
-    "trend": "red:7",
-    "superflexValue": 5171
+    "trend": "red:6",
+    "superflexValue": 5159
   },
   {
     "name": "Joe Burrow",
     "team": "CIN",
-    "positionRank": "QB528.0 y.o.Tier 7",
+    "positionRank": "QB528.0 y.o.Tier 9",
     "position": "QB",
     "value": 6126,
     "age": 28,
     "trend": "green:12",
-    "superflexValue": 8021
+    "superflexValue": 8022
   },
   {
     "name": "2025 Mid 1stFA",
     "team": "",
-    "positionRank": "PICKTier 7",
+    "positionRank": "PICKTier 9",
     "position": "PI",
     "value": 6066,
     "age": 0,
-    "trend": "green:3",
-    "superflexValue": 5332
+    "trend": "green:2",
+    "superflexValue": 5326
   },
   {
     "name": "Rome OdunzeR",
     "team": "CHI",
-    "positionRank": "WR2122.5 y.o.Tier 7",
+    "positionRank": "WR2122.5 y.o.Tier 9",
     "position": "WR",
     "value": 6045,
     "age": 22.5,
@@ -392,79 +392,79 @@
   {
     "name": "Jayden Reed",
     "team": "GBP",
-    "positionRank": "WR2024.6 y.o.Tier 7",
+    "positionRank": "WR2024.6 y.o.Tier 9",
     "position": "WR",
     "value": 6045,
     "age": 24.6,
-    "trend": "red:9",
-    "superflexValue": 4985
+    "trend": "red:11",
+    "superflexValue": 4988
   },
   {
     "name": "DeVonta Smith",
     "team": "PHI",
-    "positionRank": "WR2226.0 y.o.Tier 8",
+    "positionRank": "WR2226.0 y.o.Tier 10",
     "position": "WR",
     "value": 5945,
     "age": 26,
     "trend": "red:10",
-    "superflexValue": 5003
+    "superflexValue": 5007
   },
   {
     "name": "Josh Jacobs",
     "team": "GBP",
-    "positionRank": "RB1026.8 y.o.Tier 8",
+    "positionRank": "RB1026.8 y.o.Tier 10",
     "position": "RB",
-    "value": 5924,
+    "value": 5927,
     "age": 26.8,
-    "trend": "green:15",
+    "trend": "green:16",
     "superflexValue": 4918
   },
   {
     "name": "C.J. Stroud",
     "team": "HOU",
-    "positionRank": "QB623.2 y.o.Tier 8",
+    "positionRank": "QB623.2 y.o.Tier 10",
     "position": "QB",
     "value": 5893,
     "age": 23.2,
-    "trend": "red:8",
-    "superflexValue": 7414
+    "trend": "red:7",
+    "superflexValue": 7398
   },
   {
     "name": "Bucky IrvingR",
     "team": "TBB",
-    "positionRank": "RB1122.3 y.o.Tier 8",
+    "positionRank": "RB1122.3 y.o.Tier 10",
     "position": "RB",
-    "value": 5869,
+    "value": 5871,
     "age": 22.3,
     "trend": "green:30",
-    "superflexValue": 4885
+    "superflexValue": 4888
   },
   {
     "name": "Derrick Henry",
     "team": "BAL",
-    "positionRank": "RB1230.9 y.o.Tier 8",
+    "positionRank": "RB1230.9 y.o.Tier 10",
     "position": "RB",
     "value": 5835,
     "age": 30.9,
-    "trend": "red:9",
-    "superflexValue": 4840
+    "trend": "red:8",
+    "superflexValue": 4837
   },
   {
     "name": "Sam LaPorta",
     "team": "DET",
-    "positionRank": "TE323.9 y.o.Tier 8",
+    "positionRank": "TE323.9 y.o.Tier 10",
     "position": "TE",
     "value": 5811,
     "age": 23.9,
-    "trend": "red:9",
+    "trend": "red:11",
     "superflexValue": 5032
   },
   {
     "name": "Joe Mixon",
     "team": "HOU",
-    "positionRank": "RB1328.4 y.o.Tier 8",
+    "positionRank": "RB1328.4 y.o.Tier 10",
     "position": "RB",
-    "value": 5760,
+    "value": 5757,
     "age": 28.4,
     "trend": "green:7",
     "superflexValue": 4635
@@ -472,7 +472,7 @@
   {
     "name": "2027 Early 1stFA",
     "team": "",
-    "positionRank": "PICKTier 8",
+    "positionRank": "PICKTier 10",
     "position": "PI",
     "value": 5754,
     "age": 0,
@@ -482,29 +482,29 @@
   {
     "name": "Chase Brown",
     "team": "CIN",
-    "positionRank": "RB1424.7 y.o.Tier 8",
+    "positionRank": "RB1424.7 y.o.Tier 10",
     "position": "RB",
-    "value": 5690,
+    "value": 5693,
     "age": 24.7,
-    "trend": "green:43",
-    "superflexValue": 4644
+    "trend": "green:42",
+    "superflexValue": 4647
   },
   {
     "name": "Chris Olave",
     "team": "NOS",
-    "positionRank": "WR2324.4 y.o.Tier 8",
+    "positionRank": "WR2324.4 y.o.Tier 10",
     "position": "WR",
     "value": 5688,
     "age": 24.4,
-    "trend": "red:17",
-    "superflexValue": 4667
+    "trend": "red:16",
+    "superflexValue": 4664
   },
   {
     "name": "David Montgomery",
     "team": "DET",
-    "positionRank": "RB1527.5 y.o.Tier 9",
+    "positionRank": "RB1527.5 y.o.Tier 10",
     "position": "RB",
-    "value": 5677,
+    "value": 5682,
     "age": 27.5,
     "trend": "green:2",
     "superflexValue": 4545
@@ -512,27 +512,27 @@
   {
     "name": "Jaylen Waddle",
     "team": "MIA",
-    "positionRank": "WR2426.0 y.o.Tier 9",
+    "positionRank": "WR2426.0 y.o.Tier 10",
     "position": "WR",
-    "value": 5674,
+    "value": 5677,
     "age": 26,
     "trend": "red:2",
-    "superflexValue": 4632
+    "superflexValue": 4634
   },
   {
     "name": "Patrick Mahomes",
     "team": "KCC",
-    "positionRank": "QB729.2 y.o.Tier 9",
+    "positionRank": "QB729.2 y.o.Tier 10",
     "position": "QB",
     "value": 5635,
     "age": 29.2,
     "trend": "red:2",
-    "superflexValue": 7288
+    "superflexValue": 7293
   },
   {
     "name": "2025 Late 1stFA",
     "team": "",
-    "positionRank": "PICKTier 9",
+    "positionRank": "PICKTier 10",
     "position": "PI",
     "value": 5616,
     "age": 0,
@@ -542,19 +542,19 @@
   {
     "name": "Jordan Love",
     "team": "GBP",
-    "positionRank": "QB826.1 y.o.Tier 9",
+    "positionRank": "QB826.1 y.o.Tier 10",
     "position": "QB",
     "value": 5546,
     "age": 26.1,
     "trend": "red:8",
-    "superflexValue": 7025
+    "superflexValue": 7027
   },
   {
     "name": "2026 Mid 1stFA",
     "team": "",
-    "positionRank": "PICKTier 9",
+    "positionRank": "PICKTier 10",
     "position": "PI",
-    "value": 5544,
+    "value": 5541,
     "age": 0,
     "trend": "red:",
     "superflexValue": 4670
@@ -562,9 +562,9 @@
   {
     "name": "Isiah Pacheco",
     "team": "KCC",
-    "positionRank": "RB1625.8 y.o.Tier 9",
+    "positionRank": "RB1625.8 y.o.Tier 10",
     "position": "RB",
-    "value": 5473,
+    "value": 5470,
     "age": 25.8,
     "trend": "green:6",
     "superflexValue": 4369
@@ -572,129 +572,129 @@
   {
     "name": "Jordan Addison",
     "team": "MIN",
-    "positionRank": "WR2522.8 y.o.Tier 9",
+    "positionRank": "WR2522.8 y.o.Tier 10",
     "position": "WR",
-    "value": 5425,
+    "value": 5434,
     "age": 22.8,
     "trend": "green:19",
-    "superflexValue": 4402
+    "superflexValue": 4405
   },
   {
     "name": "D.J. Moore",
     "team": "CHI",
-    "positionRank": "WR2627.6 y.o.Tier 9",
+    "positionRank": "WR2627.6 y.o.Tier 10",
     "position": "WR",
-    "value": 5367,
+    "value": 5361,
     "age": 27.6,
     "trend": "red:2",
-    "superflexValue": 4448
+    "superflexValue": 4444
+  },
+  {
+    "name": "Terry McLaurin",
+    "team": "WAS",
+    "positionRank": "WR2829.2 y.o.Tier 10",
+    "position": "WR",
+    "value": 5354,
+    "age": 29.2,
+    "trend": "green:3",
+    "superflexValue": 4290
   },
   {
     "name": "Tyreek Hill",
     "team": "MIA",
-    "positionRank": "WR2730.8 y.o.Tier 9",
+    "positionRank": "WR2730.8 y.o.Tier 10",
     "position": "WR",
-    "value": 5357,
+    "value": 5354,
     "age": 30.8,
     "trend": "red:19",
     "superflexValue": 4273
   },
   {
-    "name": "Terry McLaurin",
-    "team": "WAS",
-    "positionRank": "WR2829.2 y.o.Tier 9",
+    "name": "Brandon Aiyuk",
+    "team": "SFO",
+    "positionRank": "WR2926.7 y.o.Tier 10",
     "position": "WR",
-    "value": 5348,
-    "age": 29.2,
-    "trend": "green:3",
-    "superflexValue": 4287
+    "value": 5291,
+    "age": 26.7,
+    "trend": "green:6",
+    "superflexValue": 4321
   },
   {
     "name": "Jonathon BrooksR",
     "team": "CAR",
-    "positionRank": "RB1721.4 y.o.Tier 9",
+    "positionRank": "RB1721.4 y.o.Tier 10",
     "position": "RB",
-    "value": 5293,
+    "value": 5290,
     "age": 21.4,
-    "trend": "red:14",
-    "superflexValue": 4199
-  },
-  {
-    "name": "Brandon Aiyuk",
-    "team": "SFO",
-    "positionRank": "WR2926.7 y.o.Tier 9",
-    "position": "WR",
-    "value": 5291,
-    "age": 26.7,
-    "trend": "green:5",
-    "superflexValue": 4321
+    "trend": "red:15",
+    "superflexValue": 4196
   },
   {
     "name": "Kyler Murray",
     "team": "ARI",
-    "positionRank": "QB927.3 y.o.Tier 9",
+    "positionRank": "QB927.3 y.o.Tier 10",
     "position": "QB",
     "value": 5281,
     "age": 27.3,
     "trend": "green:3",
-    "superflexValue": 6460
-  },
-  {
-    "name": "Christian McCaffrey",
-    "team": "SFO",
-    "positionRank": "RB1828.5 y.o.Tier 9",
-    "position": "RB",
-    "value": 5228,
-    "age": 28.5,
-    "trend": "red:27",
-    "superflexValue": 4108
+    "superflexValue": 6466
   },
   {
     "name": "Brian Robinson",
     "team": "WAS",
-    "positionRank": "RB1925.7 y.o.Tier 9",
+    "positionRank": "RB1825.7 y.o.Tier 10",
     "position": "RB",
-    "value": 5220,
+    "value": 5227,
     "age": 25.7,
-    "trend": "red:5",
-    "superflexValue": 4224
+    "trend": "red:4",
+    "superflexValue": 4227
+  },
+  {
+    "name": "Christian McCaffrey",
+    "team": "SFO",
+    "positionRank": "RB1928.5 y.o.Tier 10",
+    "position": "RB",
+    "value": 5222,
+    "age": 28.5,
+    "trend": "red:28",
+    "superflexValue": 4105
   },
   {
     "name": "2027 Mid 1stFA",
     "team": "",
-    "positionRank": "PICKTier 9",
+    "positionRank": "PICKTier 10",
     "position": "PI",
     "value": 5219,
     "age": 0,
     "trend": "green:6",
-    "superflexValue": 4158
+    "superflexValue": 4156
   },
   {
     "name": "Jameson Williams",
     "team": "DET",
-    "positionRank": "WR3023.7 y.o.Tier 9",
+    "positionRank": "WR3023.7 y.o.Tier 10",
     "position": "WR",
     "value": 5214,
     "age": 23.7,
     "trend": "green:13",
-    "superflexValue": 4201
+    "superflexValue": 4204
   },
   {
     "name": "Josh Downs",
     "team": "IND",
-    "positionRank": "WR3123.3 y.o.Tier 9",
+    "positionRank": "WR3123.3 y.o.Tier 10",
     "position": "WR",
     "value": 5205,
     "age": 23.3,
     "trend": "green:7",
-    "superflexValue": 4201
+    "superflexValue": 4200
   },
   {
     "name": "Alvin Kamara",
     "team": "NOS",
-    "positionRank": "RB2029.4 y.o.Tier 9",
+    "positionRank": "RB2029.4 y.o.Tier 10",
     "position": "RB",
-    "value": 5183,
+    "value": 5180,
     "age": 29.4,
     "trend": "red:",
     "superflexValue": 4093
@@ -702,127 +702,127 @@
   {
     "name": "T.J. Hockenson",
     "team": "MIN",
-    "positionRank": "TE427.4 y.o.Tier 9",
+    "positionRank": "TE427.4 y.o.Tier 10",
     "position": "TE",
-    "value": 5160,
+    "value": 5158,
     "age": 27.4,
     "trend": "green:7",
-    "superflexValue": 4248
+    "superflexValue": 4243
   },
   {
     "name": "Tyrone TracyR",
     "team": "NYG",
-    "positionRank": "RB2125.0 y.o.Tier 9",
+    "positionRank": "RB2125.0 y.o.Tier 10",
     "position": "RB",
     "value": 5150,
     "age": 25,
     "trend": "green:8",
-    "superflexValue": 4087
+    "superflexValue": 4090
   },
   {
     "name": "2026 Late 1stFA",
     "team": "",
-    "positionRank": "PICKTier 10",
+    "positionRank": "PICKTier 11",
     "position": "PI",
-    "value": 5049,
+    "value": 5052,
     "age": 0,
     "trend": "red:1",
-    "superflexValue": 4214
+    "superflexValue": 4209
   },
   {
     "name": "Caleb WilliamsR",
     "team": "CHI",
-    "positionRank": "QB1023.0 y.o.Tier 10",
+    "positionRank": "QB1023.0 y.o.Tier 11",
     "position": "QB",
     "value": 5046,
     "age": 23,
     "trend": "red:22",
-    "superflexValue": 6599
+    "superflexValue": 6617
   },
   {
     "name": "Chuba Hubbard",
     "team": "CAR",
-    "positionRank": "RB2225.5 y.o.Tier 10",
+    "positionRank": "RB2225.5 y.o.Tier 11",
     "position": "RB",
-    "value": 5042,
+    "value": 5045,
     "age": 25.5,
     "trend": "green:52",
-    "superflexValue": 4062
-  },
-  {
-    "name": "George Kittle",
-    "team": "SFO",
-    "positionRank": "TE531.2 y.o.Tier 10",
-    "position": "TE",
-    "value": 5021,
-    "age": 31.2,
-    "trend": "red:1",
-    "superflexValue": 4064
+    "superflexValue": 4068
   },
   {
     "name": "Tank Dell",
     "team": "HOU",
-    "positionRank": "WR3225.1 y.o.Tier 10",
+    "positionRank": "WR3225.1 y.o.Tier 11",
     "position": "WR",
     "value": 5016,
     "age": 25.1,
-    "trend": "red:15",
-    "superflexValue": 4059
+    "trend": "red:14",
+    "superflexValue": 4056
+  },
+  {
+    "name": "George Kittle",
+    "team": "SFO",
+    "positionRank": "TE531.2 y.o.Tier 11",
+    "position": "TE",
+    "value": 5013,
+    "age": 31.2,
+    "trend": "red:2",
+    "superflexValue": 4065
   },
   {
     "name": "Keon ColemanR",
     "team": "BUF",
-    "positionRank": "WR3321.6 y.o.Tier 10",
+    "positionRank": "WR3321.6 y.o.Tier 11",
     "position": "WR",
     "value": 5008,
     "age": 21.6,
     "trend": "red:12",
-    "superflexValue": 3984
+    "superflexValue": 3978
   },
   {
     "name": "Kyle Pitts",
     "team": "ATL",
-    "positionRank": "TE624.2 y.o.Tier 10",
+    "positionRank": "TE624.2 y.o.Tier 11",
     "position": "TE",
-    "value": 4979,
+    "value": 4978,
     "age": 24.2,
     "trend": "red:19",
-    "superflexValue": 4015
+    "superflexValue": 4022
   },
   {
     "name": "Justin Herbert",
     "team": "LAC",
-    "positionRank": "QB1126.7 y.o.Tier 10",
+    "positionRank": "QB1126.7 y.o.Tier 11",
     "position": "QB",
-    "value": 4945,
+    "value": 4948,
     "age": 26.7,
     "trend": "green:12",
-    "superflexValue": 7032
+    "superflexValue": 7031
   },
   {
     "name": "Cooper Kupp",
     "team": "LAR",
-    "positionRank": "WR3431.5 y.o.Tier 10",
+    "positionRank": "WR3431.5 y.o.Tier 11",
     "position": "WR",
     "value": 4898,
     "age": 31.5,
     "trend": "green:1",
-    "superflexValue": 3880
+    "superflexValue": 3877
   },
   {
     "name": "Xavier WorthyR",
     "team": "KCC",
-    "positionRank": "WR3521.6 y.o.Tier 10",
+    "positionRank": "WR3521.6 y.o.Tier 11",
     "position": "WR",
-    "value": 4882,
+    "value": 4876,
     "age": 21.6,
     "trend": "red:17",
-    "superflexValue": 3897
+    "superflexValue": 3894
   },
   {
     "name": "Dalton Kincaid",
     "team": "BUF",
-    "positionRank": "TE725.1 y.o.Tier 11",
+    "positionRank": "TE725.1 y.o.Tier 12",
     "position": "TE",
     "value": 4712,
     "age": 25.1,
@@ -830,39 +830,39 @@
     "superflexValue": 3779
   },
   {
-    "name": "Chris Godwin",
-    "team": "TBB",
-    "positionRank": "WR3628.8 y.o.Tier 11",
-    "position": "WR",
-    "value": 4656,
-    "age": 28.8,
-    "trend": "green:1",
-    "superflexValue": 3695
-  },
-  {
     "name": "Drake MayeR",
     "team": "NEP",
-    "positionRank": "QB1222.3 y.o.Tier 11",
+    "positionRank": "QB1222.3 y.o.Tier 12",
     "position": "QB",
     "value": 4655,
     "age": 22.3,
-    "trend": "green:14",
-    "superflexValue": 6418
+    "trend": "green:15",
+    "superflexValue": 6421
+  },
+  {
+    "name": "Chris Godwin",
+    "team": "TBB",
+    "positionRank": "WR3628.8 y.o.Tier 12",
+    "position": "WR",
+    "value": 4652,
+    "age": 28.8,
+    "trend": "red:",
+    "superflexValue": 3695
   },
   {
     "name": "Mike Evans",
     "team": "TBB",
-    "positionRank": "WR3731.3 y.o.Tier 11",
+    "positionRank": "WR3731.3 y.o.Tier 12",
     "position": "WR",
     "value": 4640,
     "age": 31.3,
     "trend": "red:3",
-    "superflexValue": 3812
+    "superflexValue": 3809
   },
   {
     "name": "2027 Late 1stFA",
     "team": "",
-    "positionRank": "PICKTier 11",
+    "positionRank": "PICKTier 12",
     "position": "PI",
     "value": 4576,
     "age": 0,
@@ -872,29 +872,29 @@
   {
     "name": "Bo NixR",
     "team": "DEN",
-    "positionRank": "QB1324.8 y.o.Tier 11",
+    "positionRank": "QB1324.8 y.o.Tier 12",
     "position": "QB",
     "value": 4549,
     "age": 24.8,
     "trend": "green:43",
-    "superflexValue": 6515
+    "superflexValue": 6513
   },
   {
     "name": "Deebo Samuel",
     "team": "SFO",
-    "positionRank": "WR3828.9 y.o.Tier 11",
+    "positionRank": "WR3828.9 y.o.Tier 12",
     "position": "WR",
-    "value": 4524,
+    "value": 4522,
     "age": 28.9,
     "trend": "red:20",
-    "superflexValue": 3486
+    "superflexValue": 3490
   },
   {
     "name": "D'Andre Swift",
     "team": "CHI",
-    "positionRank": "RB2325.9 y.o.Tier 12",
+    "positionRank": "RB2325.9 y.o.Tier 13",
     "position": "RB",
-    "value": 4441,
+    "value": 4438,
     "age": 25.9,
     "trend": "red:11",
     "superflexValue": 3414
@@ -902,77 +902,77 @@
   {
     "name": "Brock Purdy",
     "team": "SFO",
-    "positionRank": "QB1424.9 y.o.Tier 12",
+    "positionRank": "QB1424.9 y.o.Tier 13",
     "position": "QB",
-    "value": 4393,
+    "value": 4390,
     "age": 24.9,
     "trend": "green:3",
-    "superflexValue": 5953
-  },
-  {
-    "name": "2025 Early 2ndFA",
-    "team": "",
-    "positionRank": "PICKTier 12",
-    "position": "PI",
-    "value": 4377,
-    "age": 0,
-    "trend": "green:3",
-    "superflexValue": 3522
-  },
-  {
-    "name": "Xavier LegetteR",
-    "team": "CAR",
-    "positionRank": "WR3923.8 y.o.Tier 12",
-    "position": "WR",
-    "value": 4376,
-    "age": 23.8,
-    "trend": "green:3",
-    "superflexValue": 3414
+    "superflexValue": 5950
   },
   {
     "name": "Khalil Shakir",
     "team": "BUF",
-    "positionRank": "WR4024.8 y.o.Tier 12",
+    "positionRank": "WR3924.8 y.o.Tier 13",
     "position": "WR",
-    "value": 4373,
+    "value": 4382,
     "age": 24.8,
-    "trend": "green:7",
-    "superflexValue": 3457
+    "trend": "green:9",
+    "superflexValue": 3466
+  },
+  {
+    "name": "Xavier LegetteR",
+    "team": "CAR",
+    "positionRank": "WR4023.8 y.o.Tier 13",
+    "position": "WR",
+    "value": 4379,
+    "age": 23.8,
+    "trend": "green:3",
+    "superflexValue": 3417
+  },
+  {
+    "name": "2025 Early 2ndFA",
+    "team": "",
+    "positionRank": "PICKTier 13",
+    "position": "PI",
+    "value": 4377,
+    "age": 0,
+    "trend": "green:1",
+    "superflexValue": 3522
   },
   {
     "name": "Trey BensonR",
     "team": "ARI",
-    "positionRank": "RB2422.4 y.o.Tier 12",
+    "positionRank": "RB2422.4 y.o.Tier 13",
     "position": "RB",
-    "value": 4335,
+    "value": 4341,
     "age": 22.4,
     "trend": "green:21",
-    "superflexValue": 3324
+    "superflexValue": 3318
   },
   {
     "name": "Ricky PearsallR",
     "team": "SFO",
-    "positionRank": "WR4124.2 y.o.Tier 12",
+    "positionRank": "WR4124.2 y.o.Tier 13",
     "position": "WR",
     "value": 4318,
     "age": 24.2,
     "trend": "green:1",
-    "superflexValue": 3387
+    "superflexValue": 3393
   },
   {
     "name": "Anthony Richardson",
     "team": "IND",
-    "positionRank": "QB1522.5 y.o.Tier 13",
+    "positionRank": "QB1522.5 y.o.Tier 14",
     "position": "QB",
     "value": 4204,
     "age": 22.5,
     "trend": "green:41",
-    "superflexValue": 4977
+    "superflexValue": 4974
   },
   {
     "name": "Cade Otton",
     "team": "TBB",
-    "positionRank": "TE825.6 y.o.Tier 13",
+    "positionRank": "TE825.6 y.o.Tier 14",
     "position": "TE",
     "value": 4196,
     "age": 25.6,
@@ -980,219 +980,219 @@
     "superflexValue": 3327
   },
   {
-    "name": "Baker Mayfield",
-    "team": "TBB",
-    "positionRank": "QB1629.6 y.o.Tier 13",
-    "position": "QB",
-    "value": 4158,
-    "age": 29.6,
-    "trend": "green:3",
-    "superflexValue": 5321
-  },
-  {
     "name": "Najee Harris",
     "team": "PIT",
-    "positionRank": "RB2526.7 y.o.Tier 13",
+    "positionRank": "RB2526.7 y.o.Tier 14",
     "position": "RB",
-    "value": 4158,
+    "value": 4161,
     "age": 26.7,
-    "trend": "red:13",
+    "trend": "red:12",
     "superflexValue": 3290
   },
   {
-    "name": "James Conner",
-    "team": "ARI",
-    "positionRank": "RB2629.6 y.o.Tier 14",
-    "position": "RB",
-    "value": 4134,
+    "name": "Baker Mayfield",
+    "team": "TBB",
+    "positionRank": "QB1629.6 y.o.Tier 14",
+    "position": "QB",
+    "value": 4158,
     "age": 29.6,
-    "trend": "green:3",
-    "superflexValue": 3257
-  },
-  {
-    "name": "Michael Pittman",
-    "team": "IND",
-    "positionRank": "WR4227.2 y.o.Tier 14",
-    "position": "WR",
-    "value": 4131,
-    "age": 27.2,
-    "trend": "red:15",
-    "superflexValue": 3272
+    "trend": "green:2",
+    "superflexValue": 5312
   },
   {
     "name": "Courtland Sutton",
     "team": "DEN",
-    "positionRank": "WR4329.2 y.o.Tier 14",
+    "positionRank": "WR4229.2 y.o.Tier 13",
     "position": "WR",
-    "value": 4129,
+    "value": 4135,
     "age": 29.2,
-    "trend": "green:61",
-    "superflexValue": 3356
+    "trend": "green:63",
+    "superflexValue": 3365
+  },
+  {
+    "name": "James Conner",
+    "team": "ARI",
+    "positionRank": "RB2629.6 y.o.Tier 13",
+    "position": "RB",
+    "value": 4131,
+    "age": 29.6,
+    "trend": "green:2",
+    "superflexValue": 3254
+  },
+  {
+    "name": "Michael Pittman",
+    "team": "IND",
+    "positionRank": "WR4327.2 y.o.Tier 13",
+    "position": "WR",
+    "value": 4126,
+    "age": 27.2,
+    "trend": "red:16",
+    "superflexValue": 3272
   },
   {
     "name": "J.K. Dobbins",
     "team": "LAC",
-    "positionRank": "RB2726.0 y.o.Tier 14",
+    "positionRank": "RB2726.0 y.o.Tier 13",
     "position": "RB",
     "value": 4121,
     "age": 26,
     "trend": "red:14",
-    "superflexValue": 3212
+    "superflexValue": 3203
   },
   {
     "name": "Travis Etienne",
     "team": "JAC",
-    "positionRank": "RB2825.8 y.o.Tier 14",
+    "positionRank": "RB2825.8 y.o.Tier 13",
     "position": "RB",
     "value": 4089,
     "age": 25.8,
     "trend": "red:12",
-    "superflexValue": 3176
+    "superflexValue": 3179
   },
   {
     "name": "Rhamondre Stevenson",
     "team": "NEP",
-    "positionRank": "RB2926.8 y.o.Tier 14",
+    "positionRank": "RB2926.8 y.o.Tier 13",
     "position": "RB",
-    "value": 4045,
+    "value": 4041,
     "age": 26.8,
     "trend": "green:1",
-    "superflexValue": 3130
+    "superflexValue": 3127
   },
   {
     "name": "Darnell Mooney",
     "team": "ATL",
-    "positionRank": "WR4427.1 y.o.Tier 14",
+    "positionRank": "WR4427.1 y.o.Tier 13",
     "position": "WR",
     "value": 4009,
     "age": 27.1,
     "trend": "green:8",
-    "superflexValue": 3166
+    "superflexValue": 3157
   },
   {
     "name": "Tony Pollard",
     "team": "TEN",
-    "positionRank": "RB3027.6 y.o.Tier 14",
+    "positionRank": "RB3027.6 y.o.Tier 13",
     "position": "RB",
-    "value": 3971,
+    "value": 3975,
     "age": 27.6,
     "trend": "red:2",
-    "superflexValue": 3138
-  },
-  {
-    "name": "Tucker Kraft",
-    "team": "GBP",
-    "positionRank": "TE924.1 y.o.Tier 14",
-    "position": "TE",
-    "value": 3919,
-    "age": 24.1,
-    "trend": "red:20",
-    "superflexValue": 3209
+    "superflexValue": 3135
   },
   {
     "name": "Mark Andrews",
     "team": "BAL",
-    "positionRank": "TE1029.2 y.o.Tier 14",
+    "positionRank": "TE929.2 y.o.Tier 13",
     "position": "TE",
-    "value": 3918,
+    "value": 3922,
     "age": 29.2,
-    "trend": "green:12",
-    "superflexValue": 3210
+    "trend": "green:13",
+    "superflexValue": 3217
+  },
+  {
+    "name": "Tucker Kraft",
+    "team": "GBP",
+    "positionRank": "TE1024.1 y.o.Tier 13",
+    "position": "TE",
+    "value": 3917,
+    "age": 24.1,
+    "trend": "red:21",
+    "superflexValue": 3209
   },
   {
     "name": "David Njoku",
     "team": "CLE",
-    "positionRank": "TE1128.4 y.o.Tier 14",
+    "positionRank": "TE1128.4 y.o.Tier 13",
     "position": "TE",
-    "value": 3910,
+    "value": 3902,
     "age": 28.4,
     "trend": "red:1",
-    "superflexValue": 3208
+    "superflexValue": 3211
   },
   {
     "name": "Braelon AllenR",
     "team": "NYJ",
-    "positionRank": "RB3120.9 y.o.Tier 14",
+    "positionRank": "RB3120.9 y.o.Tier 13",
     "position": "RB",
     "value": 3894,
     "age": 20.9,
     "trend": "red:14",
-    "superflexValue": 3045
+    "superflexValue": 3048
   },
   {
     "name": "2025 Mid 2ndFA",
     "team": "",
-    "positionRank": "PICKTier 14",
+    "positionRank": "PICKTier 13",
     "position": "PI",
     "value": 3865,
     "age": 0,
     "trend": "red:",
-    "superflexValue": 3138
+    "superflexValue": 3147
   },
   {
     "name": "Rachaad White",
     "team": "TBB",
-    "positionRank": "RB3225.6 y.o.Tier 14",
+    "positionRank": "RB3225.6 y.o.Tier 13",
     "position": "RB",
     "value": 3864,
     "age": 25.6,
     "trend": "green:5",
-    "superflexValue": 2956
+    "superflexValue": 2949
   },
   {
     "name": "2026 Early 2ndFA",
     "team": "",
-    "positionRank": "PICKTier 14",
+    "positionRank": "PICKTier 13",
     "position": "PI",
     "value": 3860,
     "age": 0,
     "trend": "red:3",
-    "superflexValue": 3215
+    "superflexValue": 3212
   },
   {
     "name": "Aaron Jones",
     "team": "MIN",
-    "positionRank": "RB3330.0 y.o.Tier 14",
+    "positionRank": "RB3330.0 y.o.Tier 13",
     "position": "RB",
     "value": 3833,
     "age": 30,
     "trend": "red:16",
-    "superflexValue": 3005
-  },
-  {
-    "name": "Tank Bigsby",
-    "team": "JAC",
-    "positionRank": "RB3423.3 y.o.Tier 14",
-    "position": "RB",
-    "value": 3808,
-    "age": 23.3,
-    "trend": "red:31",
-    "superflexValue": 2961
+    "superflexValue": 3002
   },
   {
     "name": "Travis Kelce",
     "team": "KCC",
-    "positionRank": "TE1235.2 y.o.Tier 14",
+    "positionRank": "TE1235.2 y.o.Tier 13",
     "position": "TE",
-    "value": 3801,
+    "value": 3805,
     "age": 35.2,
-    "trend": "green:3",
-    "superflexValue": 2996
+    "trend": "green:4",
+    "superflexValue": 2999
+  },
+  {
+    "name": "Tank Bigsby",
+    "team": "JAC",
+    "positionRank": "RB3423.3 y.o.Tier 13",
+    "position": "RB",
+    "value": 3805,
+    "age": 23.3,
+    "trend": "red:32",
+    "superflexValue": 2959
   },
   {
     "name": "Cedric Tillman",
     "team": "CLE",
-    "positionRank": "WR4524.6 y.o.Tier 14",
+    "positionRank": "WR4524.6 y.o.Tier 13",
     "position": "WR",
     "value": 3748,
     "age": 24.6,
     "trend": "green:50",
-    "superflexValue": 2989
+    "superflexValue": 2996
   },
   {
     "name": "J.J. McCarthyR",
     "team": "MIN",
-    "positionRank": "QB1721.9 y.o.Tier 14",
+    "positionRank": "QB1721.9 y.o.Tier 13",
     "position": "QB",
     "value": 3693,
     "age": 21.9,
@@ -1202,39 +1202,39 @@
   {
     "name": "Jared Goff",
     "team": "DET",
-    "positionRank": "QB1830.1 y.o.Tier 14",
+    "positionRank": "QB1830.1 y.o.Tier 13",
     "position": "QB",
     "value": 3677,
     "age": 30.1,
     "trend": "red:3",
-    "superflexValue": 5137
+    "superflexValue": 5138
   },
   {
     "name": "Jerry Jeudy",
     "team": "CLE",
-    "positionRank": "WR4625.6 y.o.Tier 14",
+    "positionRank": "WR4625.6 y.o.Tier 13",
     "position": "WR",
     "value": 3672,
     "age": 25.6,
     "trend": "green:48",
-    "superflexValue": 3067
+    "superflexValue": 3076
   },
   {
     "name": "Adonai MitchellR",
     "team": "IND",
-    "positionRank": "WR4722.2 y.o.Tier 14",
+    "positionRank": "WR4722.2 y.o.Tier 13",
     "position": "WR",
     "value": 3654,
     "age": 22.2,
     "trend": "green:22",
-    "superflexValue": 2882
+    "superflexValue": 2891
   },
   {
     "name": "Christian Watson",
     "team": "GBP",
-    "positionRank": "WR4825.6 y.o.Tier 14",
+    "positionRank": "WR4825.6 y.o.Tier 13",
     "position": "WR",
-    "value": 3619,
+    "value": 3625,
     "age": 25.6,
     "trend": "green:11",
     "superflexValue": 2862
@@ -1242,47 +1242,47 @@
   {
     "name": "Quentin Johnston",
     "team": "LAC",
-    "positionRank": "WR4923.2 y.o.Tier 14",
+    "positionRank": "WR4923.2 y.o.Tier 13",
     "position": "WR",
     "value": 3619,
     "age": 23.2,
     "trend": "green:36",
-    "superflexValue": 2841
+    "superflexValue": 2844
   },
   {
     "name": "Calvin Ridley",
     "team": "TEN",
-    "positionRank": "WR5030.0 y.o.Tier 14",
+    "positionRank": "WR5030.0 y.o.Tier 13",
     "position": "WR",
-    "value": 3615,
+    "value": 3616,
     "age": 30,
     "trend": "green:26",
-    "superflexValue": 2926
+    "superflexValue": 2924
   },
   {
     "name": "Romeo Doubs",
     "team": "GBP",
-    "positionRank": "WR5124.6 y.o.Tier 14",
+    "positionRank": "WR5124.6 y.o.Tier 13",
     "position": "WR",
-    "value": 3605,
+    "value": 3602,
     "age": 24.6,
     "trend": "red:24",
-    "superflexValue": 2877
+    "superflexValue": 2875
   },
   {
     "name": "Jaylen WrightR",
     "team": "MIA",
-    "positionRank": "RB3521.7 y.o.Tier 14",
+    "positionRank": "RB3521.7 y.o.Tier 13",
     "position": "RB",
     "value": 3582,
     "age": 21.7,
     "trend": "green:7",
-    "superflexValue": 2779
+    "superflexValue": 2786
   },
   {
     "name": "Jauan Jennings",
     "team": "SFO",
-    "positionRank": "WR5227.4 y.o.Tier 14",
+    "positionRank": "WR5227.4 y.o.Tier 13",
     "position": "WR",
     "value": 3581,
     "age": 27.4,
@@ -1292,37 +1292,37 @@
   {
     "name": "Trevor Lawrence",
     "team": "JAC",
-    "positionRank": "QB1925.2 y.o.Tier 14",
+    "positionRank": "QB1925.2 y.o.Tier 13",
     "position": "QB",
     "value": 3562,
     "age": 25.2,
     "trend": "green:3",
-    "superflexValue": 4612
+    "superflexValue": 4614
   },
   {
     "name": "Rashid Shaheed",
     "team": "NOS",
-    "positionRank": "WR5326.2 y.o.Tier 14",
+    "positionRank": "WR5326.2 y.o.Tier 13",
     "position": "WR",
     "value": 3558,
     "age": 26.2,
     "trend": "red:1",
-    "superflexValue": 2867
+    "superflexValue": 2861
   },
   {
     "name": "2026 Mid 2ndFA",
     "team": "",
-    "positionRank": "PICKTier 14",
+    "positionRank": "PICKTier 13",
     "position": "PI",
     "value": 3527,
     "age": 0,
     "trend": "green:7",
-    "superflexValue": 2819
+    "superflexValue": 2813
   },
   {
     "name": "Jake Ferguson",
     "team": "DAL",
-    "positionRank": "TE1325.9 y.o.Tier 14",
+    "positionRank": "TE1325.9 y.o.Tier 13",
     "position": "TE",
     "value": 3522,
     "age": 25.9,
@@ -1332,27 +1332,27 @@
   {
     "name": "Davante Adams",
     "team": "NYJ",
-    "positionRank": "WR5431.9 y.o.Tier 14",
+    "positionRank": "WR5431.9 y.o.Tier 13",
     "position": "WR",
-    "value": 3500,
+    "value": 3503,
     "age": 31.9,
     "trend": "red:25",
-    "superflexValue": 2725
+    "superflexValue": 2728
   },
   {
     "name": "Zach Charbonnet",
     "team": "SEA",
-    "positionRank": "RB3623.9 y.o.Tier 14",
+    "positionRank": "RB3623.9 y.o.Tier 13",
     "position": "RB",
-    "value": 3494,
+    "value": 3491,
     "age": 23.9,
     "trend": "red:15",
-    "superflexValue": 2732
+    "superflexValue": 2729
   },
   {
     "name": "2025 Late 2ndFA",
     "team": "",
-    "positionRank": "PICKTier 14",
+    "positionRank": "PICKTier 13",
     "position": "PI",
     "value": 3482,
     "age": 0,
@@ -1362,59 +1362,59 @@
   {
     "name": "Blake CorumR",
     "team": "LAR",
-    "positionRank": "RB3724.0 y.o.Tier 14",
+    "positionRank": "RB3724.0 y.o.Tier 13",
     "position": "RB",
     "value": 3481,
     "age": 24,
     "trend": "green:6",
-    "superflexValue": 2677
+    "superflexValue": 2679
   },
   {
     "name": "Jakobi Meyers",
     "team": "LVR",
-    "positionRank": "WR5528.1 y.o.Tier 14",
+    "positionRank": "WR5528.1 y.o.Tier 13",
     "position": "WR",
     "value": 3465,
     "age": 28.1,
     "trend": "green:10",
-    "superflexValue": 2832
+    "superflexValue": 2829
   },
   {
     "name": "Amari Cooper",
     "team": "BUF",
-    "positionRank": "WR5630.5 y.o.Tier 14",
+    "positionRank": "WR5630.5 y.o.Tier 13",
     "position": "WR",
-    "value": 3461,
+    "value": 3464,
     "age": 30.5,
     "trend": "red:31",
-    "superflexValue": 2780
+    "superflexValue": 2783
   },
   {
     "name": "2027 Early 2ndFA",
     "team": "",
-    "positionRank": "PICKTier 14",
+    "positionRank": "PICKTier 13",
     "position": "PI",
-    "value": 3448,
+    "value": 3445,
     "age": 0,
     "trend": "red:1",
-    "superflexValue": 2903
+    "superflexValue": 2901
   },
   {
     "name": "Isaiah Likely",
     "team": "BAL",
-    "positionRank": "TE1424.6 y.o.Tier 14",
+    "positionRank": "TE1424.6 y.o.Tier 13",
     "position": "TE",
-    "value": 3435,
+    "value": 3438,
     "age": 24.6,
     "trend": "red:9",
-    "superflexValue": 2726
+    "superflexValue": 2730
   },
   {
     "name": "Tua Tagovailoa",
     "team": "MIA",
-    "positionRank": "QB2026.8 y.o.Tier 14",
+    "positionRank": "QB2026.8 y.o.Tier 13",
     "position": "QB",
-    "value": 3400,
+    "value": 3403,
     "age": 26.8,
     "trend": "green:12",
     "superflexValue": 4658
@@ -1424,17 +1424,17 @@
     "team": "DEN",
     "positionRank": "RB3824.6 y.o.Tier 14",
     "position": "RB",
-    "value": 3357,
+    "value": 3350,
     "age": 24.6,
     "trend": "red:38",
-    "superflexValue": 2681
+    "superflexValue": 2672
   },
   {
     "name": "Audric EstimeR",
     "team": "DEN",
     "positionRank": "RB3921.2 y.o.Tier 14",
     "position": "RB",
-    "value": 3341,
+    "value": 3344,
     "age": 21.2,
     "trend": "green:44",
     "superflexValue": 2613
@@ -1447,7 +1447,7 @@
     "value": 3337,
     "age": 25.7,
     "trend": "red:22",
-    "superflexValue": 2672
+    "superflexValue": 2666
   },
   {
     "name": "2027 Mid 2ndFA",
@@ -1460,433 +1460,433 @@
     "superflexValue": 2578
   },
   {
-    "name": "Nick Chubb",
-    "team": "CLE",
-    "positionRank": "RB4028.9 y.o.Tier 14",
-    "position": "RB",
-    "value": 3326,
-    "age": 28.9,
-    "trend": "red:8",
-    "superflexValue": 2605
-  },
-  {
     "name": "Evan Engram",
     "team": "JAC",
     "positionRank": "TE1630.2 y.o.Tier 14",
     "position": "TE",
-    "value": 3323,
+    "value": 3321,
     "age": 30.2,
-    "trend": "red:23",
+    "trend": "red:22",
     "superflexValue": 2714
+  },
+  {
+    "name": "Nick Chubb",
+    "team": "CLE",
+    "positionRank": "RB4028.9 y.o.Tier 14",
+    "position": "RB",
+    "value": 3317,
+    "age": 28.9,
+    "trend": "red:9",
+    "superflexValue": 2599
   },
   {
     "name": "Tyjae Spears",
     "team": "TEN",
     "positionRank": "RB4123.5 y.o.Tier 14",
     "position": "RB",
-    "value": 3297,
+    "value": 3299,
     "age": 23.5,
     "trend": "red:3",
-    "superflexValue": 2525
+    "superflexValue": 2515
   },
   {
     "name": "Wan'Dale Robinson",
     "team": "NYG",
     "positionRank": "WR5723.9 y.o.Tier 14",
     "position": "WR",
-    "value": 3295,
+    "value": 3294,
     "age": 23.9,
     "trend": "red:24",
-    "superflexValue": 2555
+    "superflexValue": 2554
+  },
+  {
+    "name": "Tyjae Spears",
+    "team": "TEN",
+    "positionRank": "RB4223.5 y.o.Tier 16",
+    "position": "RB",
+    "value": 3286,
+    "age": 23.5,
+    "trend": "red:5",
+    "superflexValue": 2515
   },
   {
     "name": "Ray DavisR",
     "team": "BUF",
-    "positionRank": "RB4225.1 y.o.Tier 14",
+    "positionRank": "RB4325.1 y.o.Tier 16",
     "position": "RB",
-    "value": 3294,
+    "value": 3284,
     "age": 25.1,
-    "trend": "red:1",
-    "superflexValue": 2538
+    "trend": "red:2",
+    "superflexValue": 2540
   },
   {
-    "name": "Jaylen Warren",
-    "team": "PIT",
-    "positionRank": "RB4326.1 y.o.Tier 14",
-    "position": "RB",
-    "value": 3293,
-    "age": 26.1,
-    "trend": "green:5",
-    "superflexValue": 2638
-  },
-  {
-    "name": "2026 Late 2ndFA",
-    "team": "",
-    "positionRank": "PICKTier 14",
-    "position": "PI",
-    "value": 3291,
-    "age": 0,
-    "trend": "red:1",
-    "superflexValue": 2644
+    "name": "Wan'Dale Robinson",
+    "team": "NYG",
+    "positionRank": "WR5723.9 y.o.Tier 16",
+    "position": "WR",
+    "value": 3282,
+    "age": 23.9,
+    "trend": "red:29",
+    "superflexValue": 2554
   },
   {
     "name": "Rico Dowdle",
     "team": "DAL",
-    "positionRank": "RB4426.5 y.o.Tier 14",
+    "positionRank": "RB4426.5 y.o.Tier 16",
     "position": "RB",
-    "value": 3279,
+    "value": 3281,
     "age": 26.5,
-    "trend": "green:18",
+    "trend": "green:20",
     "superflexValue": 2562
   },
   {
     "name": "Demario Douglas",
     "team": "NEP",
-    "positionRank": "WR5824.0 y.o.Tier 14",
+    "positionRank": "WR5824.0 y.o.Tier 16",
     "position": "WR",
-    "value": 3278,
+    "value": 3273,
     "age": 24,
-    "trend": "red:8",
-    "superflexValue": 2560
-  },
-  {
-    "name": "Stefon Diggs",
-    "team": "HOU",
-    "positionRank": "WR5931.0 y.o.Tier 14",
-    "position": "WR",
-    "value": 3246,
-    "age": 31,
-    "trend": "red:19",
-    "superflexValue": 2501
-  },
-  {
-    "name": "Dak Prescott",
-    "team": "DAL",
-    "positionRank": "QB2131.4 y.o.Tier 14",
-    "position": "QB",
-    "value": 3240,
-    "age": 31.4,
-    "trend": "red:33",
-    "superflexValue": 3986
+    "trend": "red:7",
+    "superflexValue": 2545
   },
   {
     "name": "Michael Penix Jr.R",
     "team": "ATL",
-    "positionRank": "QB2224.6 y.o.Tier 14",
+    "positionRank": "QB2124.6 y.o.Tier 16",
     "position": "QB",
     "value": 3238,
     "age": 24.6,
-    "trend": "red:2",
-    "superflexValue": 3995
+    "trend": "red:",
+    "superflexValue": 3992
+  },
+  {
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "positionRank": "QB2231.4 y.o.Tier 16",
+    "position": "QB",
+    "value": 3237,
+    "age": 31.4,
+    "trend": "red:31",
+    "superflexValue": 3989
+  },
+  {
+    "name": "Stefon Diggs",
+    "team": "HOU",
+    "positionRank": "WR5931.0 y.o.Tier 16",
+    "position": "WR",
+    "value": 3215,
+    "age": 31,
+    "trend": "red:26",
+    "superflexValue": 2471
   },
   {
     "name": "Pat Freiermuth",
     "team": "PIT",
-    "positionRank": "TE1726.1 y.o.Tier 14",
+    "positionRank": "TE1726.1 y.o.Tier 16",
     "position": "TE",
-    "value": 3196,
+    "value": 3204,
     "age": 26.1,
-    "trend": "red:8",
+    "trend": "red:10",
     "superflexValue": 2551
   },
   {
     "name": "Dontayvion Wicks",
     "team": "GBP",
-    "positionRank": "WR6023.5 y.o.Tier 15",
+    "positionRank": "WR6023.5 y.o.Tier 17",
     "position": "WR",
-    "value": 3134,
+    "value": 3117,
     "age": 23.5,
-    "trend": "red:32",
-    "superflexValue": 2468
-  },
-  {
-    "name": "Dallas Goedert",
-    "team": "PHI",
-    "positionRank": "TE1829.9 y.o.Tier 16",
-    "position": "TE",
-    "value": 3078,
-    "age": 29.9,
-    "trend": "green:2",
-    "superflexValue": 2508
-  },
-  {
-    "name": "Ja'Tavion SandersR",
-    "team": "CAR",
-    "positionRank": "TE1921.7 y.o.Tier 16",
-    "position": "TE",
-    "value": 3050,
-    "age": 21.7,
-    "trend": "green:43",
-    "superflexValue": 2451
-  },
-  {
-    "name": "Jordan Mason",
-    "team": "SFO",
-    "positionRank": "RB4525.5 y.o.Tier 16",
-    "position": "RB",
-    "value": 3046,
-    "age": 25.5,
-    "trend": "red:34",
-    "superflexValue": 2428
-  },
-  {
-    "name": "Rashod Bateman",
-    "team": "BAL",
-    "positionRank": "WR6125.0 y.o.Tier 16",
-    "position": "WR",
-    "value": 3014,
-    "age": 25,
-    "trend": "green:2",
-    "superflexValue": 2387
-  },
-  {
-    "name": "Troy FranklinR",
-    "team": "DEN",
-    "positionRank": "WR6221.8 y.o.Tier 16",
-    "position": "WR",
-    "value": 3010,
-    "age": 21.8,
-    "trend": "green:6",
-    "superflexValue": 2339
-  },
-  {
-    "name": "MarShawn LloydR",
-    "team": "GBP",
-    "positionRank": "RB4623.9 y.o.Tier 16",
-    "position": "RB",
-    "value": 2998,
-    "age": 23.9,
-    "trend": "red:4",
-    "superflexValue": 2312
-  },
-  {
-    "name": "Sam Darnold",
-    "team": "MIN",
-    "positionRank": "QB2327.5 y.o.Tier 16",
-    "position": "QB",
-    "value": 2990,
-    "age": 27.5,
-    "trend": "red:12",
-    "superflexValue": 0
-  },
-  {
-    "name": "Jalen McMillanR",
-    "team": "TBB",
-    "positionRank": "WR6323.0 y.o.Tier 16",
-    "position": "WR",
-    "value": 2988,
-    "age": 23,
-    "trend": "red:24",
-    "superflexValue": 2355
-  },
-  {
-    "name": "DeAndre Hopkins",
-    "team": "KCC",
-    "positionRank": "WR6432.5 y.o.Tier 16",
-    "position": "WR",
-    "value": 2984,
-    "age": 32.5,
-    "trend": "green:4",
-    "superflexValue": 2352
-  },
-  {
-    "name": "Tyler Allgeier",
-    "team": "ATL",
-    "positionRank": "RB4724.6 y.o.Tier 16",
-    "position": "RB",
-    "value": 2974,
-    "age": 24.6,
-    "trend": "red:22",
-    "superflexValue": 2376
-  },
-  {
-    "name": "Alec Pierce",
-    "team": "IND",
-    "positionRank": "WR6524.6 y.o.Tier 16",
-    "position": "WR",
-    "value": 2971,
-    "age": 24.6,
-    "trend": "green:6",
-    "superflexValue": 2348
-  },
-  {
-    "name": "2027 Late 2ndFA",
-    "team": "",
-    "positionRank": "PICKTier 16",
-    "position": "PI",
-    "value": 2951,
-    "age": 0,
-    "trend": "green:3",
-    "superflexValue": 2338
-  },
-  {
-    "name": "Roschon Johnson",
-    "team": "CHI",
-    "positionRank": "RB4823.8 y.o.Tier 17",
-    "position": "RB",
-    "value": 2898,
-    "age": 23.8,
-    "trend": "green:5",
-    "superflexValue": 2338
-  },
-  {
-    "name": "Ja'Lynn PolkR",
-    "team": "NEP",
-    "positionRank": "WR6622.6 y.o.Tier 17",
-    "position": "WR",
-    "value": 2894,
-    "age": 22.6,
-    "trend": "red:15",
-    "superflexValue": 2273
-  },
-  {
-    "name": "Michael Wilson",
-    "team": "ARI",
-    "positionRank": "WR6724.8 y.o.Tier 17",
-    "position": "WR",
-    "value": 2884,
-    "age": 24.8,
-    "trend": "red:10",
-    "superflexValue": 2341
-  },
-  {
-    "name": "Jonnu Smith",
-    "team": "MIA",
-    "positionRank": "TE2029.3 y.o.Tier 17",
-    "position": "TE",
-    "value": 2873,
-    "age": 29.3,
-    "trend": "green:97",
-    "superflexValue": 2596
-  },
-  {
-    "name": "Christian Kirk",
-    "team": "JAC",
-    "positionRank": "WR6828.0 y.o.Tier 17",
-    "position": "WR",
-    "value": 2858,
-    "age": 28,
-    "trend": "red:9",
-    "superflexValue": 2308
-  },
-  {
-    "name": "Ben SinnottR",
-    "team": "WAS",
-    "positionRank": "TE2122.5 y.o.Tier 17",
-    "position": "TE",
-    "value": 2849,
-    "age": 22.5,
-    "trend": "green:2",
-    "superflexValue": 2304
+    "trend": "red:33",
+    "superflexValue": 2459
   },
   {
     "name": "Isaac GuerendoR",
     "team": "SFO",
-    "positionRank": "RB4924.4 y.o.Tier 17",
+    "positionRank": "RB4524.4 y.o.Tier 18",
     "position": "RB",
-    "value": 2828,
+    "value": 3063,
     "age": 24.4,
-    "trend": "green:4",
-    "superflexValue": 2312
+    "trend": "green:22",
+    "superflexValue": 2613
+  },
+  {
+    "name": "Dallas Goedert",
+    "team": "PHI",
+    "positionRank": "TE1829.9 y.o.Tier 18",
+    "position": "TE",
+    "value": 3054,
+    "age": 29.9,
+    "trend": "green:1",
+    "superflexValue": 2481
+  },
+  {
+    "name": "Ja'Tavion SandersR",
+    "team": "CAR",
+    "positionRank": "TE1921.7 y.o.Tier 18",
+    "position": "TE",
+    "value": 3052,
+    "age": 21.7,
+    "trend": "green:42",
+    "superflexValue": 2448
+  },
+  {
+    "name": "Jordan Mason",
+    "team": "SFO",
+    "positionRank": "RB4625.5 y.o.Tier 18",
+    "position": "RB",
+    "value": 3024,
+    "age": 25.5,
+    "trend": "red:35",
+    "superflexValue": 2413
+  },
+  {
+    "name": "Troy FranklinR",
+    "team": "DEN",
+    "positionRank": "WR6121.8 y.o.Tier 18",
+    "position": "WR",
+    "value": 3010,
+    "age": 21.8,
+    "trend": "green:5",
+    "superflexValue": 2358
+  },
+  {
+    "name": "Rashod Bateman",
+    "team": "BAL",
+    "positionRank": "WR6225.0 y.o.Tier 18",
+    "position": "WR",
+    "value": 3009,
+    "age": 25,
+    "trend": "red:",
+    "superflexValue": 2382
+  },
+  {
+    "name": "MarShawn LloydR",
+    "team": "GBP",
+    "positionRank": "RB4723.9 y.o.Tier 18",
+    "position": "RB",
+    "value": 2998,
+    "age": 23.9,
+    "trend": "red:6",
+    "superflexValue": 2310
+  },
+  {
+    "name": "Sam Darnold",
+    "team": "MIN",
+    "positionRank": "QB2327.5 y.o.Tier 18",
+    "position": "QB",
+    "value": 2993,
+    "age": 27.5,
+    "trend": "red:13",
+    "superflexValue": 3457
+  },
+  {
+    "name": "DeAndre Hopkins",
+    "team": "KCC",
+    "positionRank": "WR6332.5 y.o.Tier 18",
+    "position": "WR",
+    "value": 2969,
+    "age": 32.5,
+    "trend": "green:2",
+    "superflexValue": 2344
+  },
+  {
+    "name": "Jalen McMillanR",
+    "team": "TBB",
+    "positionRank": "WR6423.0 y.o.Tier 18",
+    "position": "WR",
+    "value": 2968,
+    "age": 23,
+    "trend": "red:27",
+    "superflexValue": 2345
+  },
+  {
+    "name": "Tyler Allgeier",
+    "team": "ATL",
+    "positionRank": "RB4824.6 y.o.Tier 18",
+    "position": "RB",
+    "value": 2961,
+    "age": 24.6,
+    "trend": "red:24",
+    "superflexValue": 2351
+  },
+  {
+    "name": "Alec Pierce",
+    "team": "IND",
+    "positionRank": "WR6524.6 y.o.Tier 18",
+    "position": "WR",
+    "value": 2960,
+    "age": 24.6,
+    "trend": "green:6",
+    "superflexValue": 2334
+  },
+  {
+    "name": "2027 Late 2ndFA",
+    "team": "",
+    "positionRank": "PICKTier 18",
+    "position": "PI",
+    "value": 2948,
+    "age": 0,
+    "trend": "red:",
+    "superflexValue": 2319
+  },
+  {
+    "name": "Roschon Johnson",
+    "team": "CHI",
+    "positionRank": "RB4923.8 y.o.Tier 18",
+    "position": "RB",
+    "value": 2901,
+    "age": 23.8,
+    "trend": "green:5",
+    "superflexValue": 2330
+  },
+  {
+    "name": "Ja'Lynn PolkR",
+    "team": "NEP",
+    "positionRank": "WR6622.6 y.o.Tier 18",
+    "position": "WR",
+    "value": 2887,
+    "age": 22.6,
+    "trend": "red:16",
+    "superflexValue": 2282
+  },
+  {
+    "name": "Michael Wilson",
+    "team": "ARI",
+    "positionRank": "WR6724.8 y.o.Tier 18",
+    "position": "WR",
+    "value": 2881,
+    "age": 24.8,
+    "trend": "red:12",
+    "superflexValue": 2329
+  },
+  {
+    "name": "Jonnu Smith",
+    "team": "MIA",
+    "positionRank": "TE2029.3 y.o.Tier 18",
+    "position": "TE",
+    "value": 2872,
+    "age": 29.3,
+    "trend": "green:100",
+    "superflexValue": 2599
+  },
+  {
+    "name": "Ben SinnottR",
+    "team": "WAS",
+    "positionRank": "TE2122.5 y.o.Tier 18",
+    "position": "TE",
+    "value": 2862,
+    "age": 22.5,
+    "trend": "green:2",
+    "superflexValue": 2289
+  },
+  {
+    "name": "Christian Kirk",
+    "team": "JAC",
+    "positionRank": "WR6828.0 y.o.Tier 18",
+    "position": "WR",
+    "value": 2823,
+    "age": 28,
+    "trend": "red:12",
+    "superflexValue": 2283
   },
   {
     "name": "2025 Early 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 18",
+    "positionRank": "PICKTier 19",
     "position": "PI",
-    "value": 2761,
+    "value": 2764,
     "age": 0,
-    "trend": "green:4",
-    "superflexValue": 2286
-  },
-  {
-    "name": "Diontae Johnson",
-    "team": "BAL",
-    "positionRank": "WR6928.4 y.o.Tier 18",
-    "position": "WR",
-    "value": 2758,
-    "age": 28.4,
-    "trend": "red:64",
-    "superflexValue": 2150
+    "trend": "green:5",
+    "superflexValue": 2279
   },
   {
     "name": "Jalen CokerR",
     "team": "CAR",
-    "positionRank": "WR7023.1 y.o.Tier 18",
+    "positionRank": "WR6923.1 y.o.Tier 19",
     "position": "WR",
-    "value": 2754,
+    "value": 2763,
     "age": 23.1,
-    "trend": "green:54",
-    "superflexValue": 2249
+    "trend": "green:65",
+    "superflexValue": 2237
   },
   {
     "name": "Marquise Brown",
     "team": "KCC",
-    "positionRank": "WR7127.5 y.o.Tier 18",
+    "positionRank": "WR7027.5 y.o.Tier 19",
     "position": "WR",
-    "value": 2746,
+    "value": 2750,
     "age": 27.5,
-    "trend": "red:1",
-    "superflexValue": 2261
+    "trend": "red:",
+    "superflexValue": 2247
+  },
+  {
+    "name": "Diontae Johnson",
+    "team": "BAL",
+    "positionRank": "WR7128.4 y.o.Tier 19",
+    "position": "WR",
+    "value": 2743,
+    "age": 28.4,
+    "trend": "red:65",
+    "superflexValue": 2147
   },
   {
     "name": "Justin Fields",
     "team": "PIT",
-    "positionRank": "QB2425.8 y.o.Tier 18",
+    "positionRank": "QB2425.8 y.o.Tier 19",
     "position": "QB",
-    "value": 2724,
+    "value": 2721,
     "age": 25.8,
     "trend": "red:24",
-    "superflexValue": 2666
+    "superflexValue": 2669
   },
   {
     "name": "Kirk Cousins",
     "team": "ATL",
-    "positionRank": "QB2536.3 y.o.Tier 18",
+    "positionRank": "QB2536.3 y.o.Tier 19",
     "position": "QB",
     "value": 2690,
     "age": 36.3,
     "trend": "red:4",
-    "superflexValue": 2891
+    "superflexValue": 2882
   },
   {
     "name": "Jermaine BurtonR",
     "team": "CIN",
-    "positionRank": "WR7223.4 y.o.Tier 18",
+    "positionRank": "WR7223.4 y.o.Tier 19",
     "position": "WR",
-    "value": 2678,
+    "value": 2675,
     "age": 23.4,
     "trend": "green:4",
-    "superflexValue": 2174
+    "superflexValue": 2175
   },
   {
     "name": "Luke McCaffreyR",
     "team": "WAS",
-    "positionRank": "WR7323.7 y.o.Tier 18",
+    "positionRank": "WR7323.7 y.o.Tier 19",
     "position": "WR",
-    "value": 2654,
+    "value": 2652,
     "age": 23.7,
-    "trend": "red:13",
-    "superflexValue": 2214
+    "trend": "red:15",
+    "superflexValue": 2223
   },
   {
     "name": "Austin Ekeler",
     "team": "WAS",
-    "positionRank": "RB5029.6 y.o.Tier 18",
+    "positionRank": "RB5029.6 y.o.Tier 19",
     "position": "RB",
-    "value": 2646,
+    "value": 2640,
     "age": 29.6,
-    "trend": "green:14",
-    "superflexValue": 2118
+    "trend": "green:15",
+    "superflexValue": 2113
   },
   {
     "name": "Elijah Moore",
     "team": "CLE",
     "positionRank": "WR7424.7 y.o.Tier 19",
     "position": "WR",
-    "value": 2589,
+    "value": 2593,
     "age": 24.7,
-    "trend": "green:31",
+    "trend": "green:34",
     "superflexValue": 2193
   },
   {
@@ -1896,7 +1896,7 @@
     "position": "RB",
     "value": 2580,
     "age": 22.9,
-    "trend": "red:4",
+    "trend": "red:2",
     "superflexValue": 2140
   },
   {
@@ -1907,17 +1907,17 @@
     "value": 2575,
     "age": 25.1,
     "trend": "green:5",
-    "superflexValue": 2137
+    "superflexValue": 2126
   },
   {
     "name": "Keenan Allen",
     "team": "CHI",
     "positionRank": "WR7632.6 y.o.Tier 19",
     "position": "WR",
-    "value": 2561,
+    "value": 2568,
     "age": 32.6,
-    "trend": "red:7",
-    "superflexValue": 2228
+    "trend": "red:5",
+    "superflexValue": 2226
   },
   {
     "name": "2025 Mid 3rdFA",
@@ -1926,18 +1926,8 @@
     "position": "PI",
     "value": 2561,
     "age": 0,
-    "trend": "green:8",
-    "superflexValue": 2181
-  },
-  {
-    "name": "Kimani VidalR",
-    "team": "LAC",
-    "positionRank": "RB5223.3 y.o.Tier 19",
-    "position": "RB",
-    "value": 2531,
-    "age": 23.3,
-    "trend": "red:16",
-    "superflexValue": 2149
+    "trend": "green:9",
+    "superflexValue": 2178
   },
   {
     "name": "Geno Smith",
@@ -1947,7 +1937,7 @@
     "value": 2530,
     "age": 34.2,
     "trend": "red:2",
-    "superflexValue": 2998
+    "superflexValue": 2995
   },
   {
     "name": "2026 Early 3rdFA",
@@ -1956,38 +1946,48 @@
     "position": "PI",
     "value": 2528,
     "age": 0,
-    "trend": "green:8",
-    "superflexValue": 2150
+    "trend": "green:9",
+    "superflexValue": 2138
+  },
+  {
+    "name": "Kimani VidalR",
+    "team": "LAC",
+    "positionRank": "RB5223.3 y.o.Tier 19",
+    "position": "RB",
+    "value": 2527,
+    "age": 23.3,
+    "trend": "red:20",
+    "superflexValue": 2149
   },
   {
     "name": "Theo JohnsonR",
     "team": "NYG",
     "positionRank": "TE2223.8 y.o.Tier 19",
     "position": "TE",
-    "value": 2503,
+    "value": 2505,
     "age": 23.8,
-    "trend": "green:29",
-    "superflexValue": 2112
+    "trend": "green:31",
+    "superflexValue": 2106
   },
   {
     "name": "Kendre Miller",
     "team": "NOS",
     "positionRank": "RB5322.5 y.o.Tier 19",
     "position": "RB",
-    "value": 2489,
+    "value": 2488,
     "age": 22.5,
-    "trend": "red:6",
-    "superflexValue": 2054
+    "trend": "red:7",
+    "superflexValue": 2051
   },
   {
-    "name": "Sean Tucker",
-    "team": "TBB",
-    "positionRank": "RB5423.1 y.o.Tier 19",
-    "position": "RB",
-    "value": 2489,
-    "age": 23.1,
-    "trend": "red:12",
-    "superflexValue": 2036
+    "name": "Noah Gray",
+    "team": "KCC",
+    "positionRank": "TE2325.6 y.o.Tier 19",
+    "position": "TE",
+    "value": 2487,
+    "age": 25.6,
+    "trend": "green:33",
+    "superflexValue": 2230
   },
   {
     "name": "Kayshon Boutte",
@@ -1996,23 +1996,23 @@
     "position": "WR",
     "value": 2487,
     "age": 22.6,
-    "trend": "green:23",
-    "superflexValue": 2109
+    "trend": "green:26",
+    "superflexValue": 2107
   },
   {
-    "name": "Noah Gray",
-    "team": "KCC",
-    "positionRank": "TE2325.6 y.o.Tier 19",
-    "position": "TE",
-    "value": 2483,
-    "age": 25.6,
-    "trend": "green:31",
-    "superflexValue": 2220
+    "name": "Kendre Miller",
+    "team": "NOS",
+    "positionRank": "RB5422.5 y.o.Tier 18",
+    "position": "RB",
+    "value": 2485,
+    "age": 22.5,
+    "trend": "red:10",
+    "superflexValue": 2051
   },
   {
     "name": "Matthew Stafford",
     "team": "LAR",
-    "positionRank": "QB2736.8 y.o.Tier 19",
+    "positionRank": "QB2736.8 y.o.Tier 18",
     "position": "QB",
     "value": 2470,
     "age": 36.8,
@@ -2022,9 +2022,9 @@
   {
     "name": "Joshua Palmer",
     "team": "LAC",
-    "positionRank": "WR7825.2 y.o.Tier 20",
+    "positionRank": "WR7825.2 y.o.Tier 19",
     "position": "WR",
-    "value": 2412,
+    "value": 2415,
     "age": 25.2,
     "trend": "green:10",
     "superflexValue": 2026
@@ -2032,89 +2032,89 @@
   {
     "name": "Bryce Young",
     "team": "CAR",
-    "positionRank": "QB2823.4 y.o.Tier 20",
+    "positionRank": "QB2823.4 y.o.Tier 19",
     "position": "QB",
     "value": 2404,
     "age": 23.4,
     "trend": "green:33",
-    "superflexValue": 3361
+    "superflexValue": 3370
   },
   {
     "name": "Dalton Schultz",
     "team": "HOU",
-    "positionRank": "TE2428.4 y.o.Tier 20",
+    "positionRank": "TE2428.4 y.o.Tier 19",
     "position": "TE",
     "value": 2398,
     "age": 28.4,
     "trend": "red:6",
-    "superflexValue": 2069
+    "superflexValue": 2060
   },
   {
     "name": "Jerome Ford",
     "team": "CLE",
-    "positionRank": "RB5525.2 y.o.Tier 20",
+    "positionRank": "RB5525.2 y.o.Tier 19",
     "position": "RB",
     "value": 2382,
     "age": 25.2,
     "trend": "green:3",
-    "superflexValue": 1979
+    "superflexValue": 1985
   },
   {
     "name": "Kareem Hunt",
     "team": "KCC",
-    "positionRank": "RB5629.3 y.o.Tier 20",
+    "positionRank": "RB5629.3 y.o.Tier 19",
     "position": "RB",
     "value": 2361,
     "age": 29.3,
     "trend": "red:39",
-    "superflexValue": 1908
+    "superflexValue": 1902
   },
   {
     "name": "Jaleel McLaughlin",
     "team": "DEN",
-    "positionRank": "RB5724.2 y.o.Tier 20",
+    "positionRank": "RB5724.2 y.o.Tier 19",
     "position": "RB",
-    "value": 2313,
+    "value": 2312,
     "age": 24.2,
-    "trend": "red:8",
-    "superflexValue": 1962
+    "trend": "red:9",
+    "superflexValue": 1956
   },
   {
     "name": "Jalen Tolbert",
     "team": "DAL",
-    "positionRank": "WR7925.8 y.o.Tier 20",
+    "positionRank": "WR7925.8 y.o.Tier 19",
     "position": "WR",
-    "value": 2309,
+    "value": 2312,
     "age": 25.8,
-    "trend": "red:20",
-    "superflexValue": 1945
+    "trend": "red:19",
+    "superflexValue": 1957
   },
   {
     "name": "Marvin Mims",
     "team": "DEN",
-    "positionRank": "WR8022.7 y.o.Tier 20",
+    "positionRank": "WR8022.7 y.o.Tier 19",
     "position": "WR",
     "value": 2301,
     "age": 22.7,
     "trend": "green:32",
-    "superflexValue": 2021
+    "superflexValue": 2018
   },
   {
     "name": "Hunter Henry",
     "team": "NEP",
-    "positionRank": "TE2530.0 y.o.Tier 20",
+    "positionRank": "TE2530.0 y.o.Tier 19",
     "position": "TE",
-    "value": 2293,
+    "value": 2290,
     "age": 30,
     "trend": "red:1",
-    "superflexValue": 2052
+    "superflexValue": 2045
   },
   {
     "name": "Tre Tucker",
     "team": "LVR",
-    "positionRank": "WR8123.7 y.o.Tier 20",
+    "positionRank": "WR8123.7 y.o.Tier 19",
     "position": "WR",
-    "value": 2279,
+    "value": 2276,
     "age": 23.7,
     "trend": "red:18",
     "superflexValue": 1880
@@ -2122,7 +2122,7 @@
   {
     "name": "2026 Mid 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 20",
+    "positionRank": "PICKTier 19",
     "position": "PI",
     "value": 2274,
     "age": 0,
@@ -2130,29 +2130,29 @@
     "superflexValue": 1984
   },
   {
+    "name": "Devaughn VeleR",
+    "team": "DEN",
+    "positionRank": "WR8227.0 y.o.Tier 19",
+    "position": "WR",
+    "value": 2267,
+    "age": 27,
+    "trend": "green:48",
+    "superflexValue": 1987
+  },
+  {
     "name": "2025 Late 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 20",
+    "positionRank": "PICKTier 19",
     "position": "PI",
     "value": 2266,
     "age": 0,
-    "trend": "red:",
-    "superflexValue": 2052
-  },
-  {
-    "name": "Devaughn VeleR",
-    "team": "DEN",
-    "positionRank": "WR8227.0 y.o.Tier 20",
-    "position": "WR",
-    "value": 2261,
-    "age": 27,
-    "trend": "green:47",
-    "superflexValue": 1975
+    "trend": "red:1",
+    "superflexValue": 2047
   },
   {
     "name": "Erick AllR",
     "team": "CIN",
-    "positionRank": "TE2624.2 y.o.Tier 20",
+    "positionRank": "TE2624.2 y.o.Tier 19",
     "position": "TE",
     "value": 2255,
     "age": 24.2,
@@ -2162,47 +2162,47 @@
   {
     "name": "Roman WilsonR",
     "team": "PIT",
-    "positionRank": "WR8323.4 y.o.Tier 20",
+    "positionRank": "WR8423.4 y.o.Tier 19",
     "position": "WR",
-    "value": 2245,
+    "value": 2243,
     "age": 23.4,
-    "trend": "red:10",
-    "superflexValue": 1973
+    "trend": "red:11",
+    "superflexValue": 1970
   },
   {
     "name": "John Metchie",
     "team": "HOU",
-    "positionRank": "WR8424.4 y.o.Tier 20",
+    "positionRank": "WR8324.4 y.o.Tier 19",
     "position": "WR",
     "value": 2243,
     "age": 24.4,
-    "trend": "green:56",
-    "superflexValue": 1900
+    "trend": "green:57",
+    "superflexValue": 1897
   },
   {
     "name": "Luke Musgrave",
     "team": "GBP",
-    "positionRank": "TE2724.2 y.o.Tier 20",
+    "positionRank": "TE2724.2 y.o.Tier 19",
     "position": "TE",
-    "value": 2238,
+    "value": 2235,
     "age": 24.2,
     "trend": "green:3",
-    "superflexValue": 1916
+    "superflexValue": 1913
   },
   {
     "name": "2027 Early 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 20",
+    "positionRank": "PICKTier 19",
     "position": "PI",
     "value": 2214,
     "age": 0,
     "trend": "red:3",
-    "superflexValue": 1926
+    "superflexValue": 1929
   },
   {
     "name": "Jordan WhittingtonR",
     "team": "LAR",
-    "positionRank": "WR8524.2 y.o.Tier 20",
+    "positionRank": "WR8524.2 y.o.Tier 19",
     "position": "WR",
     "value": 2203,
     "age": 24.2,
@@ -2212,67 +2212,67 @@
   {
     "name": "Justice Hill",
     "team": "BAL",
-    "positionRank": "RB5827.0 y.o.Tier 20",
+    "positionRank": "RB5827.0 y.o.Tier 19",
     "position": "RB",
     "value": 2184,
     "age": 27,
     "trend": "red:10",
-    "superflexValue": 1828
+    "superflexValue": 1819
   },
   {
     "name": "Tyler Lockett",
     "team": "SEA",
-    "positionRank": "WR8632.2 y.o.Tier 20",
+    "positionRank": "WR8632.2 y.o.Tier 19",
     "position": "WR",
     "value": 2163,
     "age": 32.2,
     "trend": "red:17",
-    "superflexValue": 1767
+    "superflexValue": 1761
   },
   {
     "name": "2026 Late 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 20",
+    "positionRank": "PICKTier 19",
     "position": "PI",
     "value": 2132,
     "age": 0,
     "trend": "green:5",
-    "superflexValue": 1852
+    "superflexValue": 1855
   },
   {
     "name": "Alexander Mattison",
     "team": "LVR",
-    "positionRank": "RB5926.4 y.o.Tier 20",
+    "positionRank": "RB5926.4 y.o.Tier 19",
     "position": "RB",
     "value": 2105,
     "age": 26.4,
     "trend": "red:30",
-    "superflexValue": 1739
+    "superflexValue": 1742
   },
   {
     "name": "2027 Mid 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 20",
+    "positionRank": "PICKTier 19",
     "position": "PI",
     "value": 2094,
     "age": 0,
     "trend": "green:4",
-    "superflexValue": 1802
+    "superflexValue": 1795
   },
   {
     "name": "Trey Palmer",
     "team": "TBB",
-    "positionRank": "WR8723.7 y.o.Tier 20",
+    "positionRank": "WR8723.7 y.o.Tier 19",
     "position": "WR",
-    "value": 2057,
+    "value": 2060,
     "age": 23.7,
     "trend": "red:11",
-    "superflexValue": 1703
+    "superflexValue": 1712
   },
   {
     "name": "Javon BakerR",
     "team": "NEP",
-    "positionRank": "WR8822.8 y.o.Tier 20",
+    "positionRank": "WR8822.8 y.o.Tier 19",
     "position": "WR",
     "value": 2021,
     "age": 22.8,
@@ -2282,57 +2282,57 @@
   {
     "name": "Malik WashingtonR",
     "team": "MIA",
-    "positionRank": "WR8923.9 y.o.Tier 20",
+    "positionRank": "WR8923.9 y.o.Tier 19",
     "position": "WR",
     "value": 2001,
     "age": 23.9,
     "trend": "green:39",
-    "superflexValue": 1680
+    "superflexValue": 1674
   },
   {
     "name": "Mike Gesicki",
     "team": "CIN",
-    "positionRank": "TE2829.2 y.o.Tier 20",
+    "positionRank": "TE2829.2 y.o.Tier 19",
     "position": "TE",
     "value": 1995,
     "age": 29.2,
     "trend": "green:35",
-    "superflexValue": 1730
+    "superflexValue": 1727
   },
   {
     "name": "Michael Mayer",
     "team": "LVR",
-    "positionRank": "TE2923.4 y.o.Tier 20",
+    "positionRank": "TE2923.4 y.o.Tier 19",
     "position": "TE",
     "value": 1983,
     "age": 23.4,
     "trend": "green:9",
-    "superflexValue": 1808
+    "superflexValue": 1814
   },
   {
     "name": "Gabriel Davis",
     "team": "JAC",
-    "positionRank": "WR9025.7 y.o.Tier 20",
+    "positionRank": "WR9025.7 y.o.Tier 19",
     "position": "WR",
     "value": 1979,
     "age": 25.7,
     "trend": "red:17",
-    "superflexValue": 1708
+    "superflexValue": 1702
   },
   {
     "name": "Malachi CorleyR",
     "team": "NYJ",
-    "positionRank": "WR9122.7 y.o.Tier 20",
+    "positionRank": "WR9122.7 y.o.Tier 19",
     "position": "WR",
     "value": 1968,
     "age": 22.7,
     "trend": "green:16",
-    "superflexValue": 1661
+    "superflexValue": 1667
   },
   {
     "name": "Will Dissly",
     "team": "LAC",
-    "positionRank": "TE3028.4 y.o.Tier 20",
+    "positionRank": "TE3028.4 y.o.Tier 19",
     "position": "TE",
     "value": 1966,
     "age": 28.4,
@@ -2342,19 +2342,19 @@
   {
     "name": "Zack Moss",
     "team": "CIN",
-    "positionRank": "RB6027.0 y.o.Tier 20",
+    "positionRank": "RB6027.0 y.o.Tier 19",
     "position": "RB",
     "value": 1954,
     "age": 27,
     "trend": "red:42",
-    "superflexValue": 1637
+    "superflexValue": 1634
   },
   {
     "name": "Calvin Austin III",
     "team": "PIT",
-    "positionRank": "WR9225.7 y.o.Tier 20",
+    "positionRank": "WR9225.7 y.o.Tier 19",
     "position": "WR",
-    "value": 1942,
+    "value": 1945,
     "age": 25.7,
     "trend": "green:12",
     "superflexValue": 1736
@@ -2362,47 +2362,47 @@
   {
     "name": "Parker Washington",
     "team": "JAC",
-    "positionRank": "WR9322.7 y.o.Tier 20",
+    "positionRank": "WR9322.7 y.o.Tier 19",
     "position": "WR",
-    "value": 1927,
+    "value": 1930,
     "age": 22.7,
     "trend": "green:7",
-    "superflexValue": 1661
+    "superflexValue": 1663
   },
   {
     "name": "2027 Late 3rdFA",
     "team": "",
-    "positionRank": "PICKTier 20",
+    "positionRank": "PICKTier 19",
     "position": "PI",
     "value": 1902,
     "age": 0,
     "trend": "green:7",
-    "superflexValue": 1664
+    "superflexValue": 1673
   },
   {
     "name": "Khalil Herbert",
     "team": "CIN",
-    "positionRank": "RB6126.6 y.o.Tier 20",
+    "positionRank": "RB6126.6 y.o.Tier 19",
     "position": "RB",
     "value": 1889,
     "age": 26.6,
     "trend": "green:28",
-    "superflexValue": 1475
+    "superflexValue": 1478
   },
   {
     "name": "Jalen Nailor",
     "team": "MIN",
-    "positionRank": "WR9425.8 y.o.Tier 20",
+    "positionRank": "WR9425.8 y.o.Tier 19",
     "position": "WR",
     "value": 1886,
     "age": 25.8,
     "trend": "red:6",
-    "superflexValue": 1587
+    "superflexValue": 1581
   },
   {
     "name": "Devin Singletary",
     "team": "NYG",
-    "positionRank": "RB6227.2 y.o.Tier 20",
+    "positionRank": "RB6227.2 y.o.Tier 19",
     "position": "RB",
     "value": 1880,
     "age": 27.2,
@@ -2412,7 +2412,7 @@
   {
     "name": "Cam Akers",
     "team": "MIN",
-    "positionRank": "RB6325.4 y.o.Tier 20",
+    "positionRank": "RB6325.4 y.o.Tier 19",
     "position": "RB",
     "value": 1867,
     "age": 25.4,
@@ -2422,37 +2422,37 @@
   {
     "name": "Nick Westbrook-Ikhine",
     "team": "TEN",
-    "positionRank": "WR9527.7 y.o.Tier 20",
+    "positionRank": "WR9527.7 y.o.Tier 19",
     "position": "WR",
     "value": 1858,
     "age": 27.7,
     "trend": "green:119",
-    "superflexValue": 1776
+    "superflexValue": 1779
   },
   {
     "name": "Emanuel Wilson",
     "team": "GBP",
-    "positionRank": "RB6425.6 y.o.Tier 20",
+    "positionRank": "RB6425.6 y.o.Tier 19",
     "position": "RB",
     "value": 1853,
     "age": 25.6,
     "trend": "red:23",
-    "superflexValue": 1527
+    "superflexValue": 1524
   },
   {
     "name": "Noah Fant",
     "team": "SEA",
-    "positionRank": "TE3127.0 y.o.Tier 20",
+    "positionRank": "TE3127.0 y.o.Tier 19",
     "position": "TE",
-    "value": 1852,
+    "value": 1849,
     "age": 27,
     "trend": "red:26",
-    "superflexValue": 1669
+    "superflexValue": 1663
   },
   {
     "name": "Darius Slayton",
     "team": "NYG",
-    "positionRank": "WR9627.9 y.o.Tier 20",
+    "positionRank": "WR9627.9 y.o.Tier 19",
     "position": "WR",
     "value": 1833,
     "age": 27.9,
@@ -2460,64 +2460,74 @@
     "superflexValue": 1562
   },
   {
-    "name": "Brenton Strange",
-    "team": "JAC",
-    "positionRank": "TE3223.9 y.o.Tier 20",
-    "position": "TE",
-    "value": 1818,
-    "age": 23.9,
-    "trend": "red:4",
-    "superflexValue": 1591
-  },
-  {
     "name": "Will ShipleyR",
     "team": "PHI",
-    "positionRank": "RB6522.3 y.o.Tier 20",
+    "positionRank": "RB6522.3 y.o.Tier 19",
     "position": "RB",
     "value": 1817,
     "age": 22.3,
-    "trend": "green:1",
+    "trend": "green:2",
     "superflexValue": 1495
+  },
+  {
+    "name": "Brenton Strange",
+    "team": "JAC",
+    "positionRank": "TE3223.9 y.o.Tier 19",
+    "position": "TE",
+    "value": 1815,
+    "age": 23.9,
+    "trend": "red:5",
+    "superflexValue": 1588
   },
   {
     "name": "Gus Edwards",
     "team": "LAC",
-    "positionRank": "RB6629.6 y.o.Tier 20",
+    "positionRank": "RB6629.6 y.o.Tier 19",
     "position": "RB",
     "value": 1804,
     "age": 29.6,
     "trend": "green:47",
-    "superflexValue": 1673
+    "superflexValue": 1676
   },
   {
     "name": "Jalin Hyatt",
     "team": "NYG",
-    "positionRank": "WR9723.2 y.o.Tier 20",
+    "positionRank": "WR9723.2 y.o.Tier 19",
     "position": "WR",
     "value": 1795,
     "age": 23.2,
     "trend": "green:19",
-    "superflexValue": 1565
-  },
-  {
-    "name": "Tutu Atwell",
-    "team": "LAR",
-    "positionRank": "WR9825.2 y.o.Tier 19",
-    "position": "WR",
-    "value": 1790,
-    "age": 25.2,
-    "trend": "red:24",
-    "superflexValue": 1580
+    "superflexValue": 1562
   },
   {
     "name": "Antonio Gibson",
     "team": "NEP",
     "positionRank": "RB6726.4 y.o.Tier 19",
     "position": "RB",
-    "value": 1788,
+    "value": 1791,
     "age": 26.4,
-    "trend": "red:17",
+    "trend": "red:16",
     "superflexValue": 1492
+  },
+  {
+    "name": "Tutu Atwell",
+    "team": "LAR",
+    "positionRank": "WR9825.2 y.o.Tier 19",
+    "position": "WR",
+    "value": 1784,
+    "age": 25.2,
+    "trend": "red:25",
+    "superflexValue": 1577
+  },
+  {
+    "name": "Jonathan Mingo",
+    "team": "DAL",
+    "positionRank": "WR9923.6 y.o.Tier 19",
+    "position": "WR",
+    "value": 1769,
+    "age": 23.6,
+    "trend": "green:3",
+    "superflexValue": 1489
   },
   {
     "name": "Russell Wilson",
@@ -2526,18 +2536,8 @@
     "position": "QB",
     "value": 1768,
     "age": 36,
-    "trend": "green:46",
-    "superflexValue": 2735
-  },
-  {
-    "name": "Jonathan Mingo",
-    "team": "DAL",
-    "positionRank": "WR9923.6 y.o.Tier 19",
-    "position": "WR",
-    "value": 1766,
-    "age": 23.6,
-    "trend": "green:2",
-    "superflexValue": 1489
+    "trend": "green:45",
+    "superflexValue": 2739
   },
   {
     "name": "2025 Early 4thFA",
@@ -2547,7 +2547,7 @@
     "value": 1750,
     "age": 0,
     "trend": "red:2",
-    "superflexValue": 1523
+    "superflexValue": 1520
   },
   {
     "name": "Will Levis",
@@ -2557,17 +2557,17 @@
     "value": 1749,
     "age": 25.4,
     "trend": "green:7",
-    "superflexValue": 2684
+    "superflexValue": 2681
   },
   {
     "name": "Cade StoverR",
     "team": "HOU",
     "positionRank": "TE3324.5 y.o.Tier 19",
     "position": "TE",
-    "value": 1748,
+    "value": 1745,
     "age": 24.5,
     "trend": "green:15",
-    "superflexValue": 1592
+    "superflexValue": 1589
   },
   {
     "name": "Taysom Hill",
@@ -2584,10 +2584,10 @@
     "team": "WAS",
     "positionRank": "TE3434.1 y.o.Tier 19",
     "position": "TE",
-    "value": 1721,
+    "value": 1724,
     "age": 34.1,
     "trend": "red:2",
-    "superflexValue": 1583
+    "superflexValue": 1584
   },
   {
     "name": "Noah Brown",
@@ -2597,27 +2597,27 @@
     "value": 1716,
     "age": 27.4,
     "trend": "green:19",
-    "superflexValue": 1578
+    "superflexValue": 1575
   },
   {
     "name": "Chigoziem Okonkwo",
     "team": "TEN",
     "positionRank": "TE3525.2 y.o.Tier 19",
     "position": "TE",
-    "value": 1711,
+    "value": 1714,
     "age": 25.2,
-    "trend": "green:3",
-    "superflexValue": 1591
+    "trend": "green:2",
+    "superflexValue": 1595
   },
   {
     "name": "Ray-Ray McCloud",
     "team": "ATL",
     "positionRank": "WR10128.1 y.o.Tier 19",
     "position": "WR",
-    "value": 1709,
+    "value": 1714,
     "age": 28.1,
-    "trend": "red:3",
-    "superflexValue": 1466
+    "trend": "red:2",
+    "superflexValue": 1469
   },
   {
     "name": "Bub MeansR",
@@ -2627,27 +2627,27 @@
     "value": 1699,
     "age": 23.9,
     "trend": "red:25",
-    "superflexValue": 1428
+    "superflexValue": 1431
   },
   {
     "name": "Jahan Dotson",
     "team": "PHI",
     "positionRank": "WR10324.7 y.o.Tier 19",
     "position": "WR",
-    "value": 1692,
+    "value": 1686,
     "age": 24.7,
     "trend": "green:18",
-    "superflexValue": 1452
+    "superflexValue": 1449
   },
   {
     "name": "Zamir White",
     "team": "LVR",
     "positionRank": "RB6825.2 y.o.Tier 19",
     "position": "RB",
-    "value": 1678,
+    "value": 1681,
     "age": 25.2,
     "trend": "red:13",
-    "superflexValue": 1506
+    "superflexValue": 1509
   },
   {
     "name": "Derek Carr",
@@ -2657,7 +2657,7 @@
     "value": 1637,
     "age": 33.7,
     "trend": "red:30",
-    "superflexValue": 2283
+    "superflexValue": 2281
   },
   {
     "name": "Dameon Pierce",
@@ -2667,27 +2667,27 @@
     "value": 1632,
     "age": 24.8,
     "trend": "red:13",
-    "superflexValue": 1410
+    "superflexValue": 1407
   },
   {
     "name": "Jacob CowingR",
     "team": "SFO",
     "positionRank": "WR10423.8 y.o.Tier 19",
     "position": "WR",
-    "value": 1631,
+    "value": 1628,
     "age": 23.8,
     "trend": "red:21",
-    "superflexValue": 1360
+    "superflexValue": 1363
   },
   {
-    "name": "Raheem Mostert",
-    "team": "MIA",
-    "positionRank": "RB7032.6 y.o.Tier 19",
-    "position": "RB",
-    "value": 1630,
-    "age": 32.6,
-    "trend": "red:58",
-    "superflexValue": 1293
+    "name": "2025 Mid 4thFA",
+    "team": "",
+    "positionRank": "PICKTier 19",
+    "position": "PI",
+    "value": 1626,
+    "age": 0,
+    "trend": "green:2",
+    "superflexValue": 1470
   },
   {
     "name": "Darnell Washington",
@@ -2697,17 +2697,17 @@
     "value": 1623,
     "age": 23.3,
     "trend": "red:1",
-    "superflexValue": 1490
+    "superflexValue": 1493
   },
   {
-    "name": "2025 Mid 4thFA",
-    "team": "",
-    "positionRank": "PICKTier 19",
-    "position": "PI",
+    "name": "Raheem Mostert",
+    "team": "MIA",
+    "positionRank": "RB7032.6 y.o.Tier 19",
+    "position": "RB",
     "value": 1623,
-    "age": 0,
-    "trend": "green:1",
-    "superflexValue": 1470
+    "age": 32.6,
+    "trend": "red:59",
+    "superflexValue": 1287
   },
   {
     "name": "Colby Parkinson",
@@ -2717,27 +2717,17 @@
     "value": 1622,
     "age": 25.9,
     "trend": "red:39",
-    "superflexValue": 1442
+    "superflexValue": 1439
   },
   {
     "name": "Xavier Hutchinson",
     "team": "HOU",
     "positionRank": "WR10524.5 y.o.Tier 19",
     "position": "WR",
-    "value": 1595,
+    "value": 1592,
     "age": 24.5,
     "trend": "red:12",
-    "superflexValue": 1390
-  },
-  {
-    "name": "2026 Early 4thFA",
-    "team": "",
-    "positionRank": "PICKTier 19",
-    "position": "PI",
-    "value": 1590,
-    "age": 0,
-    "trend": "red:14",
-    "superflexValue": 1427
+    "superflexValue": 1384
   },
   {
     "name": "Dawson Knox",
@@ -2746,68 +2736,78 @@
     "position": "TE",
     "value": 1589,
     "age": 28,
-    "trend": "green:5",
+    "trend": "green:6",
     "superflexValue": 1503
   },
   {
-    "name": "Curtis Samuel",
-    "team": "BUF",
-    "positionRank": "WR10628.3 y.o.Tier 19",
-    "position": "WR",
-    "value": 1580,
-    "age": 28.3,
-    "trend": "green:5",
-    "superflexValue": 1485
+    "name": "2026 Early 4thFA",
+    "team": "",
+    "positionRank": "PICKTier 19",
+    "position": "PI",
+    "value": 1588,
+    "age": 0,
+    "trend": "red:15",
+    "superflexValue": 1427
   },
   {
     "name": "Demarcus Robinson",
     "team": "LAR",
-    "positionRank": "WR10730.2 y.o.Tier 19",
+    "positionRank": "WR10630.2 y.o.Tier 19",
     "position": "WR",
     "value": 1577,
     "age": 30.2,
-    "trend": "green:16",
-    "superflexValue": 1391
+    "trend": "green:17",
+    "superflexValue": 1388
   },
   {
     "name": "Luke Schoonmaker",
     "team": "DAL",
     "positionRank": "TE3926.2 y.o.Tier 19",
     "position": "TE",
-    "value": 1569,
+    "value": 1576,
     "age": 26.2,
-    "trend": "green:41",
-    "superflexValue": 1573
+    "trend": "green:42",
+    "superflexValue": 1579
+  },
+  {
+    "name": "Curtis Samuel",
+    "team": "BUF",
+    "positionRank": "WR10728.3 y.o.Tier 19",
+    "position": "WR",
+    "value": 1574,
+    "age": 28.3,
+    "trend": "green:3",
+    "superflexValue": 1476
   },
   {
     "name": "Ty Chandler",
     "team": "MIN",
     "positionRank": "RB7126.6 y.o.Tier 19",
     "position": "RB",
-    "value": 1562,
+    "value": 1559,
     "age": 26.6,
     "trend": "red:48",
-    "superflexValue": 1300
+    "superflexValue": 1304
   },
   {
     "name": "Greg Dortch",
     "team": "ARI",
     "positionRank": "WR10826.5 y.o.Tier 19",
     "position": "WR",
-    "value": 1551,
+    "value": 1554,
     "age": 26.5,
     "trend": "red:42",
-    "superflexValue": 1323
+    "superflexValue": 1326
   },
   {
     "name": "Kenneth Gainwell",
     "team": "PHI",
     "positionRank": "RB7225.7 y.o.Tier 19",
     "position": "RB",
-    "value": 1532,
+    "value": 1538,
     "age": 25.7,
     "trend": "green:21",
-    "superflexValue": 1343
+    "superflexValue": 1349
   },
   {
     "name": "Juwan Johnson",
@@ -2817,27 +2817,27 @@
     "value": 1513,
     "age": 28.2,
     "trend": "green:7",
-    "superflexValue": 1400
+    "superflexValue": 1406
   },
   {
     "name": "Rondale Moore",
     "team": "ATL",
     "positionRank": "WR10924.5 y.o.Tier 19",
     "position": "WR",
-    "value": 1508,
+    "value": 1511,
     "age": 24.5,
     "trend": "green:2",
-    "superflexValue": 1363
+    "superflexValue": 1366
   },
   {
     "name": "Emari Demercado",
     "team": "ARI",
     "positionRank": "RB7325.9 y.o.Tier 19",
     "position": "RB",
-    "value": 1503,
+    "value": 1500,
     "age": 25.9,
     "trend": "green:24",
-    "superflexValue": 1290
+    "superflexValue": 1287
   },
   {
     "name": "2025 Late 4thFA",
@@ -2857,27 +2857,27 @@
     "value": 1494,
     "age": 30.9,
     "trend": "green:23",
-    "superflexValue": 2248
+    "superflexValue": 2246
   },
   {
     "name": "2026 Mid 4thFA",
     "team": "",
     "positionRank": "PICKTier 19",
     "position": "PI",
-    "value": 1493,
+    "value": 1490,
     "age": 0,
     "trend": "green:6",
-    "superflexValue": 1356
+    "superflexValue": 1350
   },
   {
     "name": "Mike Williams",
     "team": "PIT",
     "positionRank": "WR11030.2 y.o.Tier 19",
     "position": "WR",
-    "value": 1486,
+    "value": 1483,
     "age": 30.2,
     "trend": "green:22",
-    "superflexValue": 1335
+    "superflexValue": 1326
   },
   {
     "name": "2027 Early 4thFA",
@@ -2887,7 +2887,7 @@
     "value": 1450,
     "age": 0,
     "trend": "green:6",
-    "superflexValue": 1313
+    "superflexValue": 1312
   },
   {
     "name": "AJ BarnerR",
@@ -2897,17 +2897,17 @@
     "value": 1445,
     "age": 22.6,
     "trend": "green:51",
-    "superflexValue": 1294
+    "superflexValue": 1300
   },
   {
     "name": "JuJu Smith-Schuster",
     "team": "KCC",
     "positionRank": "WR11128.0 y.o.Tier 19",
     "position": "WR",
-    "value": 1443,
+    "value": 1437,
     "age": 28,
     "trend": "red:26",
-    "superflexValue": 1271
+    "superflexValue": 1265
   },
   {
     "name": "Tyler Goodson",
@@ -2924,20 +2924,20 @@
     "team": "WAS",
     "positionRank": "WR11225.1 y.o.Tier 19",
     "position": "WR",
-    "value": 1423,
+    "value": 1420,
     "age": 25.1,
     "trend": "red:15",
-    "superflexValue": 1198
+    "superflexValue": 1195
   },
   {
     "name": "Carson SteeleR",
     "team": "KCC",
     "positionRank": "RB7522.1 y.o.Tier 19",
     "position": "RB",
-    "value": 1412,
+    "value": 1414,
     "age": 22.1,
     "trend": "red:21",
-    "superflexValue": 1215
+    "superflexValue": 1212
   },
   {
     "name": "Spencer RattlerR",
@@ -2947,17 +2947,27 @@
     "value": 1403,
     "age": 24.2,
     "trend": "red:19",
-    "superflexValue": 1685
+    "superflexValue": 1689
+  },
+  {
+    "name": "Tyler Conklin",
+    "team": "NYJ",
+    "positionRank": "TE4229.3 y.o.Tier 19",
+    "position": "TE",
+    "value": 1392,
+    "age": 29.3,
+    "trend": "red:45",
+    "superflexValue": 1215
   },
   {
     "name": "Devontez WalkerR",
     "team": "BAL",
     "positionRank": "WR11323.4 y.o.Tier 19",
     "position": "WR",
-    "value": 1399,
+    "value": 1390,
     "age": 23.4,
-    "trend": "red:5",
-    "superflexValue": 1165
+    "trend": "red:6",
+    "superflexValue": 1156
   },
   {
     "name": "Dylan LaubeR",
@@ -2967,37 +2977,27 @@
     "value": 1389,
     "age": 25,
     "trend": "green:3",
-    "superflexValue": 1256
-  },
-  {
-    "name": "Tyler Conklin",
-    "team": "NYJ",
-    "positionRank": "TE4229.3 y.o.Tier 19",
-    "position": "TE",
-    "value": 1389,
-    "age": 29.3,
-    "trend": "red:46",
-    "superflexValue": 1212
+    "superflexValue": 1259
   },
   {
     "name": "Allen Lazard",
     "team": "NYJ",
     "positionRank": "WR11429.0 y.o.Tier 19",
     "position": "WR",
-    "value": 1382,
+    "value": 1378,
     "age": 29,
     "trend": "red:75",
-    "superflexValue": 1093
+    "superflexValue": 1087
   },
   {
     "name": "Kendrick Bourne",
     "team": "NEP",
     "positionRank": "WR11529.3 y.o.Tier 19",
     "position": "WR",
-    "value": 1364,
+    "value": 1370,
     "age": 29.3,
     "trend": "green:4",
-    "superflexValue": 1277
+    "superflexValue": 1283
   },
   {
     "name": "2027 Mid 4thFA",
@@ -3006,38 +3006,38 @@
     "position": "PI",
     "value": 1351,
     "age": 0,
-    "trend": "red:4",
-    "superflexValue": 1159
+    "trend": "red:3",
+    "superflexValue": 1163
   },
   {
     "name": "Aaron Rodgers",
     "team": "NYJ",
     "positionRank": "QB3541.0 y.o.Tier 20",
     "position": "QB",
-    "value": 1342,
+    "value": 1345,
     "age": 41,
     "trend": "red:47",
-    "superflexValue": 1487
-  },
-  {
-    "name": "Brenden RiceR",
-    "team": "LAC",
-    "positionRank": "WR11622.7 y.o.Tier 20",
-    "position": "WR",
-    "value": 1339,
-    "age": 22.7,
-    "trend": "red:18",
-    "superflexValue": 1156
+    "superflexValue": 1488
   },
   {
     "name": "Trey Sermon",
     "team": "IND",
     "positionRank": "RB7725.8 y.o.Tier 20",
     "position": "RB",
-    "value": 1339,
+    "value": 1342,
     "age": 25.8,
     "trend": "red:28",
-    "superflexValue": 1078
+    "superflexValue": 1075
+  },
+  {
+    "name": "Brenden RiceR",
+    "team": "LAC",
+    "positionRank": "WR11622.7 y.o.Tier 20",
+    "position": "WR",
+    "value": 1336,
+    "age": 22.7,
+    "trend": "red:18",
+    "superflexValue": 1156
   },
   {
     "name": "Treylon Burks",
@@ -3046,8 +3046,8 @@
     "position": "WR",
     "value": 1327,
     "age": 24.7,
-    "trend": "green:1",
-    "superflexValue": 1160
+    "trend": "green:2",
+    "superflexValue": 1157
   },
   {
     "name": "Elijah Mitchell",
@@ -3056,18 +3056,8 @@
     "position": "RB",
     "value": 1319,
     "age": 26.6,
-    "trend": "red:9",
-    "superflexValue": 1129
-  },
-  {
-    "name": "Bo Melton",
-    "team": "GBP",
-    "positionRank": "WR11825.5 y.o.Tier 20",
-    "position": "WR",
-    "value": 1294,
-    "age": 25.5,
-    "trend": "red:17",
-    "superflexValue": 1150
+    "trend": "red:7",
+    "superflexValue": 1132
   },
   {
     "name": "Rasheen AliR",
@@ -3076,8 +3066,18 @@
     "position": "RB",
     "value": 1292,
     "age": 23.8,
-    "trend": "red:20",
-    "superflexValue": 1111
+    "trend": "red:17",
+    "superflexValue": 1114
+  },
+  {
+    "name": "Bo Melton",
+    "team": "GBP",
+    "positionRank": "WR11825.5 y.o.Tier 20",
+    "position": "WR",
+    "value": 1291,
+    "age": 25.5,
+    "trend": "red:17",
+    "superflexValue": 1159
   },
   {
     "name": "2026 Late 4thFA",
@@ -3096,8 +3096,8 @@
     "position": "WR",
     "value": 1269,
     "age": 24.2,
-    "trend": "red:5",
-    "superflexValue": 1073
+    "trend": "red:2",
+    "superflexValue": 1076
   },
   {
     "name": "Adam Thielen",
@@ -3107,7 +3107,7 @@
     "value": 1267,
     "age": 34.3,
     "trend": "green:14",
-    "superflexValue": 1232
+    "superflexValue": 1241
   },
   {
     "name": "KaVontae Turpin",
@@ -3116,8 +3116,8 @@
     "position": "WR",
     "value": 1264,
     "age": 28.3,
-    "trend": "green:38",
-    "superflexValue": 1207
+    "trend": "green:40",
+    "superflexValue": 1210
   },
   {
     "name": "David Moore",
@@ -3127,7 +3127,7 @@
     "value": 1256,
     "age": 29.9,
     "trend": "green:157",
-    "superflexValue": 1140
+    "superflexValue": 1146
   },
   {
     "name": "Johnny WilsonR",
@@ -3136,7 +3136,7 @@
     "position": "WR",
     "value": 1233,
     "age": 23.7,
-    "trend": "green:17",
+    "trend": "green:13",
     "superflexValue": 1121
   },
   {
@@ -3146,8 +3146,8 @@
     "position": "WR",
     "value": 1233,
     "age": 26.6,
-    "trend": "green:6",
-    "superflexValue": 1108
+    "trend": "green:3",
+    "superflexValue": 1111
   },
   {
     "name": "Davis Allen",
@@ -3156,18 +3156,18 @@
     "position": "TE",
     "value": 1230,
     "age": 23.8,
-    "trend": "green:67",
-    "superflexValue": 1169
+    "trend": "green:66",
+    "superflexValue": 1154
   },
   {
     "name": "Xavier Gipson",
     "team": "NYJ",
     "positionRank": "WR12523.7 y.o.Tier 20",
     "position": "WR",
-    "value": 1222,
+    "value": 1225,
     "age": 23.7,
-    "trend": "red:14",
-    "superflexValue": 1117
+    "trend": "red:15",
+    "superflexValue": 1111
   },
   {
     "name": "Malik Willis",
@@ -3176,7 +3176,7 @@
     "position": "QB",
     "value": 1215,
     "age": 25.5,
-    "trend": "red:3",
+    "trend": "red:5",
     "superflexValue": 1557
   },
   {
@@ -3187,7 +3187,7 @@
     "value": 1213,
     "age": 30.2,
     "trend": "green:124",
-    "superflexValue": 1228
+    "superflexValue": 1231
   },
   {
     "name": "Greg Dulcich",
@@ -3196,8 +3196,8 @@
     "position": "TE",
     "value": 1194,
     "age": 24.7,
-    "trend": "red:29",
-    "superflexValue": 996
+    "trend": "red:32",
+    "superflexValue": 999
   },
   {
     "name": "Ty Johnson",
@@ -3206,8 +3206,8 @@
     "position": "RB",
     "value": 1186,
     "age": 27.2,
-    "trend": "red:15",
-    "superflexValue": 1092
+    "trend": "red:12",
+    "superflexValue": 1095
   },
   {
     "name": "Tyler Johnson",
@@ -3216,8 +3216,8 @@
     "position": "WR",
     "value": 1184,
     "age": 26.3,
-    "trend": "red:22",
-    "superflexValue": 1069
+    "trend": "red:21",
+    "superflexValue": 1066
   },
   {
     "name": "Chris Brooks",
@@ -3226,7 +3226,7 @@
     "position": "RB",
     "value": 1180,
     "age": 24.9,
-    "trend": "green:165",
+    "trend": "green:159",
     "superflexValue": 999
   },
   {
@@ -3236,7 +3236,7 @@
     "position": "WR",
     "value": 1175,
     "age": 31.2,
-    "trend": "red:11",
+    "trend": "red:10",
     "superflexValue": 1066
   },
   {
@@ -3246,8 +3246,8 @@
     "position": "WR",
     "value": 1163,
     "age": 25.6,
-    "trend": "green:88",
-    "superflexValue": 986
+    "trend": "green:90",
+    "superflexValue": 983
   },
   {
     "name": "2027 Late 4thFA",
@@ -3256,8 +3256,8 @@
     "position": "PI",
     "value": 1153,
     "age": 0,
-    "trend": "green:8",
-    "superflexValue": 980
+    "trend": "green:6",
+    "superflexValue": 975
   },
   {
     "name": "Sione VakiR",
@@ -3266,7 +3266,7 @@
     "position": "RB",
     "value": 1151,
     "age": 23.3,
-    "trend": "red:1",
+    "trend": "red:6",
     "superflexValue": 1011
   },
   {
@@ -3284,9 +3284,9 @@
     "team": "BUF",
     "positionRank": "RB8322.7 y.o.Tier 20",
     "position": "RB",
-    "value": 1124,
+    "value": 1122,
     "age": 22.7,
-    "trend": "red:12",
+    "trend": "red:11",
     "superflexValue": 896
   },
   {
@@ -3296,8 +3296,8 @@
     "position": "WR",
     "value": 1092,
     "age": 26.7,
-    "trend": "red:1",
-    "superflexValue": 967
+    "trend": "green:4",
+    "superflexValue": 970
   },
   {
     "name": "Daniel Jones",
@@ -3306,8 +3306,8 @@
     "position": "QB",
     "value": 1091,
     "age": 27.5,
-    "trend": "red:90",
-    "superflexValue": 1604
+    "trend": "red:92",
+    "superflexValue": 1610
   },
   {
     "name": "Elijah Higgins",
@@ -3317,7 +3317,7 @@
     "value": 1086,
     "age": 24.1,
     "trend": "green:7",
-    "superflexValue": 1068
+    "superflexValue": 1074
   },
   {
     "name": "Chris Rodriguez",
@@ -3336,7 +3336,7 @@
     "position": "RB",
     "value": 1082,
     "age": 24.8,
-    "trend": "red:20",
+    "trend": "red:18",
     "superflexValue": 916
   },
   {
@@ -3347,16 +3347,16 @@
     "value": 1076,
     "age": 31.5,
     "trend": "green:14",
-    "superflexValue": 1045
+    "superflexValue": 1048
   },
   {
     "name": "Jared WileyR",
     "team": "KCC",
     "positionRank": "TE4724.1 y.o.Tier 20",
     "position": "TE",
-    "value": 1069,
+    "value": 1072,
     "age": 24.1,
-    "trend": "red:18",
+    "trend": "red:17",
     "superflexValue": 994
   },
   {
@@ -3366,18 +3366,8 @@
     "position": "WR",
     "value": 1055,
     "age": 23.6,
-    "trend": "green:21",
-    "superflexValue": 998
-  },
-  {
-    "name": "Daniel Bellinger",
-    "team": "NYG",
-    "positionRank": "TE4824.2 y.o.Tier 20",
-    "position": "TE",
-    "value": 1051,
-    "age": 24.2,
-    "trend": "red:26",
-    "superflexValue": 964
+    "trend": "green:28",
+    "superflexValue": 995
   },
   {
     "name": "Isaiah DavisR",
@@ -3386,28 +3376,38 @@
     "position": "RB",
     "value": 1050,
     "age": 22.8,
-    "trend": "green:2",
-    "superflexValue": 975
+    "trend": "green:3",
+    "superflexValue": 978
   },
   {
     "name": "Tommy Tremble",
     "team": "CAR",
-    "positionRank": "TE4924.5 y.o.Tier 20",
+    "positionRank": "TE4824.5 y.o.Tier 20",
     "position": "TE",
     "value": 1049,
     "age": 24.5,
-    "trend": "green:12",
+    "trend": "green:13",
     "superflexValue": 950
+  },
+  {
+    "name": "Daniel Bellinger",
+    "team": "NYG",
+    "positionRank": "TE4924.2 y.o.Tier 20",
+    "position": "TE",
+    "value": 1048,
+    "age": 24.2,
+    "trend": "red:28",
+    "superflexValue": 967
   },
   {
     "name": "Eric Gray",
     "team": "NYG",
     "positionRank": "RB8825.1 y.o.Tier 20",
     "position": "RB",
-    "value": 1031,
+    "value": 1034,
     "age": 25.1,
-    "trend": "red:25",
-    "superflexValue": 870
+    "trend": "red:21",
+    "superflexValue": 873
   },
   {
     "name": "Rakim Jarrett",
@@ -3416,8 +3416,8 @@
     "position": "WR",
     "value": 1029,
     "age": 23.9,
-    "trend": "green:37",
-    "superflexValue": 860
+    "trend": "green:33",
+    "superflexValue": 863
   },
   {
     "name": "Brock Wright",
@@ -3434,10 +3434,10 @@
     "team": "DEN",
     "positionRank": "WR13329.8 y.o.Tier 20",
     "position": "WR",
-    "value": 1015,
+    "value": 1012,
     "age": 29.8,
-    "trend": "red:11",
-    "superflexValue": 908
+    "trend": "red:13",
+    "superflexValue": 912
   },
   {
     "name": "Jamari ThrashR",
@@ -3446,8 +3446,8 @@
     "position": "WR",
     "value": 1011,
     "age": 24,
-    "trend": "green:9",
-    "superflexValue": 898
+    "trend": "green:7",
+    "superflexValue": 895
   },
   {
     "name": "Foster Moreau",
@@ -3456,7 +3456,7 @@
     "position": "TE",
     "value": 1002,
     "age": 27.6,
-    "trend": "red:10",
+    "trend": "red:8",
     "superflexValue": 911
   },
   {
@@ -3466,7 +3466,7 @@
     "position": "WR",
     "value": 992,
     "age": 26.3,
-    "trend": "green:1",
+    "trend": "red:1",
     "superflexValue": 881
   },
   {
@@ -3476,7 +3476,7 @@
     "position": "WR",
     "value": 987,
     "age": 30,
-    "trend": "red:18",
+    "trend": "red:13",
     "superflexValue": 925
   },
   {
@@ -3486,7 +3486,7 @@
     "position": "WR",
     "value": 984,
     "age": 27.5,
-    "trend": "green:3",
+    "trend": "red:",
     "superflexValue": 845
   },
   {
@@ -3496,27 +3496,27 @@
     "position": "RB",
     "value": 974,
     "age": 26.6,
-    "trend": "red:5",
+    "trend": "red:6",
     "superflexValue": 903
   },
   {
-    "name": "Israel Abanikanda",
-    "team": "NYJ",
-    "positionRank": "RB9022.2 y.o.Tier 20",
+    "name": "AJ Dillon",
+    "team": "GBP",
+    "positionRank": "RB9026.6 y.o.Tier 20",
     "position": "RB",
     "value": 974,
-    "age": 22.2,
-    "trend": "green:11",
-    "superflexValue": 844
+    "age": 26.6,
+    "trend": "red:6",
+    "superflexValue": 903
   },
   {
     "name": "Hassan Haskins",
     "team": "LAC",
     "positionRank": "RB9125.0 y.o.Tier 20",
     "position": "RB",
-    "value": 973,
+    "value": 970,
     "age": 25,
-    "trend": "green:39",
+    "trend": "green:41",
     "superflexValue": 910
   },
   {
@@ -3524,10 +3524,10 @@
     "team": "ATL",
     "positionRank": "RB9222.4 y.o.Tier 20",
     "position": "RB",
-    "value": 960,
+    "value": 966,
     "age": 22.4,
-    "trend": "green:5",
-    "superflexValue": 806
+    "trend": "green:2",
+    "superflexValue": 809
   },
   {
     "name": "Deuce Vaughn",
@@ -3536,7 +3536,7 @@
     "position": "RB",
     "value": 959,
     "age": 23.1,
-    "trend": "red:9",
+    "trend": "red:10",
     "superflexValue": 891
   },
   {
@@ -3546,8 +3546,8 @@
     "position": "RB",
     "value": 947,
     "age": 26,
-    "trend": "red:29",
-    "superflexValue": 805
+    "trend": "red:28",
+    "superflexValue": 802
   },
   {
     "name": "Julius Chestnut",
@@ -3556,37 +3556,37 @@
     "position": "RB",
     "value": 943,
     "age": 24.1,
-    "trend": "green:29",
+    "trend": "green:34",
     "superflexValue": 796
-  },
-  {
-    "name": "Jelani Woods",
-    "team": "IND",
-    "positionRank": "TE5226.2 y.o.Tier 20",
-    "position": "TE",
-    "value": 936,
-    "age": 26.2,
-    "trend": "green:4",
-    "superflexValue": 848
   },
   {
     "name": "Olamide Zaccheaus",
     "team": "WAS",
     "positionRank": "WR13827.4 y.o.Tier 20",
     "position": "WR",
-    "value": 932,
+    "value": 938,
     "age": 27.4,
     "trend": "red:1",
     "superflexValue": 789
+  },
+  {
+    "name": "Jelani Woods",
+    "team": "IND",
+    "positionRank": "TE5226.2 y.o.Tier 20",
+    "position": "TE",
+    "value": 933,
+    "age": 26.2,
+    "trend": "green:1",
+    "superflexValue": 848
   },
   {
     "name": "Tim Patrick",
     "team": "DET",
     "positionRank": "WR13931.0 y.o.Tier 20",
     "position": "WR",
-    "value": 925,
+    "value": 928,
     "age": 31,
-    "trend": "green:5",
+    "trend": "green:4",
     "superflexValue": 850
   },
   {
@@ -3596,7 +3596,7 @@
     "position": "WR",
     "value": 921,
     "age": 24,
-    "trend": "red:13",
+    "trend": "red:14",
     "superflexValue": 797
   },
   {
@@ -3606,7 +3606,7 @@
     "position": "WR",
     "value": 920,
     "age": 31.8,
-    "trend": "red:31",
+    "trend": "red:26",
     "superflexValue": 884
   },
   {
@@ -3624,10 +3624,10 @@
     "team": "LAR",
     "positionRank": "TE5331.9 y.o.Tier 20",
     "position": "TE",
-    "value": 918,
+    "value": 912,
     "age": 31.9,
-    "trend": "red:13",
-    "superflexValue": 873
+    "trend": "red:16",
+    "superflexValue": 867
   },
   {
     "name": "Van Jefferson",
@@ -3636,7 +3636,7 @@
     "position": "WR",
     "value": 910,
     "age": 28.4,
-    "trend": "red:22",
+    "trend": "red:21",
     "superflexValue": 808
   },
   {
@@ -3646,17 +3646,17 @@
     "position": "QB",
     "value": 904,
     "age": 24.2,
-    "trend": "red:14",
-    "superflexValue": 1446
+    "trend": "red:15",
+    "superflexValue": 1443
   },
   {
     "name": "Clyde Edwards-Helaire",
     "team": "KCC",
     "positionRank": "RB9625.6 y.o.Tier 20",
     "position": "RB",
-    "value": 901,
+    "value": 904,
     "age": 25.6,
-    "trend": "red:39",
+    "trend": "red:41",
     "superflexValue": 774
   },
   {
@@ -3664,30 +3664,30 @@
     "team": "KCC",
     "positionRank": "RB9729.2 y.o.Tier 20",
     "position": "RB",
-    "value": 896,
+    "value": 899,
     "age": 29.2,
-    "trend": "red:8",
+    "trend": "red:7",
     "superflexValue": 802
-  },
-  {
-    "name": "Justin Watson",
-    "team": "KCC",
-    "positionRank": "WR14329.7 y.o.Tier 20",
-    "position": "WR",
-    "value": 890,
-    "age": 29.7,
-    "trend": "green:6",
-    "superflexValue": 790
   },
   {
     "name": "Tyler Scott",
     "team": "CHI",
-    "positionRank": "WR14423.1 y.o.Tier 20",
+    "positionRank": "WR14323.1 y.o.Tier 20",
     "position": "WR",
-    "value": 885,
+    "value": 888,
     "age": 23.1,
-    "trend": "green:7",
+    "trend": "green:9",
     "superflexValue": 766
+  },
+  {
+    "name": "Justin Watson",
+    "team": "KCC",
+    "positionRank": "WR14429.7 y.o.Tier 20",
+    "position": "WR",
+    "value": 887,
+    "age": 29.7,
+    "trend": "green:4",
+    "superflexValue": 790
   },
   {
     "name": "D'Ernest Johnson",
@@ -3696,7 +3696,7 @@
     "position": "RB",
     "value": 885,
     "age": 28.8,
-    "trend": "red:40",
+    "trend": "red:42",
     "superflexValue": 760
   },
   {
@@ -3704,9 +3704,9 @@
     "team": "LAC",
     "positionRank": "WR14528.2 y.o.Tier 20",
     "position": "WR",
-    "value": 883,
+    "value": 880,
     "age": 28.2,
-    "trend": "red:11",
+    "trend": "red:10",
     "superflexValue": 802
   },
   {
@@ -3714,19 +3714,19 @@
     "team": "PHI",
     "positionRank": "WR14623.5 y.o.Tier 20",
     "position": "WR",
-    "value": 882,
+    "value": 873,
     "age": 23.5,
-    "trend": "red:3",
-    "superflexValue": 768
+    "trend": "green:4",
+    "superflexValue": 765
   },
   {
     "name": "Zay Jones",
     "team": "ARI",
     "positionRank": "WR14729.7 y.o.Tier 20",
     "position": "WR",
-    "value": 868,
+    "value": 865,
     "age": 29.7,
-    "trend": "red:25",
+    "trend": "red:24",
     "superflexValue": 828
   },
   {
@@ -3736,8 +3736,8 @@
     "position": "QB",
     "value": 846,
     "age": 26.2,
-    "trend": "red:5",
-    "superflexValue": 1445
+    "trend": "red:4",
+    "superflexValue": 1454
   },
   {
     "name": "Miles Sanders",
@@ -3746,7 +3746,7 @@
     "position": "RB",
     "value": 837,
     "age": 27.6,
-    "trend": "red:51",
+    "trend": "red:54",
     "superflexValue": 706
   },
   {
@@ -3756,7 +3756,7 @@
     "position": "TE",
     "value": 836,
     "age": 24.3,
-    "trend": "red:7",
+    "trend": "red:5",
     "superflexValue": 726
   },
   {
@@ -3764,10 +3764,10 @@
     "team": "NOS",
     "positionRank": "WR14829.0 y.o.Tier 20",
     "position": "WR",
-    "value": 832,
+    "value": 823,
     "age": 29,
-    "trend": "green:6",
-    "superflexValue": 782
+    "trend": "green:5",
+    "superflexValue": 779
   },
   {
     "name": "Hendon Hooker",
@@ -3776,7 +3776,7 @@
     "position": "QB",
     "value": 813,
     "age": 26.9,
-    "trend": "red:6",
+    "trend": "red:4",
     "superflexValue": 1224
   },
   {
@@ -3784,9 +3784,9 @@
     "team": "DEN",
     "positionRank": "TE5527.8 y.o.Tier 20",
     "position": "TE",
-    "value": 809,
+    "value": 812,
     "age": 27.8,
-    "trend": "red:16",
+    "trend": "red:15",
     "superflexValue": 743
   },
   {
@@ -3794,10 +3794,10 @@
     "team": "MIN",
     "positionRank": "TE5627.7 y.o.Tier 20",
     "position": "TE",
-    "value": 804,
+    "value": 811,
     "age": 27.7,
-    "trend": "green:19",
-    "superflexValue": 823
+    "trend": "green:22",
+    "superflexValue": 829
   },
   {
     "name": "Mack Hollins",
@@ -3806,8 +3806,8 @@
     "position": "WR",
     "value": 802,
     "age": 31.2,
-    "trend": "green:6",
-    "superflexValue": 795
+    "trend": "green:5",
+    "superflexValue": 798
   },
   {
     "name": "Isaiah Hodgins",
@@ -3816,7 +3816,7 @@
     "position": "WR",
     "value": 799,
     "age": 26.1,
-    "trend": "green:12",
+    "trend": "green:9",
     "superflexValue": 752
   },
   {
@@ -3830,33 +3830,33 @@
     "superflexValue": 709
   },
   {
+    "name": "Kylen Granson",
+    "team": "IND",
+    "positionRank": "TE5726.7 y.o.Tier 20",
+    "position": "TE",
+    "value": 781,
+    "age": 26.7,
+    "trend": "green:11",
+    "superflexValue": 699
+  },
+  {
     "name": "Lucas Krull",
     "team": "DEN",
     "positionRank": "TE5826.4 y.o.Tier 20",
     "position": "TE",
     "value": 778,
     "age": 26.4,
-    "trend": "green:19",
-    "superflexValue": 756
-  },
-  {
-    "name": "Kylen Granson",
-    "team": "IND",
-    "positionRank": "TE5726.7 y.o.Tier 20",
-    "position": "TE",
-    "value": 778,
-    "age": 26.7,
-    "trend": "green:9",
-    "superflexValue": 699
+    "trend": "green:25",
+    "superflexValue": 760
   },
   {
     "name": "Jaheim BellR",
     "team": "NEP",
     "positionRank": "TE5923.5 y.o.Tier 20",
     "position": "TE",
-    "value": 774,
+    "value": 777,
     "age": 23.5,
-    "trend": "red:1",
+    "trend": "red:",
     "superflexValue": 734
   },
   {
@@ -3864,10 +3864,20 @@
     "team": "CLE",
     "positionRank": "RB10028.6 y.o.Tier 20",
     "position": "RB",
-    "value": 774,
+    "value": 777,
     "age": 28.6,
-    "trend": "red:43",
+    "trend": "red:48",
     "superflexValue": 661
+  },
+  {
+    "name": "DJ Turner",
+    "team": "LVR",
+    "positionRank": "WR15227.9 y.o.Tier 20",
+    "position": "WR",
+    "value": 769,
+    "age": 27.9,
+    "trend": "green:11",
+    "superflexValue": 746
   },
   {
     "name": "Kenny McIntosh",
@@ -3876,18 +3886,8 @@
     "position": "RB",
     "value": 767,
     "age": 24.8,
-    "trend": "red:4",
-    "superflexValue": 673
-  },
-  {
-    "name": "DJ Turner",
-    "team": "LVR",
-    "positionRank": "WR15227.9 y.o.Tier 20",
-    "position": "WR",
-    "value": 766,
-    "age": 27.9,
-    "trend": "green:8",
-    "superflexValue": 746
+    "trend": "red:9",
+    "superflexValue": 670
   },
   {
     "name": "KJ Hamler",
@@ -3896,7 +3896,7 @@
     "position": "WR",
     "value": 754,
     "age": 25.4,
-    "trend": "green:2",
+    "trend": "green:4",
     "superflexValue": 750
   },
   {
@@ -3906,8 +3906,8 @@
     "position": "QB",
     "value": 738,
     "age": 29.2,
-    "trend": "red:18",
-    "superflexValue": 1045
+    "trend": "red:22",
+    "superflexValue": 1048
   },
   {
     "name": "Derius Davis",
@@ -3916,28 +3916,28 @@
     "position": "WR",
     "value": 736,
     "age": 24.2,
-    "trend": "green:4",
+    "trend": "red:",
     "superflexValue": 678
-  },
-  {
-    "name": "Skyy Moore",
-    "team": "KCC",
-    "positionRank": "WR15524.2 y.o.Tier 20",
-    "position": "WR",
-    "value": 730,
-    "age": 24.2,
-    "trend": "red:15",
-    "superflexValue": 692
   },
   {
     "name": "Kalif Raymond",
     "team": "DET",
-    "positionRank": "WR15630.3 y.o.Tier 20",
+    "positionRank": "WR15530.3 y.o.Tier 20",
     "position": "WR",
     "value": 727,
     "age": 30.3,
-    "trend": "red:39",
+    "trend": "red:36",
     "superflexValue": 722
+  },
+  {
+    "name": "Skyy Moore",
+    "team": "KCC",
+    "positionRank": "WR15624.2 y.o.Tier 20",
+    "position": "WR",
+    "value": 727,
+    "age": 24.2,
+    "trend": "red:16",
+    "superflexValue": 692
   },
   {
     "name": "Dorian Thompson-Robinson",
@@ -3946,8 +3946,8 @@
     "position": "QB",
     "value": 722,
     "age": 25,
-    "trend": "red:5",
-    "superflexValue": 971
+    "trend": "red:6",
+    "superflexValue": 965
   },
   {
     "name": "Jordan TravisR",
@@ -3966,17 +3966,17 @@
     "position": "QB",
     "value": 706,
     "age": 24.7,
-    "trend": "red:8",
-    "superflexValue": 975
+    "trend": "red:9",
+    "superflexValue": 981
   },
   {
     "name": "Ronnie Rivers",
     "team": "LAR",
     "positionRank": "RB10225.8 y.o.Tier 20",
     "position": "RB",
-    "value": 698,
+    "value": 701,
     "age": 25.8,
-    "trend": "red:18",
+    "trend": "red:14",
     "superflexValue": 573
   },
   {
@@ -3986,18 +3986,18 @@
     "position": "WR",
     "value": 697,
     "age": 24.8,
-    "trend": "red:23",
+    "trend": "red:25",
     "superflexValue": 587
   },
   {
-    "name": "Kendall MiltonR",
-    "team": "CIN",
-    "positionRank": "RB10322.8 y.o.Tier 20",
-    "position": "RB",
+    "name": "Ryan FlournoyR",
+    "team": "DAL",
+    "positionRank": "WR15825.1 y.o.Tier 20",
+    "position": "WR",
     "value": 695,
-    "age": 22.8,
-    "trend": "green:87",
-    "superflexValue": 591
+    "age": 25.1,
+    "trend": "green:6",
+    "superflexValue": 687
   },
   {
     "name": "Tommy DeVito",
@@ -4007,32 +4007,22 @@
     "value": 694,
     "age": 26.3,
     "trend": "green:112",
-    "superflexValue": 1216
+    "superflexValue": 1207
   },
   {
     "name": "Malik Heath",
     "team": "GBP",
-    "positionRank": "WR15824.8 y.o.Tier 20",
+    "positionRank": "WR15924.8 y.o.Tier 20",
     "position": "WR",
     "value": 693,
     "age": 24.8,
-    "trend": "red:",
+    "trend": "red:2",
     "superflexValue": 676
-  },
-  {
-    "name": "Ryan FlournoyR",
-    "team": "DAL",
-    "positionRank": "WR16025.1 y.o.Tier 20",
-    "position": "WR",
-    "value": 692,
-    "age": 25.1,
-    "trend": "green:4",
-    "superflexValue": 687
   },
   {
     "name": "Terrace Marshall",
     "team": "LVR",
-    "positionRank": "WR15924.5 y.o.Tier 20",
+    "positionRank": "WR16024.5 y.o.Tier 20",
     "position": "WR",
     "value": 692,
     "age": 24.5,
@@ -4046,8 +4036,18 @@
     "position": "TE",
     "value": 691,
     "age": 30.1,
-    "trend": "green:19",
+    "trend": "green:22",
     "superflexValue": 717
+  },
+  {
+    "name": "Kendall MiltonR",
+    "team": "CIN",
+    "positionRank": "RB10322.8 y.o.Tier 20",
+    "position": "RB",
+    "value": 691,
+    "age": 22.8,
+    "trend": "green:84",
+    "superflexValue": 588
   },
   {
     "name": "Drew Lock",
@@ -4056,17 +4056,17 @@
     "position": "QB",
     "value": 690,
     "age": 28.1,
-    "trend": "green:12",
-    "superflexValue": 1141
+    "trend": "green:10",
+    "superflexValue": 1143
   },
   {
     "name": "Nelson Agholor",
     "team": "BAL",
     "positionRank": "WR16131.5 y.o.Tier 20",
     "position": "WR",
-    "value": 672,
+    "value": 666,
     "age": 31.5,
-    "trend": "green:4",
+    "trend": "green:5",
     "superflexValue": 692
   },
   {
@@ -4076,18 +4076,18 @@
     "position": "TE",
     "value": 665,
     "age": 31.3,
-    "trend": "red:20",
-    "superflexValue": 633
+    "trend": "red:23",
+    "superflexValue": 630
   },
   {
     "name": "Chris Evans",
     "team": "CIN",
     "positionRank": "RB10427.2 y.o.Tier 20",
     "position": "RB",
-    "value": 661,
+    "value": 664,
     "age": 27.2,
-    "trend": "red:4",
-    "superflexValue": 601
+    "trend": "red:6",
+    "superflexValue": 604
   },
   {
     "name": "Josh Whyle",
@@ -4096,7 +4096,7 @@
     "position": "TE",
     "value": 649,
     "age": 25.2,
-    "trend": "red:4",
+    "trend": "red:5",
     "superflexValue": 660
   },
   {
@@ -4106,7 +4106,7 @@
     "position": "QB",
     "value": 641,
     "age": 24.6,
-    "trend": "green:13",
+    "trend": "green:11",
     "superflexValue": 970
   },
   {
@@ -4126,18 +4126,8 @@
     "position": "TE",
     "value": 627,
     "age": 25.6,
-    "trend": "green:19",
-    "superflexValue": 553
-  },
-  {
-    "name": "Jamaal Williams",
-    "team": "NOS",
-    "positionRank": "RB10529.7 y.o.Tier 20",
-    "position": "RB",
-    "value": 626,
-    "age": 29.7,
-    "trend": "red:34",
-    "superflexValue": 640
+    "trend": "green:16",
+    "superflexValue": 550
   },
   {
     "name": "Mac Jones",
@@ -4147,16 +4137,26 @@
     "value": 625,
     "age": 26.2,
     "trend": "green:18",
-    "superflexValue": 1242
+    "superflexValue": 1248
+  },
+  {
+    "name": "Jamaal Williams",
+    "team": "NOS",
+    "positionRank": "RB10529.7 y.o.Tier 20",
+    "position": "RB",
+    "value": 623,
+    "age": 29.7,
+    "trend": "red:35",
+    "superflexValue": 640
   },
   {
     "name": "Jalen Reagor",
     "team": "LAC",
     "positionRank": "WR16325.9 y.o.Tier 20",
     "position": "WR",
-    "value": 620,
+    "value": 617,
     "age": 25.9,
-    "trend": "green:42",
+    "trend": "green:45",
     "superflexValue": 561
   },
   {
@@ -4166,18 +4166,18 @@
     "position": "WR",
     "value": 614,
     "age": 27.2,
-    "trend": "green:3",
+    "trend": "green:4",
     "superflexValue": 529
   },
   {
-    "name": "Trayveon Williams",
-    "team": "CIN",
-    "positionRank": "RB10627.1 y.o.Tier 20",
-    "position": "RB",
-    "value": 605,
-    "age": 27.1,
-    "trend": "green:18",
-    "superflexValue": 577
+    "name": "Laviska Shenault",
+    "team": "SEA",
+    "positionRank": "WR16526.2 y.o.Tier 20",
+    "position": "WR",
+    "value": 606,
+    "age": 26.2,
+    "trend": "red:22",
+    "superflexValue": 579
   },
   {
     "name": "Drew Sample",
@@ -4186,18 +4186,8 @@
     "position": "TE",
     "value": 603,
     "age": 28.6,
-    "trend": "green:28",
+    "trend": "green:27",
     "superflexValue": 609
-  },
-  {
-    "name": "Laviska Shenault",
-    "team": "SEA",
-    "positionRank": "WR16526.2 y.o.Tier 20",
-    "position": "WR",
-    "value": 603,
-    "age": 26.2,
-    "trend": "red:25",
-    "superflexValue": 576
   },
   {
     "name": "Charlie Kolar",
@@ -4206,8 +4196,18 @@
     "position": "TE",
     "value": 602,
     "age": 25.8,
-    "trend": "red:21",
+    "trend": "red:24",
     "superflexValue": 655
+  },
+  {
+    "name": "Trayveon Williams",
+    "team": "CIN",
+    "positionRank": "RB10627.1 y.o.Tier 20",
+    "position": "RB",
+    "value": 602,
+    "age": 27.1,
+    "trend": "green:17",
+    "superflexValue": 574
   },
   {
     "name": "Ashton Dulin",
@@ -4216,7 +4216,7 @@
     "position": "WR",
     "value": 600,
     "age": 27.6,
-    "trend": "red:1",
+    "trend": "green:5",
     "superflexValue": 612
   },
   {
@@ -4226,7 +4226,7 @@
     "position": "WR",
     "value": 596,
     "age": 27.3,
-    "trend": "green:5",
+    "trend": "green:1",
     "superflexValue": 491
   },
   {
@@ -4234,60 +4234,60 @@
     "team": "CAR",
     "positionRank": "QB5037.1 y.o.Tier 20",
     "position": "QB",
-    "value": 593,
+    "value": 590,
     "age": 37.1,
-    "trend": "red:58",
-    "superflexValue": 686
+    "trend": "red:59",
+    "superflexValue": 689
   },
   {
     "name": "Charlie Jones",
     "team": "CIN",
     "positionRank": "WR16826.1 y.o.Tier 20",
     "position": "WR",
-    "value": 576,
+    "value": 579,
     "age": 26.1,
-    "trend": "red:14",
-    "superflexValue": 539
+    "trend": "red:7",
+    "superflexValue": 542
   },
   {
     "name": "A.T. PerryFA",
     "team": "",
     "positionRank": "WR16925.1 y.o.Tier 20",
     "position": "WR",
-    "value": 574,
+    "value": 577,
     "age": 25.1,
     "trend": "green:5",
     "superflexValue": 424
   },
   {
+    "name": "Anthony Schwartz",
+    "team": "MIA",
+    "positionRank": "WR17024.2 y.o.Tier 20",
+    "position": "WR",
+    "value": 557,
+    "age": 24.2,
+    "trend": "red:20",
+    "superflexValue": 484
+  },
+  {
     "name": "Justin Shorter",
     "team": "LVR",
-    "positionRank": "WR17024.6 y.o.Tier 20",
+    "positionRank": "WR17124.6 y.o.Tier 20",
     "position": "WR",
     "value": 555,
     "age": 24.6,
-    "trend": "green:48",
+    "trend": "green:59",
     "superflexValue": 523
-  },
-  {
-    "name": "Anthony Schwartz",
-    "team": "MIA",
-    "positionRank": "WR17124.2 y.o.Tier 20",
-    "position": "WR",
-    "value": 554,
-    "age": 24.2,
-    "trend": "red:21",
-    "superflexValue": 481
   },
   {
     "name": "Will Mallory",
     "team": "IND",
     "positionRank": "TE6625.4 y.o.Tier 20",
     "position": "TE",
-    "value": 547,
+    "value": 550,
     "age": 25.4,
     "trend": "green:1",
-    "superflexValue": 490
+    "superflexValue": 499
   },
   {
     "name": "Tip ReimanR",
@@ -4296,7 +4296,7 @@
     "position": "TE",
     "value": 536,
     "age": 23.2,
-    "trend": "red:21",
+    "trend": "red:22",
     "superflexValue": 514
   },
   {
@@ -4306,7 +4306,7 @@
     "position": "RB",
     "value": 523,
     "age": 26.2,
-    "trend": "red:9",
+    "trend": "red:12",
     "superflexValue": 479
   },
   {
@@ -4316,7 +4316,7 @@
     "position": "WR",
     "value": 522,
     "age": 24.8,
-    "trend": "green:9",
+    "trend": "green:10",
     "superflexValue": 414
   },
   {
@@ -4326,7 +4326,7 @@
     "position": "RB",
     "value": 521,
     "age": 33.7,
-    "trend": "red:20",
+    "trend": "red:24",
     "superflexValue": 515
   },
   {
@@ -4344,10 +4344,10 @@
     "team": "TBB",
     "positionRank": "RB10928.6 y.o.Tier 20",
     "position": "RB",
-    "value": 514,
+    "value": 511,
     "age": 28.6,
     "trend": "green:4",
-    "superflexValue": 467
+    "superflexValue": 470
   },
   {
     "name": "Craig Reynolds",
@@ -4356,7 +4356,7 @@
     "position": "RB",
     "value": 501,
     "age": 28.5,
-    "trend": "red:10",
+    "trend": "red:12",
     "superflexValue": 486
   },
   {
@@ -4366,7 +4366,7 @@
     "position": "TE",
     "value": 495,
     "age": 26.6,
-    "trend": "red:11",
+    "trend": "red:5",
     "superflexValue": 505
   },
   {
@@ -4376,8 +4376,8 @@
     "position": "TE",
     "value": 495,
     "age": 30.4,
-    "trend": "red:27",
-    "superflexValue": 0
+    "trend": "red:26",
+    "superflexValue": 489
   },
   {
     "name": "Deven Thompkins",
@@ -4386,47 +4386,47 @@
     "position": "WR",
     "value": 487,
     "age": 24.9,
-    "trend": "green:9",
+    "trend": "green:8",
     "superflexValue": 505
-  },
-  {
-    "name": "Andrew Ogletree",
-    "team": "IND",
-    "positionRank": "TE7026.4 y.o.Tier 20",
-    "position": "TE",
-    "value": 483,
-    "age": 26.4,
-    "trend": "green:2",
-    "superflexValue": 436
   },
   {
     "name": "Brandon Powell",
     "team": "MIN",
     "positionRank": "WR17428.2 y.o.Tier 20",
     "position": "WR",
-    "value": 481,
+    "value": 484,
     "age": 28.2,
-    "trend": "red:27",
+    "trend": "red:25",
     "superflexValue": 585
+  },
+  {
+    "name": "Andrew Ogletree",
+    "team": "IND",
+    "positionRank": "TE7026.4 y.o.Tier 20",
+    "position": "TE",
+    "value": 480,
+    "age": 26.4,
+    "trend": "red:",
+    "superflexValue": 439
   },
   {
     "name": "Jeffery Wilson",
     "team": "MIA",
     "positionRank": "RB11129.0 y.o.Tier 20",
     "position": "RB",
-    "value": 480,
+    "value": 477,
     "age": 29,
-    "trend": "red:39",
-    "superflexValue": 454
+    "trend": "red:38",
+    "superflexValue": 457
   },
   {
     "name": "Ezekiel Elliott",
     "team": "DAL",
     "positionRank": "RB11229.4 y.o.Tier 20",
     "position": "RB",
-    "value": 479,
+    "value": 476,
     "age": 29.4,
-    "trend": "red:64",
+    "trend": "red:71",
     "superflexValue": 468
   },
   {
@@ -4446,7 +4446,7 @@
     "position": "RB",
     "value": 460,
     "age": 28.2,
-    "trend": "red:23",
+    "trend": "red:24",
     "superflexValue": 499
   },
   {
@@ -4456,7 +4456,7 @@
     "position": "RB",
     "value": 453,
     "age": 27,
-    "trend": "green:82",
+    "trend": "green:81",
     "superflexValue": 316
   },
   {
@@ -4466,7 +4466,7 @@
     "position": "WR",
     "value": 447,
     "age": 25.9,
-    "trend": "green:16",
+    "trend": "green:17",
     "superflexValue": 403
   },
   {
@@ -4486,8 +4486,8 @@
     "position": "WR",
     "value": 430,
     "age": 25.3,
-    "trend": "green:2",
-    "superflexValue": 364
+    "trend": "green:3",
+    "superflexValue": 361
   },
   {
     "name": "Deonte Harty",
@@ -4500,59 +4500,49 @@
     "superflexValue": 345
   },
   {
-    "name": "Kadarius Toney",
-    "team": "CLE",
-    "positionRank": "WR17925.8 y.o.Tier 19",
-    "position": "WR",
+    "name": "Joe Flacco",
+    "team": "IND",
+    "positionRank": "QB5339.9 y.o.Tier 20",
+    "position": "QB",
     "value": 420,
-    "age": 25.8,
-    "trend": "red:1",
-    "superflexValue": 455
+    "age": 39.9,
+    "trend": "red:121",
+    "superflexValue": 672
   },
   {
     "name": "Jacoby Brissett",
     "team": "NEP",
-    "positionRank": "QB5332.0 y.o.Tier 19",
+    "positionRank": "QB5432.0 y.o.Tier 20",
     "position": "QB",
     "value": 419,
     "age": 32,
-    "trend": "red:34",
+    "trend": "red:33",
     "superflexValue": 675
   },
   {
-    "name": "Jake Browning",
-    "team": "CIN",
-    "positionRank": "QB5428.6 y.o.Tier 19",
-    "position": "QB",
+    "name": "Kadarius Toney",
+    "team": "CLE",
+    "positionRank": "WR17925.8 y.o.Tier 20",
+    "position": "WR",
     "value": 417,
-    "age": 28.6,
-    "trend": "red:9",
-    "superflexValue": 803
-  },
-  {
-    "name": "Joe Flacco",
-    "team": "IND",
-    "positionRank": "QB5539.9 y.o.Tier 19",
-    "position": "QB",
-    "value": 417,
-    "age": 39.9,
-    "trend": "red:122",
-    "superflexValue": 669
+    "age": 25.8,
+    "trend": "red:2",
+    "superflexValue": 452
   },
   {
     "name": "Mo Alie-Cox",
     "team": "IND",
-    "positionRank": "TE7131.2 y.o.Tier 19",
+    "positionRank": "TE7131.2 y.o.Tier 20",
     "position": "TE",
     "value": 416,
     "age": 31.2,
-    "trend": "red:22",
-    "superflexValue": 444
+    "trend": "red:20",
+    "superflexValue": 441
   },
   {
     "name": "Kenny Pickett",
     "team": "PHI",
-    "positionRank": "QB5626.5 y.o.Tier 19",
+    "positionRank": "QB5626.5 y.o.Tier 20",
     "position": "QB",
     "value": 414,
     "age": 26.5,
@@ -4560,59 +4550,69 @@
     "superflexValue": 889
   },
   {
+    "name": "Jake Browning",
+    "team": "CIN",
+    "positionRank": "QB5528.6 y.o.Tier 20",
+    "position": "QB",
+    "value": 414,
+    "age": 28.6,
+    "trend": "red:11",
+    "superflexValue": 803
+  },
+  {
     "name": "Travis Homer",
     "team": "CHI",
-    "positionRank": "RB11626.3 y.o.Tier 19",
+    "positionRank": "RB11626.3 y.o.Tier 20",
     "position": "RB",
     "value": 413,
     "age": 26.3,
-    "trend": "red:19",
-    "superflexValue": 333
+    "trend": "red:22",
+    "superflexValue": 330
   },
   {
     "name": "Tanner Hudson",
     "team": "CIN",
-    "positionRank": "TE7230.0 y.o.Tier 19",
+    "positionRank": "TE7230.0 y.o.Tier 20",
     "position": "TE",
-    "value": 398,
+    "value": 401,
     "age": 30,
-    "trend": "green:12",
+    "trend": "green:14",
     "superflexValue": 447
   },
   {
     "name": "Bryce Ford-Wheaton",
     "team": "NYG",
-    "positionRank": "WR18024.7 y.o.Tier 19",
+    "positionRank": "WR18024.7 y.o.Tier 20",
     "position": "WR",
-    "value": 396,
+    "value": 399,
     "age": 24.7,
-    "trend": "red:23",
-    "superflexValue": 373
+    "trend": "red:20",
+    "superflexValue": 376
   },
   {
     "name": "Mason Rudolph",
     "team": "TEN",
-    "positionRank": "QB5729.4 y.o.Tier 19",
+    "positionRank": "QB5729.4 y.o.Tier 20",
     "position": "QB",
     "value": 395,
     "age": 29.4,
     "trend": "red:2",
-    "superflexValue": 812
+    "superflexValue": 809
   },
   {
     "name": "Ben Skowronek",
     "team": "PIT",
-    "positionRank": "WR18127.4 y.o.Tier 19",
+    "positionRank": "WR18127.4 y.o.Tier 20",
     "position": "WR",
     "value": 389,
     "age": 27.4,
-    "trend": "red:8",
+    "trend": "red:7",
     "superflexValue": 397
   },
   {
     "name": "Kyle PhilipsFA",
     "team": "",
-    "positionRank": "WR18225.5 y.o.Tier 19",
+    "positionRank": "WR18225.5 y.o.Tier 20",
     "position": "WR",
     "value": 389,
     "age": 25.5,
@@ -4622,17 +4622,17 @@
   {
     "name": "Hunter Long",
     "team": "LAR",
-    "positionRank": "TE7326.3 y.o.Tier 19",
+    "positionRank": "TE7326.3 y.o.Tier 20",
     "position": "TE",
-    "value": 382,
+    "value": 379,
     "age": 26.3,
-    "trend": "red:18",
-    "superflexValue": 359
+    "trend": "red:20",
+    "superflexValue": 356
   },
   {
     "name": "Ian Thomas",
     "team": "CAR",
-    "positionRank": "TE7428.5 y.o.Tier 19",
+    "positionRank": "TE7428.5 y.o.Tier 20",
     "position": "TE",
     "value": 365,
     "age": 28.5,
@@ -4642,127 +4642,127 @@
   {
     "name": "Desmond Ridder",
     "team": "LVR",
-    "positionRank": "QB5825.2 y.o.Tier 19",
+    "positionRank": "QB5825.2 y.o.Tier 20",
     "position": "QB",
     "value": 360,
     "age": 25.2,
-    "trend": "green:38",
+    "trend": "green:44",
     "superflexValue": 905
   },
   {
     "name": "Raheem Blackshear",
     "team": "CAR",
-    "positionRank": "RB11726.5 y.o.Tier 19",
+    "positionRank": "RB11726.5 y.o.Tier 20",
     "position": "RB",
     "value": 355,
     "age": 26.5,
     "trend": "red:11",
-    "superflexValue": 328
+    "superflexValue": 331
   },
   {
     "name": "Cooper Rush",
     "team": "DAL",
-    "positionRank": "QB5931.0 y.o.Tier 19",
+    "positionRank": "QB5931.0 y.o.Tier 20",
     "position": "QB",
     "value": 347,
     "age": 31,
     "trend": "green:119",
-    "superflexValue": 1025
+    "superflexValue": 1016
   },
   {
     "name": "John Bates",
     "team": "WAS",
-    "positionRank": "TE7527.1 y.o.Tier 19",
+    "positionRank": "TE7527.1 y.o.Tier 20",
     "position": "TE",
     "value": 339,
     "age": 27.1,
-    "trend": "red:16",
-    "superflexValue": 294
+    "trend": "red:19",
+    "superflexValue": 297
   },
   {
     "name": "Robert Woods",
     "team": "HOU",
-    "positionRank": "WR18332.6 y.o.Tier 19",
+    "positionRank": "WR18332.6 y.o.Tier 20",
     "position": "WR",
     "value": 338,
     "age": 32.6,
-    "trend": "red:2",
-    "superflexValue": 369
+    "trend": "red:3",
+    "superflexValue": 363
   },
   {
     "name": "Trent Sherfield",
     "team": "MIN",
-    "positionRank": "WR18428.8 y.o.Tier 19",
+    "positionRank": "WR18428.8 y.o.Tier 20",
     "position": "WR",
     "value": 326,
     "age": 28.8,
-    "trend": "red:21",
+    "trend": "red:20",
     "superflexValue": 324
-  },
-  {
-    "name": "Donovan Peoples-JonesFA",
-    "team": "",
-    "positionRank": "WR18525.8 y.o.Tier 19",
-    "position": "WR",
-    "value": 304,
-    "age": 25.8,
-    "trend": "red:13",
-    "superflexValue": 314
   },
   {
     "name": "Odell Beckham",
     "team": "MIA",
-    "positionRank": "WR18632.1 y.o.Tier 19",
+    "positionRank": "WR18532.1 y.o.Tier 20",
     "position": "WR",
-    "value": 303,
+    "value": 309,
     "age": 32.1,
-    "trend": "green:16",
+    "trend": "green:13",
     "superflexValue": 333
   },
   {
     "name": "Evan HullFA",
     "team": "",
-    "positionRank": "RB11824.1 y.o.Tier 19",
+    "positionRank": "RB11824.1 y.o.Tier 20",
     "position": "RB",
-    "value": 301,
+    "value": 304,
     "age": 24.1,
     "trend": "red:39",
-    "superflexValue": 241
+    "superflexValue": 244
+  },
+  {
+    "name": "Donovan Peoples-JonesFA",
+    "team": "",
+    "positionRank": "WR18625.8 y.o.Tier 20",
+    "position": "WR",
+    "value": 301,
+    "age": 25.8,
+    "trend": "red:16",
+    "superflexValue": 314
   },
   {
     "name": "Tyson Bagent",
     "team": "CHI",
-    "positionRank": "QB6024.5 y.o.Tier 19",
+    "positionRank": "QB6024.5 y.o.Tier 20",
     "position": "QB",
     "value": 298,
     "age": 24.5,
-    "trend": "red:1",
-    "superflexValue": 634
+    "trend": "red:",
+    "superflexValue": 637
   },
   {
     "name": "Marquez Callaway",
     "team": "TBB",
-    "positionRank": "WR18726.7 y.o.Tier 19",
+    "positionRank": "WR18726.7 y.o.Tier 20",
     "position": "WR",
-    "value": 294,
+    "value": 291,
     "age": 26.7,
-    "trend": "green:80",
-    "superflexValue": 360
+    "trend": "green:79",
+    "superflexValue": 363
   },
   {
     "name": "Isaiah SpillerFA",
     "team": "",
-    "positionRank": "RB11923.3 y.o.Tier 19",
+    "positionRank": "RB11923.3 y.o.Tier 20",
     "position": "RB",
     "value": 272,
     "age": 23.3,
-    "trend": "green:6",
+    "trend": "red:4",
     "superflexValue": 235
   },
   {
     "name": "Davis Mills",
     "team": "HOU",
-    "positionRank": "QB6126.1 y.o.Tier 19",
+    "positionRank": "QB6126.1 y.o.Tier 20",
     "position": "QB",
     "value": 224,
     "age": 26.1,
@@ -4772,47 +4772,37 @@
   {
     "name": "Durham Smythe",
     "team": "MIA",
-    "positionRank": "TE7629.3 y.o.Tier 19",
+    "positionRank": "TE7629.3 y.o.Tier 20",
     "position": "TE",
     "value": 224,
     "age": 29.3,
-    "trend": "red:8",
+    "trend": "red:9",
     "superflexValue": 211
-  },
-  {
-    "name": "Zach Pascal",
-    "team": "ARI",
-    "positionRank": "WR18930.0 y.o.Tier 19",
-    "position": "WR",
-    "value": 220,
-    "age": 30,
-    "trend": "red:19",
-    "superflexValue": 207
   },
   {
     "name": "Nyheim Hines",
     "team": "CLE",
-    "positionRank": "RB12328.0 y.o.Tier 19",
+    "positionRank": "RB12228.0 y.o.Tier 20",
     "position": "RB",
-    "value": 216,
+    "value": 219,
     "age": 28,
     "trend": "red:24",
     "superflexValue": 202
   },
   {
-    "name": "Braxton Berrios",
-    "team": "MIA",
-    "positionRank": "WR19029.2 y.o.Tier 19",
+    "name": "Zach Pascal",
+    "team": "ARI",
+    "positionRank": "WR18930.0 y.o.Tier 20",
     "position": "WR",
-    "value": 215,
-    "age": 29.2,
-    "trend": "red:13",
-    "superflexValue": 242
+    "value": 217,
+    "age": 30,
+    "trend": "red:22",
+    "superflexValue": 201
   },
   {
     "name": "Joshua Dobbs",
     "team": "SFO",
-    "positionRank": "QB6229.8 y.o.Tier 19",
+    "positionRank": "QB6229.8 y.o.Tier 20",
     "position": "QB",
     "value": 214,
     "age": 29.8,
@@ -4820,29 +4810,39 @@
     "superflexValue": 528
   },
   {
+    "name": "Braxton Berrios",
+    "team": "MIA",
+    "positionRank": "WR19229.2 y.o.Tier 20",
+    "position": "WR",
+    "value": 212,
+    "age": 29.2,
+    "trend": "red:17",
+    "superflexValue": 242
+  },
+  {
     "name": "Albert OkwuegbunamFA",
     "team": "",
-    "positionRank": "TE7726.6 y.o.Tier 19",
+    "positionRank": "TE7726.6 y.o.Tier 20",
     "position": "TE",
     "value": 206,
     "age": 26.6,
-    "trend": "red:76",
-    "superflexValue": 199
+    "trend": "red:77",
+    "superflexValue": 202
   },
   {
     "name": "Stetson Bennett",
     "team": "LAR",
-    "positionRank": "QB6327.1 y.o.Tier 19",
+    "positionRank": "QB6327.1 y.o.Tier 20",
     "position": "QB",
-    "value": 202,
+    "value": 205,
     "age": 27.1,
     "trend": "green:33",
-    "superflexValue": 502
+    "superflexValue": 499
   },
   {
     "name": "Bailey Zappe",
     "team": "CLE",
-    "positionRank": "QB6425.6 y.o.Tier 19",
+    "positionRank": "QB6425.6 y.o.Tier 20",
     "position": "QB",
     "value": 199,
     "age": 25.6,
@@ -4852,37 +4852,37 @@
   {
     "name": "Parris Campbell",
     "team": "PHI",
-    "positionRank": "WR19327.4 y.o.Tier 19",
+    "positionRank": "WR19327.4 y.o.Tier 20",
     "position": "WR",
     "value": 173,
     "age": 27.4,
-    "trend": "red:40",
-    "superflexValue": 195
-  },
-  {
-    "name": "Skylar Thompson",
-    "team": "MIA",
-    "positionRank": "QB6627.5 y.o.Tier 19",
-    "position": "QB",
-    "value": 167,
-    "age": 27.5,
-    "trend": "red:28",
-    "superflexValue": 273
+    "trend": "red:41",
+    "superflexValue": 198
   },
   {
     "name": "Taylor Heinicke",
     "team": "LAC",
-    "positionRank": "QB6731.7 y.o.Tier 19",
+    "positionRank": "QB6631.7 y.o.Tier 20",
     "position": "QB",
-    "value": 166,
+    "value": 169,
     "age": 31.7,
-    "trend": "red:6",
-    "superflexValue": 292
+    "trend": "red:3",
+    "superflexValue": 289
+  },
+  {
+    "name": "Skylar Thompson",
+    "team": "MIA",
+    "positionRank": "QB6727.5 y.o.Tier 20",
+    "position": "QB",
+    "value": 167,
+    "age": 27.5,
+    "trend": "red:30",
+    "superflexValue": 273
   },
   {
     "name": "Tyrod Taylor",
     "team": "NYJ",
-    "positionRank": "QB6835.3 y.o.Tier 19",
+    "positionRank": "QB6835.3 y.o.Tier 20",
     "position": "QB",
     "value": 164,
     "age": 35.3,
@@ -4890,39 +4890,39 @@
     "superflexValue": 385
   },
   {
-    "name": "Clayton Tune",
-    "team": "ARI",
-    "positionRank": "QB7125.7 y.o.Tier 19",
-    "position": "QB",
-    "value": 163,
-    "age": 25.7,
-    "trend": "green:10",
-    "superflexValue": 283
-  },
-  {
     "name": "Mitchell Trubisky",
     "team": "BUF",
-    "positionRank": "QB7030.3 y.o.Tier 19",
+    "positionRank": "QB7030.3 y.o.Tier 20",
     "position": "QB",
     "value": 163,
     "age": 30.3,
-    "trend": "green:15",
-    "superflexValue": 277
+    "trend": "green:26",
+    "superflexValue": 280
+  },
+  {
+    "name": "Clayton Tune",
+    "team": "ARI",
+    "positionRank": "QB7125.7 y.o.Tier 20",
+    "position": "QB",
+    "value": 163,
+    "age": 25.7,
+    "trend": "green:12",
+    "superflexValue": 283
   },
   {
     "name": "Kyle Trask",
     "team": "TBB",
-    "positionRank": "QB7426.7 y.o.Tier 19",
+    "positionRank": "QB7426.7 y.o.Tier 20",
     "position": "QB",
     "value": 162,
     "age": 26.7,
-    "trend": "red:16",
+    "trend": "red:12",
     "superflexValue": 537
   },
   {
     "name": "Jimmy Garoppolo",
     "team": "LAR",
-    "positionRank": "QB7233.1 y.o.Tier 19",
+    "positionRank": "QB7233.1 y.o.Tier 20",
     "position": "QB",
     "value": 162,
     "age": 33.1,
@@ -4932,27 +4932,27 @@
   {
     "name": "Sam Ehlinger",
     "team": "IND",
-    "positionRank": "QB7526.2 y.o.Tier 19",
+    "positionRank": "QB7526.2 y.o.Tier 20",
     "position": "QB",
     "value": 161,
     "age": 26.2,
-    "trend": "green:5",
-    "superflexValue": 241
+    "trend": "green:4",
+    "superflexValue": 244
   },
   {
     "name": "Jarrett Stidham",
     "team": "DEN",
-    "positionRank": "QB7728.3 y.o.Tier 19",
+    "positionRank": "QB7728.3 y.o.Tier 20",
     "position": "QB",
     "value": 158,
     "age": 28.3,
-    "trend": "red:46",
-    "superflexValue": 441
+    "trend": "red:51",
+    "superflexValue": 438
   },
   {
     "name": "Donald ParhamFA",
     "team": "",
-    "positionRank": "TE8127.3 y.o.Tier 19",
+    "positionRank": "TE8127.3 y.o.Tier 20",
     "position": "TE",
     "value": 158,
     "age": 27.3,
@@ -4962,37 +4962,37 @@
   {
     "name": "Carson Wentz",
     "team": "KCC",
-    "positionRank": "QB7831.9 y.o.Tier 19",
+    "positionRank": "QB7831.9 y.o.Tier 20",
     "position": "QB",
     "value": 154,
     "age": 31.9,
-    "trend": "green:9",
+    "trend": "green:8",
     "superflexValue": 228
   },
   {
     "name": "Nick Mullens",
     "team": "MIN",
-    "positionRank": "QB7929.7 y.o.Tier 19",
+    "positionRank": "QB7929.7 y.o.Tier 20",
     "position": "QB",
     "value": 146,
     "age": 29.7,
     "trend": "green:8",
-    "superflexValue": 315
+    "superflexValue": 312
   },
   {
     "name": "Marcus Mariota",
     "team": "WAS",
-    "positionRank": "QB8031.1 y.o.Tier 19",
+    "positionRank": "QB8031.1 y.o.Tier 20",
     "position": "QB",
     "value": 130,
     "age": 31.1,
     "trend": "red:",
-    "superflexValue": 651
+    "superflexValue": 648
   },
   {
     "name": "Jake Haener",
     "team": "NOS",
-    "positionRank": "QB8425.7 y.o.Tier 19",
+    "positionRank": "QB8425.7 y.o.Tier 20",
     "position": "QB",
     "value": 100,
     "age": 25.7,

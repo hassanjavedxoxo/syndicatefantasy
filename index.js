@@ -39,6 +39,11 @@ app.use('/api/webscrap', webScrapRoute);
 app.use('/api/database', tradeDatabaseRoute);
 app.use('/api/sleeperPlayers', sleeperPlayersRoute);
 
+app.get('*', (req, res) => {
+    res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
+});
+
+
 // Config File
 const connectDB = require('./config');
 
