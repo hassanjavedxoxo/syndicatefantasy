@@ -6,8 +6,8 @@ async function scrapePlayerData() {
     let browser;
     try {
         browser = await puppeteer.launch({
-            headless: true, // Use false for debugging
-            args: ['--no-sandbox', '--disable-setuid-sandbox'],
+            executablePath: '/usr/bin/chromium-browser',
+            args: ['--no-sandbox', '--disable-setuid-sandbox']
         });
         const page = await browser.newPage();
 

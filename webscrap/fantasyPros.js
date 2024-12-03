@@ -3,7 +3,12 @@ const puppeteer = require('puppeteer');
 const scrapeData = async () => {
     try {
         // Launch Puppeteer browser instance
-        const browser = await puppeteer.launch({ headless: true });
+        const browser = await puppeteer.launch({
+            executablePath: '/usr/bin/chromium-browser',
+            args: ['--no-sandbox', '--disable-setuid-sandbox'],
+            headless: true
+        });
+        
         const page = await browser.newPage();
 
         // Navigate to the FantasyPros page
