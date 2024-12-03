@@ -1,14 +1,12 @@
 // To access the values in .env file
 require('dotenv').config();
 
-
 // Packages
 const express = require('express');
 const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 const chalk = require('chalk');
-
 
 // Importing routes
 const redraftRankingRoute = require('./routes/redraftRankingRoute');
@@ -19,21 +17,17 @@ const webScrapRoute = require('./routes/webScrapRoute');
 const tradeDatabaseRoute = require('./routes/tradeDatabaseRoute');
 const sleeperPlayersRoute = require('./routes/sleeperPlayerRoute');
 
-
 // Serve images statically
 app.use('/uploads', express.static('uploads'));
-
+app.use('/', express.static('build'));
 
 // Middleware to parse JSON bodies
 app.use(express.json());
 // Parse URL-encoded form data
 app.use(express.urlencoded({ extended: true }));
 
-
-// For calling api from other than our domail
+// For calling api from other than our domain
 app.use(cors());
-
-
 
 // Using routes
 app.use('/api/redraft-ranking', redraftRankingRoute);
@@ -44,82 +38,70 @@ app.use('/api/webscrap', webScrapRoute);
 app.use('/api/database', tradeDatabaseRoute);
 app.use('/api/sleeperPlayers', sleeperPlayersRoute);
 
-
-
 // Config File
-
 const connectDB = require('./config');
-
-
 
 require('./webscrap/ktc');
 
-// Run matchup scraping 1 min after ktc
+// Run matchup scraping 3 min after ktc
 setTimeout(() => {
     require('./webscrap/start&sit');
-}, 60000);  // Delay of 1 minute
-
-// Run projectionPpr scraping after 2 min
-setTimeout(() => {
-    require('./webscrap/projectionPpr');
-}, 120000);  // Delay of 2 minutes
-
-// Run projectionStd scraping after 3 min
-setTimeout(() => {
-    require('./webscrap/projectionStd');
 }, 180000);  // Delay of 3 minutes
 
-// Run projectionHalf scraping after 4 min
+// Run projectionPpr scraping after 6 min
 setTimeout(() => {
-    require('./webscrap/projectionHalf');
-}, 240000);  // Delay of 4 minutes
-
-// Run pastProduction scraping after 5 min
-setTimeout(() => {
-    require('./webscrap/pastProduction');
-}, 300000);  // Delay of 5 minutes
-
-// Run bettingData scraping after 6 min
-setTimeout(() => {
-    require('./webscrap/bettingData');
+    require('./webscrap/projectionPpr');
 }, 360000);  // Delay of 6 minutes
 
-// Run dynastyProcess scraping after 7 min
+// Run projectionStd scraping after 9 min
+setTimeout(() => {
+    require('./webscrap/projectionStd');
+}, 540000);  // Delay of 9 minutes
+
+// Run projectionHalf scraping after 12 min
+setTimeout(() => {
+    require('./webscrap/projectionHalf');
+}, 720000);  // Delay of 12 minutes
+
+// Run pastProduction scraping after 15 min
+setTimeout(() => {
+    require('./webscrap/pastProduction');
+}, 900000);  // Delay of 15 minutes
+
+// Run bettingData scraping after 18 min
+setTimeout(() => {
+    require('./webscrap/bettingData');
+}, 1080000);  // Delay of 18 minutes
+
+// Run dynastyProcess scraping after 21 min
 setTimeout(() => {
     require('./webscrap/dynastyProcess');    
-}, 420000); // Delay of 7 minutes
+}, 1260000); // Delay of 21 minutes
 
-// Run SleeperPlayer API after 8 min
+// Run SleeperPlayer API after 24 min
 setTimeout(() => {
     require('./sleeperPlayers/getPlayers');  
-}, 480000); // Delay of 8 minutes
+}, 1440000); // Delay of 24 minutes
 
-// Run fantasyPros API after 9 min
+// Run fantasyPros API after 27 min
 setTimeout(() => {
     require('./webscrap/fantasyPros');
-}, 540000); // Delay of 9 minutes
+}, 1620000); // Delay of 27 minutes
 
-// Run OpponentRushingYard scrap after 10 min
+// Run OpponentRushingYard scrap after 30 min
 setTimeout(() => {
     require('./webscrap/opponentRushigYard');
-}, 600000); // Delay of 10 minutes
+}, 1800000); // Delay of 30 minutes
 
-
-// Run OpponentPassingYard scrap after 10 min
+// Run OpponentPassingYard scrap after 33 min
 setTimeout(() => {
     require('./webscrap/opponentPassingYard');
-}, 660000); // Delay of 11 minutes
+}, 1980000); // Delay of 33 minutes
 
-
-// Run OpponentPointsPerGame scrap after 10 min
+// Run OpponentPointsPerGame scrap after 36 min
 setTimeout(() => {
     require('./webscrap/opponentPointsPerGame');
-}, 720000); // Delay of 12 minutes
-
-
-
-
-
+}, 2160000); // Delay of 36 minutes
 
 connectDB.then(() => {
     console.log(chalk.green.inverse('CONNECTED TO MONGODB'));
