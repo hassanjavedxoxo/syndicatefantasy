@@ -13,19 +13,25 @@ async function scrapeOdds() {
 
         console.log('Extracting odds data...');
         const oddsArray = [];
+        const allowedKeys = [
+            'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 
+            'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 
+            'fifteen', 'sixteen'
+        ];
 
         $('tr').each((index, row) => {
             const rowData = {};
 
             // Extract spread, line, and logo data
             $(row).find('div[data-testid="book-cell__odds"]').each((idx, div) => {
-                const spread = $(div).find('.css-1qynun2').text().trim() || null;
-                const line = $(div).find('.book-cell__secondary').text().trim() || null;
-                const logo = $(div).find('span img').attr('src') || null;
+                if (idx < allowedKeys.length) {
+                    const spread = $(div).find('.css-1qynun2').text().trim() || null;
+                    const line = $(div).find('.book-cell__secondary').text().trim() || null;
+                    const logo = $(div).find('span img').attr('src') || null;
 
-                // Map each div to a key like 'one', 'two', etc.
-                const key = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'][idx] || `extra${idx}`;
-                rowData[key] = { spread, line, logo };
+                    const key = allowedKeys[idx];
+                    rowData[key] = { spread, line, logo };
+                }
             });
 
             // Extract team names
