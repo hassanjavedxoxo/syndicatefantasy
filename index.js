@@ -20,7 +20,7 @@ const sleeperPlayersRoute = require('./routes/sleeperPlayerRoute');
 
 // Serve images statically
 app.use('/uploads', express.static('uploads'));
-app.use('/', express.static(path.join(__dirname, 'client')));
+app.use('/', express.static(path.join(__dirname, 'build')));
 
 // Middleware to parse JSON bodies
 app.use(express.json());
@@ -40,13 +40,11 @@ app.use('/api/database', tradeDatabaseRoute);
 app.use('/api/sleeperPlayers', sleeperPlayersRoute);
 
 app.get('*', (req, res) => {
-    res.sendFile(path.resolve(__dirname, 'client', 'index.html'));
+    res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
 });
 
 // Config File
 const connectDB = require('./config');
-
-require('./webscrap/ktc');
 
 // Define a function to run the scraping tasks in sequence with a delay of 2 minutes between each
 function runScrapingTasks() {
@@ -104,6 +102,11 @@ function runScrapingTasks() {
     setTimeout(() => {
         require('./webscrap/opponentPointsPerGame');
     }, 20 * 60 * 1000);  // 20 minutes delay
+
+    // Task 12: Run OpponentPointsPerGame scraping after 22 minutes (11 * 2 * 60 * 1000 ms)
+    setTimeout(() => {
+        require('./webscrap/ktc');
+    }, 22 * 60 * 1000);  // 22 minutes delay
 }
 
 // Run the scraping tasks when the server starts

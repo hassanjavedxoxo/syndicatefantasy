@@ -20,8 +20,26 @@ async function scrapeKTC() {
 
       if (playerNameWithTeam) {
         // Split the player name from the team abbreviation
-        const playerName = playerNameWithTeam.replace(/[A-Z]{3}$/, '').trim(); // Remove 3-letter team code from the end
-        const teamAbbreviation = playerNameWithTeam.replace(playerName, '').trim(); // Extract the team code
+        const playerName = playerNameWithTeam
+          .replace(/[A-Z]{3}$/, '') // Remove the 3-letter team code from the end
+          .replace(/R$/, '') // Remove a capital 'R' at the end if present
+          .trim(); // Trim any extra spaces
+
+          const playerNameWithRookie = playerNameWithTeam
+          .replace(/[A-Z]{3}$/, '') // Remove the 3-letter team code from the end
+          .trim(); // Trim any extra spaces
+
+          let teamAbbreviation = playerNameWithTeam.replace(playerName, '').trim(); // Extract the team code
+
+          let isRookie;
+
+          // If the team abbreviation has 4 letters, remove the first character
+          if (teamAbbreviation.length === 4) {
+            teamAbbreviation = teamAbbreviation.slice(1); // Remove the first character
+            isRookie = true
+          } else {
+            isRookie = false
+          }
 
         allElements.push(playerElement);
 
@@ -31,9 +49,9 @@ async function scrapeKTC() {
         const playerAgeText = $(playerElement).find('.position.hidden-xs').text().trim();
         const playerAge = playerAgeText ? parseFloat(playerAgeText.slice(0, 4)) : 0;
         const playerPosition = playerPositionRank.slice(0, 2);  // Extract the position
-        const trend = $(playerElement).find('.trend-up').text().trim() || +$(playerElement).find('.trend-down').text().trim()
 
         const playerData = {
+          'nameWithRookie': playerNameWithRookie,
           'name': playerName,
           'team': teamAbbreviation, // Add team abbreviation
           'positionRank': playerPositionRank,
@@ -42,6 +60,7 @@ async function scrapeKTC() {
           'age': playerAge,
           'trend': $(playerElement).find('.trend-up').text().trim() ? `green:${$(playerElement).find('.trend-up').text().trim()}` : `red:${$(playerElement).find('.trend-down').text().trim()}`,
           'superflexValue': 0, // Default value, will be updated below
+          'isRookie': isRookie
         };
 
         if (playerName) {
@@ -72,7 +91,7 @@ async function scrapeSuperflexData(players) {
       const teamAbbreviation = playerNameWithTeam.replace(playerName, '').trim(); // Extract the team code
 
       players.forEach(player => {
-        if (player['name'] === playerName && player['team'] === teamAbbreviation) {
+        if (player['nameWithRookie'] === playerName && player['team'] === teamAbbreviation) {
           player['superflexValue'] = parseInt(playerValue); // Set SFValue
         }
       });

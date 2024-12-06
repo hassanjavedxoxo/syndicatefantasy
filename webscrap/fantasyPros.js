@@ -11,15 +11,16 @@ async function scrapeData() {
         // Load the HTML into Cheerio
         const $ = cheerio.load(html);
 
-        // Select all table rows, excluding the header row
-        const rows = $('table tr').not(':first-child');
+        // Select all table rows
+        const rows = $('table tr');
+
         const results = [];
 
         rows.each((index, row) => {
             const cells = $(row).find('td');
 
-            // Only process rows that contain data
-            if (cells.length > 1) {
+            // Only process rows that contain data (skip rows without <td>)
+            if (cells.length > 0) {
                 results.push({
                     team: $(cells[0]).text().trim(),
                     column1: $(cells[1]).text().trim(),
